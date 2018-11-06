@@ -16,7 +16,7 @@ while d*d <= N:                              # enough to test only d <= sqrt(N)
     if r == 0:                               # No remainder?
         is_prime = False                     # .. we got a composite for sure!
         c = c + 1
-        print("[ {0} = {1} * _{2}_ ] PROVED COMPOSITE".format(N,d,q)) 
+        print("[ {0} = {1} * _{2}_ ] PROVED COMPOSITE".format(N,q,d)) 
     else:
         print("   ", r * "*")                # .. for now: only display remainder
         print("[ {0} = {1} * _{2}_ + {3} ]".format(N,q,d,r)) 

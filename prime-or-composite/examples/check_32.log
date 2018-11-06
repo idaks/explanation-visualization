@@ -16,7 +16,7 @@
  14 oo
  15 oo
  16 oo
-[ 32 = 2 * _16_ ] PROVED COMPOSITE
+[ 32 = 16 * _2_ ] PROVED COMPOSITE
 
   1 ooo
   2 ooo
@@ -39,7 +39,7 @@
   6 oooo
   7 oooo
   8 oooo
-[ 32 = 4 * _8_ ] PROVED COMPOSITE
+[ 32 = 8 * _4_ ] PROVED COMPOSITE
 
   1 ooooo
   2 ooooo

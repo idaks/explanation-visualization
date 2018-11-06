@@ -12,7 +12,7 @@
  10 oo
  11 oo
  12 oo
-[ 24 = 2 * _12_ ] PROVED COMPOSITE
+[ 24 = 12 * _2_ ] PROVED COMPOSITE
 
   1 ooo
   2 ooo
@@ -22,7 +22,7 @@
   6 ooo
   7 ooo
   8 ooo
-[ 24 = 3 * _8_ ] PROVED COMPOSITE
+[ 24 = 8 * _3_ ] PROVED COMPOSITE
 
   1 oooo
   2 oooo
@@ -30,6 +30,6 @@
   4 oooo
   5 oooo
   6 oooo
-[ 24 = 4 * _6_ ] PROVED COMPOSITE
+[ 24 = 6 * _4_ ] PROVED COMPOSITE
 
 PROVED 24 is COMPOSITE 3 times!
