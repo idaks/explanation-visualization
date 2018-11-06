@@ -1,0 +1,6038 @@
+### Running ./prime-or-composite.py 1783 ###
+
+  1 oo
+  2 oo
+  3 oo
+  4 oo
+  5 oo
+  6 oo
+  7 oo
+  8 oo
+  9 oo
+ 10 oo
+ 11 oo
+ 12 oo
+ 13 oo
+ 14 oo
+ 15 oo
+ 16 oo
+ 17 oo
+ 18 oo
+ 19 oo
+ 20 oo
+ 21 oo
+ 22 oo
+ 23 oo
+ 24 oo
+ 25 oo
+ 26 oo
+ 27 oo
+ 28 oo
+ 29 oo
+ 30 oo
+ 31 oo
+ 32 oo
+ 33 oo
+ 34 oo
+ 35 oo
+ 36 oo
+ 37 oo
+ 38 oo
+ 39 oo
+ 40 oo
+ 41 oo
+ 42 oo
+ 43 oo
+ 44 oo
+ 45 oo
+ 46 oo
+ 47 oo
+ 48 oo
+ 49 oo
+ 50 oo
+ 51 oo
+ 52 oo
+ 53 oo
+ 54 oo
+ 55 oo
+ 56 oo
+ 57 oo
+ 58 oo
+ 59 oo
+ 60 oo
+ 61 oo
+ 62 oo
+ 63 oo
+ 64 oo
+ 65 oo
+ 66 oo
+ 67 oo
+ 68 oo
+ 69 oo
+ 70 oo
+ 71 oo
+ 72 oo
+ 73 oo
+ 74 oo
+ 75 oo
+ 76 oo
+ 77 oo
+ 78 oo
+ 79 oo
+ 80 oo
+ 81 oo
+ 82 oo
+ 83 oo
+ 84 oo
+ 85 oo
+ 86 oo
+ 87 oo
+ 88 oo
+ 89 oo
+ 90 oo
+ 91 oo
+ 92 oo
+ 93 oo
+ 94 oo
+ 95 oo
+ 96 oo
+ 97 oo
+ 98 oo
+ 99 oo
+100 oo
+101 oo
+102 oo
+103 oo
+104 oo
+105 oo
+106 oo
+107 oo
+108 oo
+109 oo
+110 oo
+111 oo
+112 oo
+113 oo
+114 oo
+115 oo
+116 oo
+117 oo
+118 oo
+119 oo
+120 oo
+121 oo
+122 oo
+123 oo
+124 oo
+125 oo
+126 oo
+127 oo
+128 oo
+129 oo
+130 oo
+131 oo
+132 oo
+133 oo
+134 oo
+135 oo
+136 oo
+137 oo
+138 oo
+139 oo
+140 oo
+141 oo
+142 oo
+143 oo
+144 oo
+145 oo
+146 oo
+147 oo
+148 oo
+149 oo
+150 oo
+151 oo
+152 oo
+153 oo
+154 oo
+155 oo
+156 oo
+157 oo
+158 oo
+159 oo
+160 oo
+161 oo
+162 oo
+163 oo
+164 oo
+165 oo
+166 oo
+167 oo
+168 oo
+169 oo
+170 oo
+171 oo
+172 oo
+173 oo
+174 oo
+175 oo
+176 oo
+177 oo
+178 oo
+179 oo
+180 oo
+181 oo
+182 oo
+183 oo
+184 oo
+185 oo
+186 oo
+187 oo
+188 oo
+189 oo
+190 oo
+191 oo
+192 oo
+193 oo
+194 oo
+195 oo
+196 oo
+197 oo
+198 oo
+199 oo
+200 oo
+201 oo
+202 oo
+203 oo
+204 oo
+205 oo
+206 oo
+207 oo
+208 oo
+209 oo
+210 oo
+211 oo
+212 oo
+213 oo
+214 oo
+215 oo
+216 oo
+217 oo
+218 oo
+219 oo
+220 oo
+221 oo
+222 oo
+223 oo
+224 oo
+225 oo
+226 oo
+227 oo
+228 oo
+229 oo
+230 oo
+231 oo
+232 oo
+233 oo
+234 oo
+235 oo
+236 oo
+237 oo
+238 oo
+239 oo
+240 oo
+241 oo
+242 oo
+243 oo
+244 oo
+245 oo
+246 oo
+247 oo
+248 oo
+249 oo
+250 oo
+251 oo
+252 oo
+253 oo
+254 oo
+255 oo
+256 oo
+257 oo
+258 oo
+259 oo
+260 oo
+261 oo
+262 oo
+263 oo
+264 oo
+265 oo
+266 oo
+267 oo
+268 oo
+269 oo
+270 oo
+271 oo
+272 oo
+273 oo
+274 oo
+275 oo
+276 oo
+277 oo
+278 oo
+279 oo
+280 oo
+281 oo
+282 oo
+283 oo
+284 oo
+285 oo
+286 oo
+287 oo
+288 oo
+289 oo
+290 oo
+291 oo
+292 oo
+293 oo
+294 oo
+295 oo
+296 oo
+297 oo
+298 oo
+299 oo
+300 oo
+301 oo
+302 oo
+303 oo
+304 oo
+305 oo
+306 oo
+307 oo
+308 oo
+309 oo
+310 oo
+311 oo
+312 oo
+313 oo
+314 oo
+315 oo
+316 oo
+317 oo
+318 oo
+319 oo
+320 oo
+321 oo
+322 oo
+323 oo
+324 oo
+325 oo
+326 oo
+327 oo
+328 oo
+329 oo
+330 oo
+331 oo
+332 oo
+333 oo
+334 oo
+335 oo
+336 oo
+337 oo
+338 oo
+339 oo
+340 oo
+341 oo
+342 oo
+343 oo
+344 oo
+345 oo
+346 oo
+347 oo
+348 oo
+349 oo
+350 oo
+351 oo
+352 oo
+353 oo
+354 oo
+355 oo
+356 oo
+357 oo
+358 oo
+359 oo
+360 oo
+361 oo
+362 oo
+363 oo
+364 oo
+365 oo
+366 oo
+367 oo
+368 oo
+369 oo
+370 oo
+371 oo
+372 oo
+373 oo
+374 oo
+375 oo
+376 oo
+377 oo
+378 oo
+379 oo
+380 oo
+381 oo
+382 oo
+383 oo
+384 oo
+385 oo
+386 oo
+387 oo
+388 oo
+389 oo
+390 oo
+391 oo
+392 oo
+393 oo
+394 oo
+395 oo
+396 oo
+397 oo
+398 oo
+399 oo
+400 oo
+401 oo
+402 oo
+403 oo
+404 oo
+405 oo
+406 oo
+407 oo
+408 oo
+409 oo
+410 oo
+411 oo
+412 oo
+413 oo
+414 oo
+415 oo
+416 oo
+417 oo
+418 oo
+419 oo
+420 oo
+421 oo
+422 oo
+423 oo
+424 oo
+425 oo
+426 oo
+427 oo
+428 oo
+429 oo
+430 oo
+431 oo
+432 oo
+433 oo
+434 oo
+435 oo
+436 oo
+437 oo
+438 oo
+439 oo
+440 oo
+441 oo
+442 oo
+443 oo
+444 oo
+445 oo
+446 oo
+447 oo
+448 oo
+449 oo
+450 oo
+451 oo
+452 oo
+453 oo
+454 oo
+455 oo
+456 oo
+457 oo
+458 oo
+459 oo
+460 oo
+461 oo
+462 oo
+463 oo
+464 oo
+465 oo
+466 oo
+467 oo
+468 oo
+469 oo
+470 oo
+471 oo
+472 oo
+473 oo
+474 oo
+475 oo
+476 oo
+477 oo
+478 oo
+479 oo
+480 oo
+481 oo
+482 oo
+483 oo
+484 oo
+485 oo
+486 oo
+487 oo
+488 oo
+489 oo
+490 oo
+491 oo
+492 oo
+493 oo
+494 oo
+495 oo
+496 oo
+497 oo
+498 oo
+499 oo
+500 oo
+501 oo
+502 oo
+503 oo
+504 oo
+505 oo
+506 oo
+507 oo
+508 oo
+509 oo
+510 oo
+511 oo
+512 oo
+513 oo
+514 oo
+515 oo
+516 oo
+517 oo
+518 oo
+519 oo
+520 oo
+521 oo
+522 oo
+523 oo
+524 oo
+525 oo
+526 oo
+527 oo
+528 oo
+529 oo
+530 oo
+531 oo
+532 oo
+533 oo
+534 oo
+535 oo
+536 oo
+537 oo
+538 oo
+539 oo
+540 oo
+541 oo
+542 oo
+543 oo
+544 oo
+545 oo
+546 oo
+547 oo
+548 oo
+549 oo
+550 oo
+551 oo
+552 oo
+553 oo
+554 oo
+555 oo
+556 oo
+557 oo
+558 oo
+559 oo
+560 oo
+561 oo
+562 oo
+563 oo
+564 oo
+565 oo
+566 oo
+567 oo
+568 oo
+569 oo
+570 oo
+571 oo
+572 oo
+573 oo
+574 oo
+575 oo
+576 oo
+577 oo
+578 oo
+579 oo
+580 oo
+581 oo
+582 oo
+583 oo
+584 oo
+585 oo
+586 oo
+587 oo
+588 oo
+589 oo
+590 oo
+591 oo
+592 oo
+593 oo
+594 oo
+595 oo
+596 oo
+597 oo
+598 oo
+599 oo
+600 oo
+601 oo
+602 oo
+603 oo
+604 oo
+605 oo
+606 oo
+607 oo
+608 oo
+609 oo
+610 oo
+611 oo
+612 oo
+613 oo
+614 oo
+615 oo
+616 oo
+617 oo
+618 oo
+619 oo
+620 oo
+621 oo
+622 oo
+623 oo
+624 oo
+625 oo
+626 oo
+627 oo
+628 oo
+629 oo
+630 oo
+631 oo
+632 oo
+633 oo
+634 oo
+635 oo
+636 oo
+637 oo
+638 oo
+639 oo
+640 oo
+641 oo
+642 oo
+643 oo
+644 oo
+645 oo
+646 oo
+647 oo
+648 oo
+649 oo
+650 oo
+651 oo
+652 oo
+653 oo
+654 oo
+655 oo
+656 oo
+657 oo
+658 oo
+659 oo
+660 oo
+661 oo
+662 oo
+663 oo
+664 oo
+665 oo
+666 oo
+667 oo
+668 oo
+669 oo
+670 oo
+671 oo
+672 oo
+673 oo
+674 oo
+675 oo
+676 oo
+677 oo
+678 oo
+679 oo
+680 oo
+681 oo
+682 oo
+683 oo
+684 oo
+685 oo
+686 oo
+687 oo
+688 oo
+689 oo
+690 oo
+691 oo
+692 oo
+693 oo
+694 oo
+695 oo
+696 oo
+697 oo
+698 oo
+699 oo
+700 oo
+701 oo
+702 oo
+703 oo
+704 oo
+705 oo
+706 oo
+707 oo
+708 oo
+709 oo
+710 oo
+711 oo
+712 oo
+713 oo
+714 oo
+715 oo
+716 oo
+717 oo
+718 oo
+719 oo
+720 oo
+721 oo
+722 oo
+723 oo
+724 oo
+725 oo
+726 oo
+727 oo
+728 oo
+729 oo
+730 oo
+731 oo
+732 oo
+733 oo
+734 oo
+735 oo
+736 oo
+737 oo
+738 oo
+739 oo
+740 oo
+741 oo
+742 oo
+743 oo
+744 oo
+745 oo
+746 oo
+747 oo
+748 oo
+749 oo
+750 oo
+751 oo
+752 oo
+753 oo
+754 oo
+755 oo
+756 oo
+757 oo
+758 oo
+759 oo
+760 oo
+761 oo
+762 oo
+763 oo
+764 oo
+765 oo
+766 oo
+767 oo
+768 oo
+769 oo
+770 oo
+771 oo
+772 oo
+773 oo
+774 oo
+775 oo
+776 oo
+777 oo
+778 oo
+779 oo
+780 oo
+781 oo
+782 oo
+783 oo
+784 oo
+785 oo
+786 oo
+787 oo
+788 oo
+789 oo
+790 oo
+791 oo
+792 oo
+793 oo
+794 oo
+795 oo
+796 oo
+797 oo
+798 oo
+799 oo
+800 oo
+801 oo
+802 oo
+803 oo
+804 oo
+805 oo
+806 oo
+807 oo
+808 oo
+809 oo
+810 oo
+811 oo
+812 oo
+813 oo
+814 oo
+815 oo
+816 oo
+817 oo
+818 oo
+819 oo
+820 oo
+821 oo
+822 oo
+823 oo
+824 oo
+825 oo
+826 oo
+827 oo
+828 oo
+829 oo
+830 oo
+831 oo
+832 oo
+833 oo
+834 oo
+835 oo
+836 oo
+837 oo
+838 oo
+839 oo
+840 oo
+841 oo
+842 oo
+843 oo
+844 oo
+845 oo
+846 oo
+847 oo
+848 oo
+849 oo
+850 oo
+851 oo
+852 oo
+853 oo
+854 oo
+855 oo
+856 oo
+857 oo
+858 oo
+859 oo
+860 oo
+861 oo
+862 oo
+863 oo
+864 oo
+865 oo
+866 oo
+867 oo
+868 oo
+869 oo
+870 oo
+871 oo
+872 oo
+873 oo
+874 oo
+875 oo
+876 oo
+877 oo
+878 oo
+879 oo
+880 oo
+881 oo
+882 oo
+883 oo
+884 oo
+885 oo
+886 oo
+887 oo
+888 oo
+889 oo
+890 oo
+891 oo
+    *
+[ 1783 = 891 * _2_ + 1 ]
+
+  1 ooo
+  2 ooo
+  3 ooo
+  4 ooo
+  5 ooo
+  6 ooo
+  7 ooo
+  8 ooo
+  9 ooo
+ 10 ooo
+ 11 ooo
+ 12 ooo
+ 13 ooo
+ 14 ooo
+ 15 ooo
+ 16 ooo
+ 17 ooo
+ 18 ooo
+ 19 ooo
+ 20 ooo
+ 21 ooo
+ 22 ooo
+ 23 ooo
+ 24 ooo
+ 25 ooo
+ 26 ooo
+ 27 ooo
+ 28 ooo
+ 29 ooo
+ 30 ooo
+ 31 ooo
+ 32 ooo
+ 33 ooo
+ 34 ooo
+ 35 ooo
+ 36 ooo
+ 37 ooo
+ 38 ooo
+ 39 ooo
+ 40 ooo
+ 41 ooo
+ 42 ooo
+ 43 ooo
+ 44 ooo
+ 45 ooo
+ 46 ooo
+ 47 ooo
+ 48 ooo
+ 49 ooo
+ 50 ooo
+ 51 ooo
+ 52 ooo
+ 53 ooo
+ 54 ooo
+ 55 ooo
+ 56 ooo
+ 57 ooo
+ 58 ooo
+ 59 ooo
+ 60 ooo
+ 61 ooo
+ 62 ooo
+ 63 ooo
+ 64 ooo
+ 65 ooo
+ 66 ooo
+ 67 ooo
+ 68 ooo
+ 69 ooo
+ 70 ooo
+ 71 ooo
+ 72 ooo
+ 73 ooo
+ 74 ooo
+ 75 ooo
+ 76 ooo
+ 77 ooo
+ 78 ooo
+ 79 ooo
+ 80 ooo
+ 81 ooo
+ 82 ooo
+ 83 ooo
+ 84 ooo
+ 85 ooo
+ 86 ooo
+ 87 ooo
+ 88 ooo
+ 89 ooo
+ 90 ooo
+ 91 ooo
+ 92 ooo
+ 93 ooo
+ 94 ooo
+ 95 ooo
+ 96 ooo
+ 97 ooo
+ 98 ooo
+ 99 ooo
+100 ooo
+101 ooo
+102 ooo
+103 ooo
+104 ooo
+105 ooo
+106 ooo
+107 ooo
+108 ooo
+109 ooo
+110 ooo
+111 ooo
+112 ooo
+113 ooo
+114 ooo
+115 ooo
+116 ooo
+117 ooo
+118 ooo
+119 ooo
+120 ooo
+121 ooo
+122 ooo
+123 ooo
+124 ooo
+125 ooo
+126 ooo
+127 ooo
+128 ooo
+129 ooo
+130 ooo
+131 ooo
+132 ooo
+133 ooo
+134 ooo
+135 ooo
+136 ooo
+137 ooo
+138 ooo
+139 ooo
+140 ooo
+141 ooo
+142 ooo
+143 ooo
+144 ooo
+145 ooo
+146 ooo
+147 ooo
+148 ooo
+149 ooo
+150 ooo
+151 ooo
+152 ooo
+153 ooo
+154 ooo
+155 ooo
+156 ooo
+157 ooo
+158 ooo
+159 ooo
+160 ooo
+161 ooo
+162 ooo
+163 ooo
+164 ooo
+165 ooo
+166 ooo
+167 ooo
+168 ooo
+169 ooo
+170 ooo
+171 ooo
+172 ooo
+173 ooo
+174 ooo
+175 ooo
+176 ooo
+177 ooo
+178 ooo
+179 ooo
+180 ooo
+181 ooo
+182 ooo
+183 ooo
+184 ooo
+185 ooo
+186 ooo
+187 ooo
+188 ooo
+189 ooo
+190 ooo
+191 ooo
+192 ooo
+193 ooo
+194 ooo
+195 ooo
+196 ooo
+197 ooo
+198 ooo
+199 ooo
+200 ooo
+201 ooo
+202 ooo
+203 ooo
+204 ooo
+205 ooo
+206 ooo
+207 ooo
+208 ooo
+209 ooo
+210 ooo
+211 ooo
+212 ooo
+213 ooo
+214 ooo
+215 ooo
+216 ooo
+217 ooo
+218 ooo
+219 ooo
+220 ooo
+221 ooo
+222 ooo
+223 ooo
+224 ooo
+225 ooo
+226 ooo
+227 ooo
+228 ooo
+229 ooo
+230 ooo
+231 ooo
+232 ooo
+233 ooo
+234 ooo
+235 ooo
+236 ooo
+237 ooo
+238 ooo
+239 ooo
+240 ooo
+241 ooo
+242 ooo
+243 ooo
+244 ooo
+245 ooo
+246 ooo
+247 ooo
+248 ooo
+249 ooo
+250 ooo
+251 ooo
+252 ooo
+253 ooo
+254 ooo
+255 ooo
+256 ooo
+257 ooo
+258 ooo
+259 ooo
+260 ooo
+261 ooo
+262 ooo
+263 ooo
+264 ooo
+265 ooo
+266 ooo
+267 ooo
+268 ooo
+269 ooo
+270 ooo
+271 ooo
+272 ooo
+273 ooo
+274 ooo
+275 ooo
+276 ooo
+277 ooo
+278 ooo
+279 ooo
+280 ooo
+281 ooo
+282 ooo
+283 ooo
+284 ooo
+285 ooo
+286 ooo
+287 ooo
+288 ooo
+289 ooo
+290 ooo
+291 ooo
+292 ooo
+293 ooo
+294 ooo
+295 ooo
+296 ooo
+297 ooo
+298 ooo
+299 ooo
+300 ooo
+301 ooo
+302 ooo
+303 ooo
+304 ooo
+305 ooo
+306 ooo
+307 ooo
+308 ooo
+309 ooo
+310 ooo
+311 ooo
+312 ooo
+313 ooo
+314 ooo
+315 ooo
+316 ooo
+317 ooo
+318 ooo
+319 ooo
+320 ooo
+321 ooo
+322 ooo
+323 ooo
+324 ooo
+325 ooo
+326 ooo
+327 ooo
+328 ooo
+329 ooo
+330 ooo
+331 ooo
+332 ooo
+333 ooo
+334 ooo
+335 ooo
+336 ooo
+337 ooo
+338 ooo
+339 ooo
+340 ooo
+341 ooo
+342 ooo
+343 ooo
+344 ooo
+345 ooo
+346 ooo
+347 ooo
+348 ooo
+349 ooo
+350 ooo
+351 ooo
+352 ooo
+353 ooo
+354 ooo
+355 ooo
+356 ooo
+357 ooo
+358 ooo
+359 ooo
+360 ooo
+361 ooo
+362 ooo
+363 ooo
+364 ooo
+365 ooo
+366 ooo
+367 ooo
+368 ooo
+369 ooo
+370 ooo
+371 ooo
+372 ooo
+373 ooo
+374 ooo
+375 ooo
+376 ooo
+377 ooo
+378 ooo
+379 ooo
+380 ooo
+381 ooo
+382 ooo
+383 ooo
+384 ooo
+385 ooo
+386 ooo
+387 ooo
+388 ooo
+389 ooo
+390 ooo
+391 ooo
+392 ooo
+393 ooo
+394 ooo
+395 ooo
+396 ooo
+397 ooo
+398 ooo
+399 ooo
+400 ooo
+401 ooo
+402 ooo
+403 ooo
+404 ooo
+405 ooo
+406 ooo
+407 ooo
+408 ooo
+409 ooo
+410 ooo
+411 ooo
+412 ooo
+413 ooo
+414 ooo
+415 ooo
+416 ooo
+417 ooo
+418 ooo
+419 ooo
+420 ooo
+421 ooo
+422 ooo
+423 ooo
+424 ooo
+425 ooo
+426 ooo
+427 ooo
+428 ooo
+429 ooo
+430 ooo
+431 ooo
+432 ooo
+433 ooo
+434 ooo
+435 ooo
+436 ooo
+437 ooo
+438 ooo
+439 ooo
+440 ooo
+441 ooo
+442 ooo
+443 ooo
+444 ooo
+445 ooo
+446 ooo
+447 ooo
+448 ooo
+449 ooo
+450 ooo
+451 ooo
+452 ooo
+453 ooo
+454 ooo
+455 ooo
+456 ooo
+457 ooo
+458 ooo
+459 ooo
+460 ooo
+461 ooo
+462 ooo
+463 ooo
+464 ooo
+465 ooo
+466 ooo
+467 ooo
+468 ooo
+469 ooo
+470 ooo
+471 ooo
+472 ooo
+473 ooo
+474 ooo
+475 ooo
+476 ooo
+477 ooo
+478 ooo
+479 ooo
+480 ooo
+481 ooo
+482 ooo
+483 ooo
+484 ooo
+485 ooo
+486 ooo
+487 ooo
+488 ooo
+489 ooo
+490 ooo
+491 ooo
+492 ooo
+493 ooo
+494 ooo
+495 ooo
+496 ooo
+497 ooo
+498 ooo
+499 ooo
+500 ooo
+501 ooo
+502 ooo
+503 ooo
+504 ooo
+505 ooo
+506 ooo
+507 ooo
+508 ooo
+509 ooo
+510 ooo
+511 ooo
+512 ooo
+513 ooo
+514 ooo
+515 ooo
+516 ooo
+517 ooo
+518 ooo
+519 ooo
+520 ooo
+521 ooo
+522 ooo
+523 ooo
+524 ooo
+525 ooo
+526 ooo
+527 ooo
+528 ooo
+529 ooo
+530 ooo
+531 ooo
+532 ooo
+533 ooo
+534 ooo
+535 ooo
+536 ooo
+537 ooo
+538 ooo
+539 ooo
+540 ooo
+541 ooo
+542 ooo
+543 ooo
+544 ooo
+545 ooo
+546 ooo
+547 ooo
+548 ooo
+549 ooo
+550 ooo
+551 ooo
+552 ooo
+553 ooo
+554 ooo
+555 ooo
+556 ooo
+557 ooo
+558 ooo
+559 ooo
+560 ooo
+561 ooo
+562 ooo
+563 ooo
+564 ooo
+565 ooo
+566 ooo
+567 ooo
+568 ooo
+569 ooo
+570 ooo
+571 ooo
+572 ooo
+573 ooo
+574 ooo
+575 ooo
+576 ooo
+577 ooo
+578 ooo
+579 ooo
+580 ooo
+581 ooo
+582 ooo
+583 ooo
+584 ooo
+585 ooo
+586 ooo
+587 ooo
+588 ooo
+589 ooo
+590 ooo
+591 ooo
+592 ooo
+593 ooo
+594 ooo
+    *
+[ 1783 = 594 * _3_ + 1 ]
+
+  1 oooo
+  2 oooo
+  3 oooo
+  4 oooo
+  5 oooo
+  6 oooo
+  7 oooo
+  8 oooo
+  9 oooo
+ 10 oooo
+ 11 oooo
+ 12 oooo
+ 13 oooo
+ 14 oooo
+ 15 oooo
+ 16 oooo
+ 17 oooo
+ 18 oooo
+ 19 oooo
+ 20 oooo
+ 21 oooo
+ 22 oooo
+ 23 oooo
+ 24 oooo
+ 25 oooo
+ 26 oooo
+ 27 oooo
+ 28 oooo
+ 29 oooo
+ 30 oooo
+ 31 oooo
+ 32 oooo
+ 33 oooo
+ 34 oooo
+ 35 oooo
+ 36 oooo
+ 37 oooo
+ 38 oooo
+ 39 oooo
+ 40 oooo
+ 41 oooo
+ 42 oooo
+ 43 oooo
+ 44 oooo
+ 45 oooo
+ 46 oooo
+ 47 oooo
+ 48 oooo
+ 49 oooo
+ 50 oooo
+ 51 oooo
+ 52 oooo
+ 53 oooo
+ 54 oooo
+ 55 oooo
+ 56 oooo
+ 57 oooo
+ 58 oooo
+ 59 oooo
+ 60 oooo
+ 61 oooo
+ 62 oooo
+ 63 oooo
+ 64 oooo
+ 65 oooo
+ 66 oooo
+ 67 oooo
+ 68 oooo
+ 69 oooo
+ 70 oooo
+ 71 oooo
+ 72 oooo
+ 73 oooo
+ 74 oooo
+ 75 oooo
+ 76 oooo
+ 77 oooo
+ 78 oooo
+ 79 oooo
+ 80 oooo
+ 81 oooo
+ 82 oooo
+ 83 oooo
+ 84 oooo
+ 85 oooo
+ 86 oooo
+ 87 oooo
+ 88 oooo
+ 89 oooo
+ 90 oooo
+ 91 oooo
+ 92 oooo
+ 93 oooo
+ 94 oooo
+ 95 oooo
+ 96 oooo
+ 97 oooo
+ 98 oooo
+ 99 oooo
+100 oooo
+101 oooo
+102 oooo
+103 oooo
+104 oooo
+105 oooo
+106 oooo
+107 oooo
+108 oooo
+109 oooo
+110 oooo
+111 oooo
+112 oooo
+113 oooo
+114 oooo
+115 oooo
+116 oooo
+117 oooo
+118 oooo
+119 oooo
+120 oooo
+121 oooo
+122 oooo
+123 oooo
+124 oooo
+125 oooo
+126 oooo
+127 oooo
+128 oooo
+129 oooo
+130 oooo
+131 oooo
+132 oooo
+133 oooo
+134 oooo
+135 oooo
+136 oooo
+137 oooo
+138 oooo
+139 oooo
+140 oooo
+141 oooo
+142 oooo
+143 oooo
+144 oooo
+145 oooo
+146 oooo
+147 oooo
+148 oooo
+149 oooo
+150 oooo
+151 oooo
+152 oooo
+153 oooo
+154 oooo
+155 oooo
+156 oooo
+157 oooo
+158 oooo
+159 oooo
+160 oooo
+161 oooo
+162 oooo
+163 oooo
+164 oooo
+165 oooo
+166 oooo
+167 oooo
+168 oooo
+169 oooo
+170 oooo
+171 oooo
+172 oooo
+173 oooo
+174 oooo
+175 oooo
+176 oooo
+177 oooo
+178 oooo
+179 oooo
+180 oooo
+181 oooo
+182 oooo
+183 oooo
+184 oooo
+185 oooo
+186 oooo
+187 oooo
+188 oooo
+189 oooo
+190 oooo
+191 oooo
+192 oooo
+193 oooo
+194 oooo
+195 oooo
+196 oooo
+197 oooo
+198 oooo
+199 oooo
+200 oooo
+201 oooo
+202 oooo
+203 oooo
+204 oooo
+205 oooo
+206 oooo
+207 oooo
+208 oooo
+209 oooo
+210 oooo
+211 oooo
+212 oooo
+213 oooo
+214 oooo
+215 oooo
+216 oooo
+217 oooo
+218 oooo
+219 oooo
+220 oooo
+221 oooo
+222 oooo
+223 oooo
+224 oooo
+225 oooo
+226 oooo
+227 oooo
+228 oooo
+229 oooo
+230 oooo
+231 oooo
+232 oooo
+233 oooo
+234 oooo
+235 oooo
+236 oooo
+237 oooo
+238 oooo
+239 oooo
+240 oooo
+241 oooo
+242 oooo
+243 oooo
+244 oooo
+245 oooo
+246 oooo
+247 oooo
+248 oooo
+249 oooo
+250 oooo
+251 oooo
+252 oooo
+253 oooo
+254 oooo
+255 oooo
+256 oooo
+257 oooo
+258 oooo
+259 oooo
+260 oooo
+261 oooo
+262 oooo
+263 oooo
+264 oooo
+265 oooo
+266 oooo
+267 oooo
+268 oooo
+269 oooo
+270 oooo
+271 oooo
+272 oooo
+273 oooo
+274 oooo
+275 oooo
+276 oooo
+277 oooo
+278 oooo
+279 oooo
+280 oooo
+281 oooo
+282 oooo
+283 oooo
+284 oooo
+285 oooo
+286 oooo
+287 oooo
+288 oooo
+289 oooo
+290 oooo
+291 oooo
+292 oooo
+293 oooo
+294 oooo
+295 oooo
+296 oooo
+297 oooo
+298 oooo
+299 oooo
+300 oooo
+301 oooo
+302 oooo
+303 oooo
+304 oooo
+305 oooo
+306 oooo
+307 oooo
+308 oooo
+309 oooo
+310 oooo
+311 oooo
+312 oooo
+313 oooo
+314 oooo
+315 oooo
+316 oooo
+317 oooo
+318 oooo
+319 oooo
+320 oooo
+321 oooo
+322 oooo
+323 oooo
+324 oooo
+325 oooo
+326 oooo
+327 oooo
+328 oooo
+329 oooo
+330 oooo
+331 oooo
+332 oooo
+333 oooo
+334 oooo
+335 oooo
+336 oooo
+337 oooo
+338 oooo
+339 oooo
+340 oooo
+341 oooo
+342 oooo
+343 oooo
+344 oooo
+345 oooo
+346 oooo
+347 oooo
+348 oooo
+349 oooo
+350 oooo
+351 oooo
+352 oooo
+353 oooo
+354 oooo
+355 oooo
+356 oooo
+357 oooo
+358 oooo
+359 oooo
+360 oooo
+361 oooo
+362 oooo
+363 oooo
+364 oooo
+365 oooo
+366 oooo
+367 oooo
+368 oooo
+369 oooo
+370 oooo
+371 oooo
+372 oooo
+373 oooo
+374 oooo
+375 oooo
+376 oooo
+377 oooo
+378 oooo
+379 oooo
+380 oooo
+381 oooo
+382 oooo
+383 oooo
+384 oooo
+385 oooo
+386 oooo
+387 oooo
+388 oooo
+389 oooo
+390 oooo
+391 oooo
+392 oooo
+393 oooo
+394 oooo
+395 oooo
+396 oooo
+397 oooo
+398 oooo
+399 oooo
+400 oooo
+401 oooo
+402 oooo
+403 oooo
+404 oooo
+405 oooo
+406 oooo
+407 oooo
+408 oooo
+409 oooo
+410 oooo
+411 oooo
+412 oooo
+413 oooo
+414 oooo
+415 oooo
+416 oooo
+417 oooo
+418 oooo
+419 oooo
+420 oooo
+421 oooo
+422 oooo
+423 oooo
+424 oooo
+425 oooo
+426 oooo
+427 oooo
+428 oooo
+429 oooo
+430 oooo
+431 oooo
+432 oooo
+433 oooo
+434 oooo
+435 oooo
+436 oooo
+437 oooo
+438 oooo
+439 oooo
+440 oooo
+441 oooo
+442 oooo
+443 oooo
+444 oooo
+445 oooo
+    ***
+[ 1783 = 445 * _4_ + 3 ]
+
+  1 ooooo
+  2 ooooo
+  3 ooooo
+  4 ooooo
+  5 ooooo
+  6 ooooo
+  7 ooooo
+  8 ooooo
+  9 ooooo
+ 10 ooooo
+ 11 ooooo
+ 12 ooooo
+ 13 ooooo
+ 14 ooooo
+ 15 ooooo
+ 16 ooooo
+ 17 ooooo
+ 18 ooooo
+ 19 ooooo
+ 20 ooooo
+ 21 ooooo
+ 22 ooooo
+ 23 ooooo
+ 24 ooooo
+ 25 ooooo
+ 26 ooooo
+ 27 ooooo
+ 28 ooooo
+ 29 ooooo
+ 30 ooooo
+ 31 ooooo
+ 32 ooooo
+ 33 ooooo
+ 34 ooooo
+ 35 ooooo
+ 36 ooooo
+ 37 ooooo
+ 38 ooooo
+ 39 ooooo
+ 40 ooooo
+ 41 ooooo
+ 42 ooooo
+ 43 ooooo
+ 44 ooooo
+ 45 ooooo
+ 46 ooooo
+ 47 ooooo
+ 48 ooooo
+ 49 ooooo
+ 50 ooooo
+ 51 ooooo
+ 52 ooooo
+ 53 ooooo
+ 54 ooooo
+ 55 ooooo
+ 56 ooooo
+ 57 ooooo
+ 58 ooooo
+ 59 ooooo
+ 60 ooooo
+ 61 ooooo
+ 62 ooooo
+ 63 ooooo
+ 64 ooooo
+ 65 ooooo
+ 66 ooooo
+ 67 ooooo
+ 68 ooooo
+ 69 ooooo
+ 70 ooooo
+ 71 ooooo
+ 72 ooooo
+ 73 ooooo
+ 74 ooooo
+ 75 ooooo
+ 76 ooooo
+ 77 ooooo
+ 78 ooooo
+ 79 ooooo
+ 80 ooooo
+ 81 ooooo
+ 82 ooooo
+ 83 ooooo
+ 84 ooooo
+ 85 ooooo
+ 86 ooooo
+ 87 ooooo
+ 88 ooooo
+ 89 ooooo
+ 90 ooooo
+ 91 ooooo
+ 92 ooooo
+ 93 ooooo
+ 94 ooooo
+ 95 ooooo
+ 96 ooooo
+ 97 ooooo
+ 98 ooooo
+ 99 ooooo
+100 ooooo
+101 ooooo
+102 ooooo
+103 ooooo
+104 ooooo
+105 ooooo
+106 ooooo
+107 ooooo
+108 ooooo
+109 ooooo
+110 ooooo
+111 ooooo
+112 ooooo
+113 ooooo
+114 ooooo
+115 ooooo
+116 ooooo
+117 ooooo
+118 ooooo
+119 ooooo
+120 ooooo
+121 ooooo
+122 ooooo
+123 ooooo
+124 ooooo
+125 ooooo
+126 ooooo
+127 ooooo
+128 ooooo
+129 ooooo
+130 ooooo
+131 ooooo
+132 ooooo
+133 ooooo
+134 ooooo
+135 ooooo
+136 ooooo
+137 ooooo
+138 ooooo
+139 ooooo
+140 ooooo
+141 ooooo
+142 ooooo
+143 ooooo
+144 ooooo
+145 ooooo
+146 ooooo
+147 ooooo
+148 ooooo
+149 ooooo
+150 ooooo
+151 ooooo
+152 ooooo
+153 ooooo
+154 ooooo
+155 ooooo
+156 ooooo
+157 ooooo
+158 ooooo
+159 ooooo
+160 ooooo
+161 ooooo
+162 ooooo
+163 ooooo
+164 ooooo
+165 ooooo
+166 ooooo
+167 ooooo
+168 ooooo
+169 ooooo
+170 ooooo
+171 ooooo
+172 ooooo
+173 ooooo
+174 ooooo
+175 ooooo
+176 ooooo
+177 ooooo
+178 ooooo
+179 ooooo
+180 ooooo
+181 ooooo
+182 ooooo
+183 ooooo
+184 ooooo
+185 ooooo
+186 ooooo
+187 ooooo
+188 ooooo
+189 ooooo
+190 ooooo
+191 ooooo
+192 ooooo
+193 ooooo
+194 ooooo
+195 ooooo
+196 ooooo
+197 ooooo
+198 ooooo
+199 ooooo
+200 ooooo
+201 ooooo
+202 ooooo
+203 ooooo
+204 ooooo
+205 ooooo
+206 ooooo
+207 ooooo
+208 ooooo
+209 ooooo
+210 ooooo
+211 ooooo
+212 ooooo
+213 ooooo
+214 ooooo
+215 ooooo
+216 ooooo
+217 ooooo
+218 ooooo
+219 ooooo
+220 ooooo
+221 ooooo
+222 ooooo
+223 ooooo
+224 ooooo
+225 ooooo
+226 ooooo
+227 ooooo
+228 ooooo
+229 ooooo
+230 ooooo
+231 ooooo
+232 ooooo
+233 ooooo
+234 ooooo
+235 ooooo
+236 ooooo
+237 ooooo
+238 ooooo
+239 ooooo
+240 ooooo
+241 ooooo
+242 ooooo
+243 ooooo
+244 ooooo
+245 ooooo
+246 ooooo
+247 ooooo
+248 ooooo
+249 ooooo
+250 ooooo
+251 ooooo
+252 ooooo
+253 ooooo
+254 ooooo
+255 ooooo
+256 ooooo
+257 ooooo
+258 ooooo
+259 ooooo
+260 ooooo
+261 ooooo
+262 ooooo
+263 ooooo
+264 ooooo
+265 ooooo
+266 ooooo
+267 ooooo
+268 ooooo
+269 ooooo
+270 ooooo
+271 ooooo
+272 ooooo
+273 ooooo
+274 ooooo
+275 ooooo
+276 ooooo
+277 ooooo
+278 ooooo
+279 ooooo
+280 ooooo
+281 ooooo
+282 ooooo
+283 ooooo
+284 ooooo
+285 ooooo
+286 ooooo
+287 ooooo
+288 ooooo
+289 ooooo
+290 ooooo
+291 ooooo
+292 ooooo
+293 ooooo
+294 ooooo
+295 ooooo
+296 ooooo
+297 ooooo
+298 ooooo
+299 ooooo
+300 ooooo
+301 ooooo
+302 ooooo
+303 ooooo
+304 ooooo
+305 ooooo
+306 ooooo
+307 ooooo
+308 ooooo
+309 ooooo
+310 ooooo
+311 ooooo
+312 ooooo
+313 ooooo
+314 ooooo
+315 ooooo
+316 ooooo
+317 ooooo
+318 ooooo
+319 ooooo
+320 ooooo
+321 ooooo
+322 ooooo
+323 ooooo
+324 ooooo
+325 ooooo
+326 ooooo
+327 ooooo
+328 ooooo
+329 ooooo
+330 ooooo
+331 ooooo
+332 ooooo
+333 ooooo
+334 ooooo
+335 ooooo
+336 ooooo
+337 ooooo
+338 ooooo
+339 ooooo
+340 ooooo
+341 ooooo
+342 ooooo
+343 ooooo
+344 ooooo
+345 ooooo
+346 ooooo
+347 ooooo
+348 ooooo
+349 ooooo
+350 ooooo
+351 ooooo
+352 ooooo
+353 ooooo
+354 ooooo
+355 ooooo
+356 ooooo
+    ***
+[ 1783 = 356 * _5_ + 3 ]
+
+  1 oooooo
+  2 oooooo
+  3 oooooo
+  4 oooooo
+  5 oooooo
+  6 oooooo
+  7 oooooo
+  8 oooooo
+  9 oooooo
+ 10 oooooo
+ 11 oooooo
+ 12 oooooo
+ 13 oooooo
+ 14 oooooo
+ 15 oooooo
+ 16 oooooo
+ 17 oooooo
+ 18 oooooo
+ 19 oooooo
+ 20 oooooo
+ 21 oooooo
+ 22 oooooo
+ 23 oooooo
+ 24 oooooo
+ 25 oooooo
+ 26 oooooo
+ 27 oooooo
+ 28 oooooo
+ 29 oooooo
+ 30 oooooo
+ 31 oooooo
+ 32 oooooo
+ 33 oooooo
+ 34 oooooo
+ 35 oooooo
+ 36 oooooo
+ 37 oooooo
+ 38 oooooo
+ 39 oooooo
+ 40 oooooo
+ 41 oooooo
+ 42 oooooo
+ 43 oooooo
+ 44 oooooo
+ 45 oooooo
+ 46 oooooo
+ 47 oooooo
+ 48 oooooo
+ 49 oooooo
+ 50 oooooo
+ 51 oooooo
+ 52 oooooo
+ 53 oooooo
+ 54 oooooo
+ 55 oooooo
+ 56 oooooo
+ 57 oooooo
+ 58 oooooo
+ 59 oooooo
+ 60 oooooo
+ 61 oooooo
+ 62 oooooo
+ 63 oooooo
+ 64 oooooo
+ 65 oooooo
+ 66 oooooo
+ 67 oooooo
+ 68 oooooo
+ 69 oooooo
+ 70 oooooo
+ 71 oooooo
+ 72 oooooo
+ 73 oooooo
+ 74 oooooo
+ 75 oooooo
+ 76 oooooo
+ 77 oooooo
+ 78 oooooo
+ 79 oooooo
+ 80 oooooo
+ 81 oooooo
+ 82 oooooo
+ 83 oooooo
+ 84 oooooo
+ 85 oooooo
+ 86 oooooo
+ 87 oooooo
+ 88 oooooo
+ 89 oooooo
+ 90 oooooo
+ 91 oooooo
+ 92 oooooo
+ 93 oooooo
+ 94 oooooo
+ 95 oooooo
+ 96 oooooo
+ 97 oooooo
+ 98 oooooo
+ 99 oooooo
+100 oooooo
+101 oooooo
+102 oooooo
+103 oooooo
+104 oooooo
+105 oooooo
+106 oooooo
+107 oooooo
+108 oooooo
+109 oooooo
+110 oooooo
+111 oooooo
+112 oooooo
+113 oooooo
+114 oooooo
+115 oooooo
+116 oooooo
+117 oooooo
+118 oooooo
+119 oooooo
+120 oooooo
+121 oooooo
+122 oooooo
+123 oooooo
+124 oooooo
+125 oooooo
+126 oooooo
+127 oooooo
+128 oooooo
+129 oooooo
+130 oooooo
+131 oooooo
+132 oooooo
+133 oooooo
+134 oooooo
+135 oooooo
+136 oooooo
+137 oooooo
+138 oooooo
+139 oooooo
+140 oooooo
+141 oooooo
+142 oooooo
+143 oooooo
+144 oooooo
+145 oooooo
+146 oooooo
+147 oooooo
+148 oooooo
+149 oooooo
+150 oooooo
+151 oooooo
+152 oooooo
+153 oooooo
+154 oooooo
+155 oooooo
+156 oooooo
+157 oooooo
+158 oooooo
+159 oooooo
+160 oooooo
+161 oooooo
+162 oooooo
+163 oooooo
+164 oooooo
+165 oooooo
+166 oooooo
+167 oooooo
+168 oooooo
+169 oooooo
+170 oooooo
+171 oooooo
+172 oooooo
+173 oooooo
+174 oooooo
+175 oooooo
+176 oooooo
+177 oooooo
+178 oooooo
+179 oooooo
+180 oooooo
+181 oooooo
+182 oooooo
+183 oooooo
+184 oooooo
+185 oooooo
+186 oooooo
+187 oooooo
+188 oooooo
+189 oooooo
+190 oooooo
+191 oooooo
+192 oooooo
+193 oooooo
+194 oooooo
+195 oooooo
+196 oooooo
+197 oooooo
+198 oooooo
+199 oooooo
+200 oooooo
+201 oooooo
+202 oooooo
+203 oooooo
+204 oooooo
+205 oooooo
+206 oooooo
+207 oooooo
+208 oooooo
+209 oooooo
+210 oooooo
+211 oooooo
+212 oooooo
+213 oooooo
+214 oooooo
+215 oooooo
+216 oooooo
+217 oooooo
+218 oooooo
+219 oooooo
+220 oooooo
+221 oooooo
+222 oooooo
+223 oooooo
+224 oooooo
+225 oooooo
+226 oooooo
+227 oooooo
+228 oooooo
+229 oooooo
+230 oooooo
+231 oooooo
+232 oooooo
+233 oooooo
+234 oooooo
+235 oooooo
+236 oooooo
+237 oooooo
+238 oooooo
+239 oooooo
+240 oooooo
+241 oooooo
+242 oooooo
+243 oooooo
+244 oooooo
+245 oooooo
+246 oooooo
+247 oooooo
+248 oooooo
+249 oooooo
+250 oooooo
+251 oooooo
+252 oooooo
+253 oooooo
+254 oooooo
+255 oooooo
+256 oooooo
+257 oooooo
+258 oooooo
+259 oooooo
+260 oooooo
+261 oooooo
+262 oooooo
+263 oooooo
+264 oooooo
+265 oooooo
+266 oooooo
+267 oooooo
+268 oooooo
+269 oooooo
+270 oooooo
+271 oooooo
+272 oooooo
+273 oooooo
+274 oooooo
+275 oooooo
+276 oooooo
+277 oooooo
+278 oooooo
+279 oooooo
+280 oooooo
+281 oooooo
+282 oooooo
+283 oooooo
+284 oooooo
+285 oooooo
+286 oooooo
+287 oooooo
+288 oooooo
+289 oooooo
+290 oooooo
+291 oooooo
+292 oooooo
+293 oooooo
+294 oooooo
+295 oooooo
+296 oooooo
+297 oooooo
+    *
+[ 1783 = 297 * _6_ + 1 ]
+
+  1 ooooooo
+  2 ooooooo
+  3 ooooooo
+  4 ooooooo
+  5 ooooooo
+  6 ooooooo
+  7 ooooooo
+  8 ooooooo
+  9 ooooooo
+ 10 ooooooo
+ 11 ooooooo
+ 12 ooooooo
+ 13 ooooooo
+ 14 ooooooo
+ 15 ooooooo
+ 16 ooooooo
+ 17 ooooooo
+ 18 ooooooo
+ 19 ooooooo
+ 20 ooooooo
+ 21 ooooooo
+ 22 ooooooo
+ 23 ooooooo
+ 24 ooooooo
+ 25 ooooooo
+ 26 ooooooo
+ 27 ooooooo
+ 28 ooooooo
+ 29 ooooooo
+ 30 ooooooo
+ 31 ooooooo
+ 32 ooooooo
+ 33 ooooooo
+ 34 ooooooo
+ 35 ooooooo
+ 36 ooooooo
+ 37 ooooooo
+ 38 ooooooo
+ 39 ooooooo
+ 40 ooooooo
+ 41 ooooooo
+ 42 ooooooo
+ 43 ooooooo
+ 44 ooooooo
+ 45 ooooooo
+ 46 ooooooo
+ 47 ooooooo
+ 48 ooooooo
+ 49 ooooooo
+ 50 ooooooo
+ 51 ooooooo
+ 52 ooooooo
+ 53 ooooooo
+ 54 ooooooo
+ 55 ooooooo
+ 56 ooooooo
+ 57 ooooooo
+ 58 ooooooo
+ 59 ooooooo
+ 60 ooooooo
+ 61 ooooooo
+ 62 ooooooo
+ 63 ooooooo
+ 64 ooooooo
+ 65 ooooooo
+ 66 ooooooo
+ 67 ooooooo
+ 68 ooooooo
+ 69 ooooooo
+ 70 ooooooo
+ 71 ooooooo
+ 72 ooooooo
+ 73 ooooooo
+ 74 ooooooo
+ 75 ooooooo
+ 76 ooooooo
+ 77 ooooooo
+ 78 ooooooo
+ 79 ooooooo
+ 80 ooooooo
+ 81 ooooooo
+ 82 ooooooo
+ 83 ooooooo
+ 84 ooooooo
+ 85 ooooooo
+ 86 ooooooo
+ 87 ooooooo
+ 88 ooooooo
+ 89 ooooooo
+ 90 ooooooo
+ 91 ooooooo
+ 92 ooooooo
+ 93 ooooooo
+ 94 ooooooo
+ 95 ooooooo
+ 96 ooooooo
+ 97 ooooooo
+ 98 ooooooo
+ 99 ooooooo
+100 ooooooo
+101 ooooooo
+102 ooooooo
+103 ooooooo
+104 ooooooo
+105 ooooooo
+106 ooooooo
+107 ooooooo
+108 ooooooo
+109 ooooooo
+110 ooooooo
+111 ooooooo
+112 ooooooo
+113 ooooooo
+114 ooooooo
+115 ooooooo
+116 ooooooo
+117 ooooooo
+118 ooooooo
+119 ooooooo
+120 ooooooo
+121 ooooooo
+122 ooooooo
+123 ooooooo
+124 ooooooo
+125 ooooooo
+126 ooooooo
+127 ooooooo
+128 ooooooo
+129 ooooooo
+130 ooooooo
+131 ooooooo
+132 ooooooo
+133 ooooooo
+134 ooooooo
+135 ooooooo
+136 ooooooo
+137 ooooooo
+138 ooooooo
+139 ooooooo
+140 ooooooo
+141 ooooooo
+142 ooooooo
+143 ooooooo
+144 ooooooo
+145 ooooooo
+146 ooooooo
+147 ooooooo
+148 ooooooo
+149 ooooooo
+150 ooooooo
+151 ooooooo
+152 ooooooo
+153 ooooooo
+154 ooooooo
+155 ooooooo
+156 ooooooo
+157 ooooooo
+158 ooooooo
+159 ooooooo
+160 ooooooo
+161 ooooooo
+162 ooooooo
+163 ooooooo
+164 ooooooo
+165 ooooooo
+166 ooooooo
+167 ooooooo
+168 ooooooo
+169 ooooooo
+170 ooooooo
+171 ooooooo
+172 ooooooo
+173 ooooooo
+174 ooooooo
+175 ooooooo
+176 ooooooo
+177 ooooooo
+178 ooooooo
+179 ooooooo
+180 ooooooo
+181 ooooooo
+182 ooooooo
+183 ooooooo
+184 ooooooo
+185 ooooooo
+186 ooooooo
+187 ooooooo
+188 ooooooo
+189 ooooooo
+190 ooooooo
+191 ooooooo
+192 ooooooo
+193 ooooooo
+194 ooooooo
+195 ooooooo
+196 ooooooo
+197 ooooooo
+198 ooooooo
+199 ooooooo
+200 ooooooo
+201 ooooooo
+202 ooooooo
+203 ooooooo
+204 ooooooo
+205 ooooooo
+206 ooooooo
+207 ooooooo
+208 ooooooo
+209 ooooooo
+210 ooooooo
+211 ooooooo
+212 ooooooo
+213 ooooooo
+214 ooooooo
+215 ooooooo
+216 ooooooo
+217 ooooooo
+218 ooooooo
+219 ooooooo
+220 ooooooo
+221 ooooooo
+222 ooooooo
+223 ooooooo
+224 ooooooo
+225 ooooooo
+226 ooooooo
+227 ooooooo
+228 ooooooo
+229 ooooooo
+230 ooooooo
+231 ooooooo
+232 ooooooo
+233 ooooooo
+234 ooooooo
+235 ooooooo
+236 ooooooo
+237 ooooooo
+238 ooooooo
+239 ooooooo
+240 ooooooo
+241 ooooooo
+242 ooooooo
+243 ooooooo
+244 ooooooo
+245 ooooooo
+246 ooooooo
+247 ooooooo
+248 ooooooo
+249 ooooooo
+250 ooooooo
+251 ooooooo
+252 ooooooo
+253 ooooooo
+254 ooooooo
+    *****
+[ 1783 = 254 * _7_ + 5 ]
+
+  1 oooooooo
+  2 oooooooo
+  3 oooooooo
+  4 oooooooo
+  5 oooooooo
+  6 oooooooo
+  7 oooooooo
+  8 oooooooo
+  9 oooooooo
+ 10 oooooooo
+ 11 oooooooo
+ 12 oooooooo
+ 13 oooooooo
+ 14 oooooooo
+ 15 oooooooo
+ 16 oooooooo
+ 17 oooooooo
+ 18 oooooooo
+ 19 oooooooo
+ 20 oooooooo
+ 21 oooooooo
+ 22 oooooooo
+ 23 oooooooo
+ 24 oooooooo
+ 25 oooooooo
+ 26 oooooooo
+ 27 oooooooo
+ 28 oooooooo
+ 29 oooooooo
+ 30 oooooooo
+ 31 oooooooo
+ 32 oooooooo
+ 33 oooooooo
+ 34 oooooooo
+ 35 oooooooo
+ 36 oooooooo
+ 37 oooooooo
+ 38 oooooooo
+ 39 oooooooo
+ 40 oooooooo
+ 41 oooooooo
+ 42 oooooooo
+ 43 oooooooo
+ 44 oooooooo
+ 45 oooooooo
+ 46 oooooooo
+ 47 oooooooo
+ 48 oooooooo
+ 49 oooooooo
+ 50 oooooooo
+ 51 oooooooo
+ 52 oooooooo
+ 53 oooooooo
+ 54 oooooooo
+ 55 oooooooo
+ 56 oooooooo
+ 57 oooooooo
+ 58 oooooooo
+ 59 oooooooo
+ 60 oooooooo
+ 61 oooooooo
+ 62 oooooooo
+ 63 oooooooo
+ 64 oooooooo
+ 65 oooooooo
+ 66 oooooooo
+ 67 oooooooo
+ 68 oooooooo
+ 69 oooooooo
+ 70 oooooooo
+ 71 oooooooo
+ 72 oooooooo
+ 73 oooooooo
+ 74 oooooooo
+ 75 oooooooo
+ 76 oooooooo
+ 77 oooooooo
+ 78 oooooooo
+ 79 oooooooo
+ 80 oooooooo
+ 81 oooooooo
+ 82 oooooooo
+ 83 oooooooo
+ 84 oooooooo
+ 85 oooooooo
+ 86 oooooooo
+ 87 oooooooo
+ 88 oooooooo
+ 89 oooooooo
+ 90 oooooooo
+ 91 oooooooo
+ 92 oooooooo
+ 93 oooooooo
+ 94 oooooooo
+ 95 oooooooo
+ 96 oooooooo
+ 97 oooooooo
+ 98 oooooooo
+ 99 oooooooo
+100 oooooooo
+101 oooooooo
+102 oooooooo
+103 oooooooo
+104 oooooooo
+105 oooooooo
+106 oooooooo
+107 oooooooo
+108 oooooooo
+109 oooooooo
+110 oooooooo
+111 oooooooo
+112 oooooooo
+113 oooooooo
+114 oooooooo
+115 oooooooo
+116 oooooooo
+117 oooooooo
+118 oooooooo
+119 oooooooo
+120 oooooooo
+121 oooooooo
+122 oooooooo
+123 oooooooo
+124 oooooooo
+125 oooooooo
+126 oooooooo
+127 oooooooo
+128 oooooooo
+129 oooooooo
+130 oooooooo
+131 oooooooo
+132 oooooooo
+133 oooooooo
+134 oooooooo
+135 oooooooo
+136 oooooooo
+137 oooooooo
+138 oooooooo
+139 oooooooo
+140 oooooooo
+141 oooooooo
+142 oooooooo
+143 oooooooo
+144 oooooooo
+145 oooooooo
+146 oooooooo
+147 oooooooo
+148 oooooooo
+149 oooooooo
+150 oooooooo
+151 oooooooo
+152 oooooooo
+153 oooooooo
+154 oooooooo
+155 oooooooo
+156 oooooooo
+157 oooooooo
+158 oooooooo
+159 oooooooo
+160 oooooooo
+161 oooooooo
+162 oooooooo
+163 oooooooo
+164 oooooooo
+165 oooooooo
+166 oooooooo
+167 oooooooo
+168 oooooooo
+169 oooooooo
+170 oooooooo
+171 oooooooo
+172 oooooooo
+173 oooooooo
+174 oooooooo
+175 oooooooo
+176 oooooooo
+177 oooooooo
+178 oooooooo
+179 oooooooo
+180 oooooooo
+181 oooooooo
+182 oooooooo
+183 oooooooo
+184 oooooooo
+185 oooooooo
+186 oooooooo
+187 oooooooo
+188 oooooooo
+189 oooooooo
+190 oooooooo
+191 oooooooo
+192 oooooooo
+193 oooooooo
+194 oooooooo
+195 oooooooo
+196 oooooooo
+197 oooooooo
+198 oooooooo
+199 oooooooo
+200 oooooooo
+201 oooooooo
+202 oooooooo
+203 oooooooo
+204 oooooooo
+205 oooooooo
+206 oooooooo
+207 oooooooo
+208 oooooooo
+209 oooooooo
+210 oooooooo
+211 oooooooo
+212 oooooooo
+213 oooooooo
+214 oooooooo
+215 oooooooo
+216 oooooooo
+217 oooooooo
+218 oooooooo
+219 oooooooo
+220 oooooooo
+221 oooooooo
+222 oooooooo
+    *******
+[ 1783 = 222 * _8_ + 7 ]
+
+  1 ooooooooo
+  2 ooooooooo
+  3 ooooooooo
+  4 ooooooooo
+  5 ooooooooo
+  6 ooooooooo
+  7 ooooooooo
+  8 ooooooooo
+  9 ooooooooo
+ 10 ooooooooo
+ 11 ooooooooo
+ 12 ooooooooo
+ 13 ooooooooo
+ 14 ooooooooo
+ 15 ooooooooo
+ 16 ooooooooo
+ 17 ooooooooo
+ 18 ooooooooo
+ 19 ooooooooo
+ 20 ooooooooo
+ 21 ooooooooo
+ 22 ooooooooo
+ 23 ooooooooo
+ 24 ooooooooo
+ 25 ooooooooo
+ 26 ooooooooo
+ 27 ooooooooo
+ 28 ooooooooo
+ 29 ooooooooo
+ 30 ooooooooo
+ 31 ooooooooo
+ 32 ooooooooo
+ 33 ooooooooo
+ 34 ooooooooo
+ 35 ooooooooo
+ 36 ooooooooo
+ 37 ooooooooo
+ 38 ooooooooo
+ 39 ooooooooo
+ 40 ooooooooo
+ 41 ooooooooo
+ 42 ooooooooo
+ 43 ooooooooo
+ 44 ooooooooo
+ 45 ooooooooo
+ 46 ooooooooo
+ 47 ooooooooo
+ 48 ooooooooo
+ 49 ooooooooo
+ 50 ooooooooo
+ 51 ooooooooo
+ 52 ooooooooo
+ 53 ooooooooo
+ 54 ooooooooo
+ 55 ooooooooo
+ 56 ooooooooo
+ 57 ooooooooo
+ 58 ooooooooo
+ 59 ooooooooo
+ 60 ooooooooo
+ 61 ooooooooo
+ 62 ooooooooo
+ 63 ooooooooo
+ 64 ooooooooo
+ 65 ooooooooo
+ 66 ooooooooo
+ 67 ooooooooo
+ 68 ooooooooo
+ 69 ooooooooo
+ 70 ooooooooo
+ 71 ooooooooo
+ 72 ooooooooo
+ 73 ooooooooo
+ 74 ooooooooo
+ 75 ooooooooo
+ 76 ooooooooo
+ 77 ooooooooo
+ 78 ooooooooo
+ 79 ooooooooo
+ 80 ooooooooo
+ 81 ooooooooo
+ 82 ooooooooo
+ 83 ooooooooo
+ 84 ooooooooo
+ 85 ooooooooo
+ 86 ooooooooo
+ 87 ooooooooo
+ 88 ooooooooo
+ 89 ooooooooo
+ 90 ooooooooo
+ 91 ooooooooo
+ 92 ooooooooo
+ 93 ooooooooo
+ 94 ooooooooo
+ 95 ooooooooo
+ 96 ooooooooo
+ 97 ooooooooo
+ 98 ooooooooo
+ 99 ooooooooo
+100 ooooooooo
+101 ooooooooo
+102 ooooooooo
+103 ooooooooo
+104 ooooooooo
+105 ooooooooo
+106 ooooooooo
+107 ooooooooo
+108 ooooooooo
+109 ooooooooo
+110 ooooooooo
+111 ooooooooo
+112 ooooooooo
+113 ooooooooo
+114 ooooooooo
+115 ooooooooo
+116 ooooooooo
+117 ooooooooo
+118 ooooooooo
+119 ooooooooo
+120 ooooooooo
+121 ooooooooo
+122 ooooooooo
+123 ooooooooo
+124 ooooooooo
+125 ooooooooo
+126 ooooooooo
+127 ooooooooo
+128 ooooooooo
+129 ooooooooo
+130 ooooooooo
+131 ooooooooo
+132 ooooooooo
+133 ooooooooo
+134 ooooooooo
+135 ooooooooo
+136 ooooooooo
+137 ooooooooo
+138 ooooooooo
+139 ooooooooo
+140 ooooooooo
+141 ooooooooo
+142 ooooooooo
+143 ooooooooo
+144 ooooooooo
+145 ooooooooo
+146 ooooooooo
+147 ooooooooo
+148 ooooooooo
+149 ooooooooo
+150 ooooooooo
+151 ooooooooo
+152 ooooooooo
+153 ooooooooo
+154 ooooooooo
+155 ooooooooo
+156 ooooooooo
+157 ooooooooo
+158 ooooooooo
+159 ooooooooo
+160 ooooooooo
+161 ooooooooo
+162 ooooooooo
+163 ooooooooo
+164 ooooooooo
+165 ooooooooo
+166 ooooooooo
+167 ooooooooo
+168 ooooooooo
+169 ooooooooo
+170 ooooooooo
+171 ooooooooo
+172 ooooooooo
+173 ooooooooo
+174 ooooooooo
+175 ooooooooo
+176 ooooooooo
+177 ooooooooo
+178 ooooooooo
+179 ooooooooo
+180 ooooooooo
+181 ooooooooo
+182 ooooooooo
+183 ooooooooo
+184 ooooooooo
+185 ooooooooo
+186 ooooooooo
+187 ooooooooo
+188 ooooooooo
+189 ooooooooo
+190 ooooooooo
+191 ooooooooo
+192 ooooooooo
+193 ooooooooo
+194 ooooooooo
+195 ooooooooo
+196 ooooooooo
+197 ooooooooo
+198 ooooooooo
+    *
+[ 1783 = 198 * _9_ + 1 ]
+
+  1 oooooooooo
+  2 oooooooooo
+  3 oooooooooo
+  4 oooooooooo
+  5 oooooooooo
+  6 oooooooooo
+  7 oooooooooo
+  8 oooooooooo
+  9 oooooooooo
+ 10 oooooooooo
+ 11 oooooooooo
+ 12 oooooooooo
+ 13 oooooooooo
+ 14 oooooooooo
+ 15 oooooooooo
+ 16 oooooooooo
+ 17 oooooooooo
+ 18 oooooooooo
+ 19 oooooooooo
+ 20 oooooooooo
+ 21 oooooooooo
+ 22 oooooooooo
+ 23 oooooooooo
+ 24 oooooooooo
+ 25 oooooooooo
+ 26 oooooooooo
+ 27 oooooooooo
+ 28 oooooooooo
+ 29 oooooooooo
+ 30 oooooooooo
+ 31 oooooooooo
+ 32 oooooooooo
+ 33 oooooooooo
+ 34 oooooooooo
+ 35 oooooooooo
+ 36 oooooooooo
+ 37 oooooooooo
+ 38 oooooooooo
+ 39 oooooooooo
+ 40 oooooooooo
+ 41 oooooooooo
+ 42 oooooooooo
+ 43 oooooooooo
+ 44 oooooooooo
+ 45 oooooooooo
+ 46 oooooooooo
+ 47 oooooooooo
+ 48 oooooooooo
+ 49 oooooooooo
+ 50 oooooooooo
+ 51 oooooooooo
+ 52 oooooooooo
+ 53 oooooooooo
+ 54 oooooooooo
+ 55 oooooooooo
+ 56 oooooooooo
+ 57 oooooooooo
+ 58 oooooooooo
+ 59 oooooooooo
+ 60 oooooooooo
+ 61 oooooooooo
+ 62 oooooooooo
+ 63 oooooooooo
+ 64 oooooooooo
+ 65 oooooooooo
+ 66 oooooooooo
+ 67 oooooooooo
+ 68 oooooooooo
+ 69 oooooooooo
+ 70 oooooooooo
+ 71 oooooooooo
+ 72 oooooooooo
+ 73 oooooooooo
+ 74 oooooooooo
+ 75 oooooooooo
+ 76 oooooooooo
+ 77 oooooooooo
+ 78 oooooooooo
+ 79 oooooooooo
+ 80 oooooooooo
+ 81 oooooooooo
+ 82 oooooooooo
+ 83 oooooooooo
+ 84 oooooooooo
+ 85 oooooooooo
+ 86 oooooooooo
+ 87 oooooooooo
+ 88 oooooooooo
+ 89 oooooooooo
+ 90 oooooooooo
+ 91 oooooooooo
+ 92 oooooooooo
+ 93 oooooooooo
+ 94 oooooooooo
+ 95 oooooooooo
+ 96 oooooooooo
+ 97 oooooooooo
+ 98 oooooooooo
+ 99 oooooooooo
+100 oooooooooo
+101 oooooooooo
+102 oooooooooo
+103 oooooooooo
+104 oooooooooo
+105 oooooooooo
+106 oooooooooo
+107 oooooooooo
+108 oooooooooo
+109 oooooooooo
+110 oooooooooo
+111 oooooooooo
+112 oooooooooo
+113 oooooooooo
+114 oooooooooo
+115 oooooooooo
+116 oooooooooo
+117 oooooooooo
+118 oooooooooo
+119 oooooooooo
+120 oooooooooo
+121 oooooooooo
+122 oooooooooo
+123 oooooooooo
+124 oooooooooo
+125 oooooooooo
+126 oooooooooo
+127 oooooooooo
+128 oooooooooo
+129 oooooooooo
+130 oooooooooo
+131 oooooooooo
+132 oooooooooo
+133 oooooooooo
+134 oooooooooo
+135 oooooooooo
+136 oooooooooo
+137 oooooooooo
+138 oooooooooo
+139 oooooooooo
+140 oooooooooo
+141 oooooooooo
+142 oooooooooo
+143 oooooooooo
+144 oooooooooo
+145 oooooooooo
+146 oooooooooo
+147 oooooooooo
+148 oooooooooo
+149 oooooooooo
+150 oooooooooo
+151 oooooooooo
+152 oooooooooo
+153 oooooooooo
+154 oooooooooo
+155 oooooooooo
+156 oooooooooo
+157 oooooooooo
+158 oooooooooo
+159 oooooooooo
+160 oooooooooo
+161 oooooooooo
+162 oooooooooo
+163 oooooooooo
+164 oooooooooo
+165 oooooooooo
+166 oooooooooo
+167 oooooooooo
+168 oooooooooo
+169 oooooooooo
+170 oooooooooo
+171 oooooooooo
+172 oooooooooo
+173 oooooooooo
+174 oooooooooo
+175 oooooooooo
+176 oooooooooo
+177 oooooooooo
+178 oooooooooo
+    ***
+[ 1783 = 178 * _10_ + 3 ]
+
+  1 ooooooooooo
+  2 ooooooooooo
+  3 ooooooooooo
+  4 ooooooooooo
+  5 ooooooooooo
+  6 ooooooooooo
+  7 ooooooooooo
+  8 ooooooooooo
+  9 ooooooooooo
+ 10 ooooooooooo
+ 11 ooooooooooo
+ 12 ooooooooooo
+ 13 ooooooooooo
+ 14 ooooooooooo
+ 15 ooooooooooo
+ 16 ooooooooooo
+ 17 ooooooooooo
+ 18 ooooooooooo
+ 19 ooooooooooo
+ 20 ooooooooooo
+ 21 ooooooooooo
+ 22 ooooooooooo
+ 23 ooooooooooo
+ 24 ooooooooooo
+ 25 ooooooooooo
+ 26 ooooooooooo
+ 27 ooooooooooo
+ 28 ooooooooooo
+ 29 ooooooooooo
+ 30 ooooooooooo
+ 31 ooooooooooo
+ 32 ooooooooooo
+ 33 ooooooooooo
+ 34 ooooooooooo
+ 35 ooooooooooo
+ 36 ooooooooooo
+ 37 ooooooooooo
+ 38 ooooooooooo
+ 39 ooooooooooo
+ 40 ooooooooooo
+ 41 ooooooooooo
+ 42 ooooooooooo
+ 43 ooooooooooo
+ 44 ooooooooooo
+ 45 ooooooooooo
+ 46 ooooooooooo
+ 47 ooooooooooo
+ 48 ooooooooooo
+ 49 ooooooooooo
+ 50 ooooooooooo
+ 51 ooooooooooo
+ 52 ooooooooooo
+ 53 ooooooooooo
+ 54 ooooooooooo
+ 55 ooooooooooo
+ 56 ooooooooooo
+ 57 ooooooooooo
+ 58 ooooooooooo
+ 59 ooooooooooo
+ 60 ooooooooooo
+ 61 ooooooooooo
+ 62 ooooooooooo
+ 63 ooooooooooo
+ 64 ooooooooooo
+ 65 ooooooooooo
+ 66 ooooooooooo
+ 67 ooooooooooo
+ 68 ooooooooooo
+ 69 ooooooooooo
+ 70 ooooooooooo
+ 71 ooooooooooo
+ 72 ooooooooooo
+ 73 ooooooooooo
+ 74 ooooooooooo
+ 75 ooooooooooo
+ 76 ooooooooooo
+ 77 ooooooooooo
+ 78 ooooooooooo
+ 79 ooooooooooo
+ 80 ooooooooooo
+ 81 ooooooooooo
+ 82 ooooooooooo
+ 83 ooooooooooo
+ 84 ooooooooooo
+ 85 ooooooooooo
+ 86 ooooooooooo
+ 87 ooooooooooo
+ 88 ooooooooooo
+ 89 ooooooooooo
+ 90 ooooooooooo
+ 91 ooooooooooo
+ 92 ooooooooooo
+ 93 ooooooooooo
+ 94 ooooooooooo
+ 95 ooooooooooo
+ 96 ooooooooooo
+ 97 ooooooooooo
+ 98 ooooooooooo
+ 99 ooooooooooo
+100 ooooooooooo
+101 ooooooooooo
+102 ooooooooooo
+103 ooooooooooo
+104 ooooooooooo
+105 ooooooooooo
+106 ooooooooooo
+107 ooooooooooo
+108 ooooooooooo
+109 ooooooooooo
+110 ooooooooooo
+111 ooooooooooo
+112 ooooooooooo
+113 ooooooooooo
+114 ooooooooooo
+115 ooooooooooo
+116 ooooooooooo
+117 ooooooooooo
+118 ooooooooooo
+119 ooooooooooo
+120 ooooooooooo
+121 ooooooooooo
+122 ooooooooooo
+123 ooooooooooo
+124 ooooooooooo
+125 ooooooooooo
+126 ooooooooooo
+127 ooooooooooo
+128 ooooooooooo
+129 ooooooooooo
+130 ooooooooooo
+131 ooooooooooo
+132 ooooooooooo
+133 ooooooooooo
+134 ooooooooooo
+135 ooooooooooo
+136 ooooooooooo
+137 ooooooooooo
+138 ooooooooooo
+139 ooooooooooo
+140 ooooooooooo
+141 ooooooooooo
+142 ooooooooooo
+143 ooooooooooo
+144 ooooooooooo
+145 ooooooooooo
+146 ooooooooooo
+147 ooooooooooo
+148 ooooooooooo
+149 ooooooooooo
+150 ooooooooooo
+151 ooooooooooo
+152 ooooooooooo
+153 ooooooooooo
+154 ooooooooooo
+155 ooooooooooo
+156 ooooooooooo
+157 ooooooooooo
+158 ooooooooooo
+159 ooooooooooo
+160 ooooooooooo
+161 ooooooooooo
+162 ooooooooooo
+    *
+[ 1783 = 162 * _11_ + 1 ]
+
+  1 oooooooooooo
+  2 oooooooooooo
+  3 oooooooooooo
+  4 oooooooooooo
+  5 oooooooooooo
+  6 oooooooooooo
+  7 oooooooooooo
+  8 oooooooooooo
+  9 oooooooooooo
+ 10 oooooooooooo
+ 11 oooooooooooo
+ 12 oooooooooooo
+ 13 oooooooooooo
+ 14 oooooooooooo
+ 15 oooooooooooo
+ 16 oooooooooooo
+ 17 oooooooooooo
+ 18 oooooooooooo
+ 19 oooooooooooo
+ 20 oooooooooooo
+ 21 oooooooooooo
+ 22 oooooooooooo
+ 23 oooooooooooo
+ 24 oooooooooooo
+ 25 oooooooooooo
+ 26 oooooooooooo
+ 27 oooooooooooo
+ 28 oooooooooooo
+ 29 oooooooooooo
+ 30 oooooooooooo
+ 31 oooooooooooo
+ 32 oooooooooooo
+ 33 oooooooooooo
+ 34 oooooooooooo
+ 35 oooooooooooo
+ 36 oooooooooooo
+ 37 oooooooooooo
+ 38 oooooooooooo
+ 39 oooooooooooo
+ 40 oooooooooooo
+ 41 oooooooooooo
+ 42 oooooooooooo
+ 43 oooooooooooo
+ 44 oooooooooooo
+ 45 oooooooooooo
+ 46 oooooooooooo
+ 47 oooooooooooo
+ 48 oooooooooooo
+ 49 oooooooooooo
+ 50 oooooooooooo
+ 51 oooooooooooo
+ 52 oooooooooooo
+ 53 oooooooooooo
+ 54 oooooooooooo
+ 55 oooooooooooo
+ 56 oooooooooooo
+ 57 oooooooooooo
+ 58 oooooooooooo
+ 59 oooooooooooo
+ 60 oooooooooooo
+ 61 oooooooooooo
+ 62 oooooooooooo
+ 63 oooooooooooo
+ 64 oooooooooooo
+ 65 oooooooooooo
+ 66 oooooooooooo
+ 67 oooooooooooo
+ 68 oooooooooooo
+ 69 oooooooooooo
+ 70 oooooooooooo
+ 71 oooooooooooo
+ 72 oooooooooooo
+ 73 oooooooooooo
+ 74 oooooooooooo
+ 75 oooooooooooo
+ 76 oooooooooooo
+ 77 oooooooooooo
+ 78 oooooooooooo
+ 79 oooooooooooo
+ 80 oooooooooooo
+ 81 oooooooooooo
+ 82 oooooooooooo
+ 83 oooooooooooo
+ 84 oooooooooooo
+ 85 oooooooooooo
+ 86 oooooooooooo
+ 87 oooooooooooo
+ 88 oooooooooooo
+ 89 oooooooooooo
+ 90 oooooooooooo
+ 91 oooooooooooo
+ 92 oooooooooooo
+ 93 oooooooooooo
+ 94 oooooooooooo
+ 95 oooooooooooo
+ 96 oooooooooooo
+ 97 oooooooooooo
+ 98 oooooooooooo
+ 99 oooooooooooo
+100 oooooooooooo
+101 oooooooooooo
+102 oooooooooooo
+103 oooooooooooo
+104 oooooooooooo
+105 oooooooooooo
+106 oooooooooooo
+107 oooooooooooo
+108 oooooooooooo
+109 oooooooooooo
+110 oooooooooooo
+111 oooooooooooo
+112 oooooooooooo
+113 oooooooooooo
+114 oooooooooooo
+115 oooooooooooo
+116 oooooooooooo
+117 oooooooooooo
+118 oooooooooooo
+119 oooooooooooo
+120 oooooooooooo
+121 oooooooooooo
+122 oooooooooooo
+123 oooooooooooo
+124 oooooooooooo
+125 oooooooooooo
+126 oooooooooooo
+127 oooooooooooo
+128 oooooooooooo
+129 oooooooooooo
+130 oooooooooooo
+131 oooooooooooo
+132 oooooooooooo
+133 oooooooooooo
+134 oooooooooooo
+135 oooooooooooo
+136 oooooooooooo
+137 oooooooooooo
+138 oooooooooooo
+139 oooooooooooo
+140 oooooooooooo
+141 oooooooooooo
+142 oooooooooooo
+143 oooooooooooo
+144 oooooooooooo
+145 oooooooooooo
+146 oooooooooooo
+147 oooooooooooo
+148 oooooooooooo
+    *******
+[ 1783 = 148 * _12_ + 7 ]
+
+  1 ooooooooooooo
+  2 ooooooooooooo
+  3 ooooooooooooo
+  4 ooooooooooooo
+  5 ooooooooooooo
+  6 ooooooooooooo
+  7 ooooooooooooo
+  8 ooooooooooooo
+  9 ooooooooooooo
+ 10 ooooooooooooo
+ 11 ooooooooooooo
+ 12 ooooooooooooo
+ 13 ooooooooooooo
+ 14 ooooooooooooo
+ 15 ooooooooooooo
+ 16 ooooooooooooo
+ 17 ooooooooooooo
+ 18 ooooooooooooo
+ 19 ooooooooooooo
+ 20 ooooooooooooo
+ 21 ooooooooooooo
+ 22 ooooooooooooo
+ 23 ooooooooooooo
+ 24 ooooooooooooo
+ 25 ooooooooooooo
+ 26 ooooooooooooo
+ 27 ooooooooooooo
+ 28 ooooooooooooo
+ 29 ooooooooooooo
+ 30 ooooooooooooo
+ 31 ooooooooooooo
+ 32 ooooooooooooo
+ 33 ooooooooooooo
+ 34 ooooooooooooo
+ 35 ooooooooooooo
+ 36 ooooooooooooo
+ 37 ooooooooooooo
+ 38 ooooooooooooo
+ 39 ooooooooooooo
+ 40 ooooooooooooo
+ 41 ooooooooooooo
+ 42 ooooooooooooo
+ 43 ooooooooooooo
+ 44 ooooooooooooo
+ 45 ooooooooooooo
+ 46 ooooooooooooo
+ 47 ooooooooooooo
+ 48 ooooooooooooo
+ 49 ooooooooooooo
+ 50 ooooooooooooo
+ 51 ooooooooooooo
+ 52 ooooooooooooo
+ 53 ooooooooooooo
+ 54 ooooooooooooo
+ 55 ooooooooooooo
+ 56 ooooooooooooo
+ 57 ooooooooooooo
+ 58 ooooooooooooo
+ 59 ooooooooooooo
+ 60 ooooooooooooo
+ 61 ooooooooooooo
+ 62 ooooooooooooo
+ 63 ooooooooooooo
+ 64 ooooooooooooo
+ 65 ooooooooooooo
+ 66 ooooooooooooo
+ 67 ooooooooooooo
+ 68 ooooooooooooo
+ 69 ooooooooooooo
+ 70 ooooooooooooo
+ 71 ooooooooooooo
+ 72 ooooooooooooo
+ 73 ooooooooooooo
+ 74 ooooooooooooo
+ 75 ooooooooooooo
+ 76 ooooooooooooo
+ 77 ooooooooooooo
+ 78 ooooooooooooo
+ 79 ooooooooooooo
+ 80 ooooooooooooo
+ 81 ooooooooooooo
+ 82 ooooooooooooo
+ 83 ooooooooooooo
+ 84 ooooooooooooo
+ 85 ooooooooooooo
+ 86 ooooooooooooo
+ 87 ooooooooooooo
+ 88 ooooooooooooo
+ 89 ooooooooooooo
+ 90 ooooooooooooo
+ 91 ooooooooooooo
+ 92 ooooooooooooo
+ 93 ooooooooooooo
+ 94 ooooooooooooo
+ 95 ooooooooooooo
+ 96 ooooooooooooo
+ 97 ooooooooooooo
+ 98 ooooooooooooo
+ 99 ooooooooooooo
+100 ooooooooooooo
+101 ooooooooooooo
+102 ooooooooooooo
+103 ooooooooooooo
+104 ooooooooooooo
+105 ooooooooooooo
+106 ooooooooooooo
+107 ooooooooooooo
+108 ooooooooooooo
+109 ooooooooooooo
+110 ooooooooooooo
+111 ooooooooooooo
+112 ooooooooooooo
+113 ooooooooooooo
+114 ooooooooooooo
+115 ooooooooooooo
+116 ooooooooooooo
+117 ooooooooooooo
+118 ooooooooooooo
+119 ooooooooooooo
+120 ooooooooooooo
+121 ooooooooooooo
+122 ooooooooooooo
+123 ooooooooooooo
+124 ooooooooooooo
+125 ooooooooooooo
+126 ooooooooooooo
+127 ooooooooooooo
+128 ooooooooooooo
+129 ooooooooooooo
+130 ooooooooooooo
+131 ooooooooooooo
+132 ooooooooooooo
+133 ooooooooooooo
+134 ooooooooooooo
+135 ooooooooooooo
+136 ooooooooooooo
+137 ooooooooooooo
+    **
+[ 1783 = 137 * _13_ + 2 ]
+
+  1 oooooooooooooo
+  2 oooooooooooooo
+  3 oooooooooooooo
+  4 oooooooooooooo
+  5 oooooooooooooo
+  6 oooooooooooooo
+  7 oooooooooooooo
+  8 oooooooooooooo
+  9 oooooooooooooo
+ 10 oooooooooooooo
+ 11 oooooooooooooo
+ 12 oooooooooooooo
+ 13 oooooooooooooo
+ 14 oooooooooooooo
+ 15 oooooooooooooo
+ 16 oooooooooooooo
+ 17 oooooooooooooo
+ 18 oooooooooooooo
+ 19 oooooooooooooo
+ 20 oooooooooooooo
+ 21 oooooooooooooo
+ 22 oooooooooooooo
+ 23 oooooooooooooo
+ 24 oooooooooooooo
+ 25 oooooooooooooo
+ 26 oooooooooooooo
+ 27 oooooooooooooo
+ 28 oooooooooooooo
+ 29 oooooooooooooo
+ 30 oooooooooooooo
+ 31 oooooooooooooo
+ 32 oooooooooooooo
+ 33 oooooooooooooo
+ 34 oooooooooooooo
+ 35 oooooooooooooo
+ 36 oooooooooooooo
+ 37 oooooooooooooo
+ 38 oooooooooooooo
+ 39 oooooooooooooo
+ 40 oooooooooooooo
+ 41 oooooooooooooo
+ 42 oooooooooooooo
+ 43 oooooooooooooo
+ 44 oooooooooooooo
+ 45 oooooooooooooo
+ 46 oooooooooooooo
+ 47 oooooooooooooo
+ 48 oooooooooooooo
+ 49 oooooooooooooo
+ 50 oooooooooooooo
+ 51 oooooooooooooo
+ 52 oooooooooooooo
+ 53 oooooooooooooo
+ 54 oooooooooooooo
+ 55 oooooooooooooo
+ 56 oooooooooooooo
+ 57 oooooooooooooo
+ 58 oooooooooooooo
+ 59 oooooooooooooo
+ 60 oooooooooooooo
+ 61 oooooooooooooo
+ 62 oooooooooooooo
+ 63 oooooooooooooo
+ 64 oooooooooooooo
+ 65 oooooooooooooo
+ 66 oooooooooooooo
+ 67 oooooooooooooo
+ 68 oooooooooooooo
+ 69 oooooooooooooo
+ 70 oooooooooooooo
+ 71 oooooooooooooo
+ 72 oooooooooooooo
+ 73 oooooooooooooo
+ 74 oooooooooooooo
+ 75 oooooooooooooo
+ 76 oooooooooooooo
+ 77 oooooooooooooo
+ 78 oooooooooooooo
+ 79 oooooooooooooo
+ 80 oooooooooooooo
+ 81 oooooooooooooo
+ 82 oooooooooooooo
+ 83 oooooooooooooo
+ 84 oooooooooooooo
+ 85 oooooooooooooo
+ 86 oooooooooooooo
+ 87 oooooooooooooo
+ 88 oooooooooooooo
+ 89 oooooooooooooo
+ 90 oooooooooooooo
+ 91 oooooooooooooo
+ 92 oooooooooooooo
+ 93 oooooooooooooo
+ 94 oooooooooooooo
+ 95 oooooooooooooo
+ 96 oooooooooooooo
+ 97 oooooooooooooo
+ 98 oooooooooooooo
+ 99 oooooooooooooo
+100 oooooooooooooo
+101 oooooooooooooo
+102 oooooooooooooo
+103 oooooooooooooo
+104 oooooooooooooo
+105 oooooooooooooo
+106 oooooooooooooo
+107 oooooooooooooo
+108 oooooooooooooo
+109 oooooooooooooo
+110 oooooooooooooo
+111 oooooooooooooo
+112 oooooooooooooo
+113 oooooooooooooo
+114 oooooooooooooo
+115 oooooooooooooo
+116 oooooooooooooo
+117 oooooooooooooo
+118 oooooooooooooo
+119 oooooooooooooo
+120 oooooooooooooo
+121 oooooooooooooo
+122 oooooooooooooo
+123 oooooooooooooo
+124 oooooooooooooo
+125 oooooooooooooo
+126 oooooooooooooo
+127 oooooooooooooo
+    *****
+[ 1783 = 127 * _14_ + 5 ]
+
+  1 ooooooooooooooo
+  2 ooooooooooooooo
+  3 ooooooooooooooo
+  4 ooooooooooooooo
+  5 ooooooooooooooo
+  6 ooooooooooooooo
+  7 ooooooooooooooo
+  8 ooooooooooooooo
+  9 ooooooooooooooo
+ 10 ooooooooooooooo
+ 11 ooooooooooooooo
+ 12 ooooooooooooooo
+ 13 ooooooooooooooo
+ 14 ooooooooooooooo
+ 15 ooooooooooooooo
+ 16 ooooooooooooooo
+ 17 ooooooooooooooo
+ 18 ooooooooooooooo
+ 19 ooooooooooooooo
+ 20 ooooooooooooooo
+ 21 ooooooooooooooo
+ 22 ooooooooooooooo
+ 23 ooooooooooooooo
+ 24 ooooooooooooooo
+ 25 ooooooooooooooo
+ 26 ooooooooooooooo
+ 27 ooooooooooooooo
+ 28 ooooooooooooooo
+ 29 ooooooooooooooo
+ 30 ooooooooooooooo
+ 31 ooooooooooooooo
+ 32 ooooooooooooooo
+ 33 ooooooooooooooo
+ 34 ooooooooooooooo
+ 35 ooooooooooooooo
+ 36 ooooooooooooooo
+ 37 ooooooooooooooo
+ 38 ooooooooooooooo
+ 39 ooooooooooooooo
+ 40 ooooooooooooooo
+ 41 ooooooooooooooo
+ 42 ooooooooooooooo
+ 43 ooooooooooooooo
+ 44 ooooooooooooooo
+ 45 ooooooooooooooo
+ 46 ooooooooooooooo
+ 47 ooooooooooooooo
+ 48 ooooooooooooooo
+ 49 ooooooooooooooo
+ 50 ooooooooooooooo
+ 51 ooooooooooooooo
+ 52 ooooooooooooooo
+ 53 ooooooooooooooo
+ 54 ooooooooooooooo
+ 55 ooooooooooooooo
+ 56 ooooooooooooooo
+ 57 ooooooooooooooo
+ 58 ooooooooooooooo
+ 59 ooooooooooooooo
+ 60 ooooooooooooooo
+ 61 ooooooooooooooo
+ 62 ooooooooooooooo
+ 63 ooooooooooooooo
+ 64 ooooooooooooooo
+ 65 ooooooooooooooo
+ 66 ooooooooooooooo
+ 67 ooooooooooooooo
+ 68 ooooooooooooooo
+ 69 ooooooooooooooo
+ 70 ooooooooooooooo
+ 71 ooooooooooooooo
+ 72 ooooooooooooooo
+ 73 ooooooooooooooo
+ 74 ooooooooooooooo
+ 75 ooooooooooooooo
+ 76 ooooooooooooooo
+ 77 ooooooooooooooo
+ 78 ooooooooooooooo
+ 79 ooooooooooooooo
+ 80 ooooooooooooooo
+ 81 ooooooooooooooo
+ 82 ooooooooooooooo
+ 83 ooooooooooooooo
+ 84 ooooooooooooooo
+ 85 ooooooooooooooo
+ 86 ooooooooooooooo
+ 87 ooooooooooooooo
+ 88 ooooooooooooooo
+ 89 ooooooooooooooo
+ 90 ooooooooooooooo
+ 91 ooooooooooooooo
+ 92 ooooooooooooooo
+ 93 ooooooooooooooo
+ 94 ooooooooooooooo
+ 95 ooooooooooooooo
+ 96 ooooooooooooooo
+ 97 ooooooooooooooo
+ 98 ooooooooooooooo
+ 99 ooooooooooooooo
+100 ooooooooooooooo
+101 ooooooooooooooo
+102 ooooooooooooooo
+103 ooooooooooooooo
+104 ooooooooooooooo
+105 ooooooooooooooo
+106 ooooooooooooooo
+107 ooooooooooooooo
+108 ooooooooooooooo
+109 ooooooooooooooo
+110 ooooooooooooooo
+111 ooooooooooooooo
+112 ooooooooooooooo
+113 ooooooooooooooo
+114 ooooooooooooooo
+115 ooooooooooooooo
+116 ooooooooooooooo
+117 ooooooooooooooo
+118 ooooooooooooooo
+    *************
+[ 1783 = 118 * _15_ + 13 ]
+
+  1 oooooooooooooooo
+  2 oooooooooooooooo
+  3 oooooooooooooooo
+  4 oooooooooooooooo
+  5 oooooooooooooooo
+  6 oooooooooooooooo
+  7 oooooooooooooooo
+  8 oooooooooooooooo
+  9 oooooooooooooooo
+ 10 oooooooooooooooo
+ 11 oooooooooooooooo
+ 12 oooooooooooooooo
+ 13 oooooooooooooooo
+ 14 oooooooooooooooo
+ 15 oooooooooooooooo
+ 16 oooooooooooooooo
+ 17 oooooooooooooooo
+ 18 oooooooooooooooo
+ 19 oooooooooooooooo
+ 20 oooooooooooooooo
+ 21 oooooooooooooooo
+ 22 oooooooooooooooo
+ 23 oooooooooooooooo
+ 24 oooooooooooooooo
+ 25 oooooooooooooooo
+ 26 oooooooooooooooo
+ 27 oooooooooooooooo
+ 28 oooooooooooooooo
+ 29 oooooooooooooooo
+ 30 oooooooooooooooo
+ 31 oooooooooooooooo
+ 32 oooooooooooooooo
+ 33 oooooooooooooooo
+ 34 oooooooooooooooo
+ 35 oooooooooooooooo
+ 36 oooooooooooooooo
+ 37 oooooooooooooooo
+ 38 oooooooooooooooo
+ 39 oooooooooooooooo
+ 40 oooooooooooooooo
+ 41 oooooooooooooooo
+ 42 oooooooooooooooo
+ 43 oooooooooooooooo
+ 44 oooooooooooooooo
+ 45 oooooooooooooooo
+ 46 oooooooooooooooo
+ 47 oooooooooooooooo
+ 48 oooooooooooooooo
+ 49 oooooooooooooooo
+ 50 oooooooooooooooo
+ 51 oooooooooooooooo
+ 52 oooooooooooooooo
+ 53 oooooooooooooooo
+ 54 oooooooooooooooo
+ 55 oooooooooooooooo
+ 56 oooooooooooooooo
+ 57 oooooooooooooooo
+ 58 oooooooooooooooo
+ 59 oooooooooooooooo
+ 60 oooooooooooooooo
+ 61 oooooooooooooooo
+ 62 oooooooooooooooo
+ 63 oooooooooooooooo
+ 64 oooooooooooooooo
+ 65 oooooooooooooooo
+ 66 oooooooooooooooo
+ 67 oooooooooooooooo
+ 68 oooooooooooooooo
+ 69 oooooooooooooooo
+ 70 oooooooooooooooo
+ 71 oooooooooooooooo
+ 72 oooooooooooooooo
+ 73 oooooooooooooooo
+ 74 oooooooooooooooo
+ 75 oooooooooooooooo
+ 76 oooooooooooooooo
+ 77 oooooooooooooooo
+ 78 oooooooooooooooo
+ 79 oooooooooooooooo
+ 80 oooooooooooooooo
+ 81 oooooooooooooooo
+ 82 oooooooooooooooo
+ 83 oooooooooooooooo
+ 84 oooooooooooooooo
+ 85 oooooooooooooooo
+ 86 oooooooooooooooo
+ 87 oooooooooooooooo
+ 88 oooooooooooooooo
+ 89 oooooooooooooooo
+ 90 oooooooooooooooo
+ 91 oooooooooooooooo
+ 92 oooooooooooooooo
+ 93 oooooooooooooooo
+ 94 oooooooooooooooo
+ 95 oooooooooooooooo
+ 96 oooooooooooooooo
+ 97 oooooooooooooooo
+ 98 oooooooooooooooo
+ 99 oooooooooooooooo
+100 oooooooooooooooo
+101 oooooooooooooooo
+102 oooooooooooooooo
+103 oooooooooooooooo
+104 oooooooooooooooo
+105 oooooooooooooooo
+106 oooooooooooooooo
+107 oooooooooooooooo
+108 oooooooooooooooo
+109 oooooooooooooooo
+110 oooooooooooooooo
+111 oooooooooooooooo
+    *******
+[ 1783 = 111 * _16_ + 7 ]
+
+  1 ooooooooooooooooo
+  2 ooooooooooooooooo
+  3 ooooooooooooooooo
+  4 ooooooooooooooooo
+  5 ooooooooooooooooo
+  6 ooooooooooooooooo
+  7 ooooooooooooooooo
+  8 ooooooooooooooooo
+  9 ooooooooooooooooo
+ 10 ooooooooooooooooo
+ 11 ooooooooooooooooo
+ 12 ooooooooooooooooo
+ 13 ooooooooooooooooo
+ 14 ooooooooooooooooo
+ 15 ooooooooooooooooo
+ 16 ooooooooooooooooo
+ 17 ooooooooooooooooo
+ 18 ooooooooooooooooo
+ 19 ooooooooooooooooo
+ 20 ooooooooooooooooo
+ 21 ooooooooooooooooo
+ 22 ooooooooooooooooo
+ 23 ooooooooooooooooo
+ 24 ooooooooooooooooo
+ 25 ooooooooooooooooo
+ 26 ooooooooooooooooo
+ 27 ooooooooooooooooo
+ 28 ooooooooooooooooo
+ 29 ooooooooooooooooo
+ 30 ooooooooooooooooo
+ 31 ooooooooooooooooo
+ 32 ooooooooooooooooo
+ 33 ooooooooooooooooo
+ 34 ooooooooooooooooo
+ 35 ooooooooooooooooo
+ 36 ooooooooooooooooo
+ 37 ooooooooooooooooo
+ 38 ooooooooooooooooo
+ 39 ooooooooooooooooo
+ 40 ooooooooooooooooo
+ 41 ooooooooooooooooo
+ 42 ooooooooooooooooo
+ 43 ooooooooooooooooo
+ 44 ooooooooooooooooo
+ 45 ooooooooooooooooo
+ 46 ooooooooooooooooo
+ 47 ooooooooooooooooo
+ 48 ooooooooooooooooo
+ 49 ooooooooooooooooo
+ 50 ooooooooooooooooo
+ 51 ooooooooooooooooo
+ 52 ooooooooooooooooo
+ 53 ooooooooooooooooo
+ 54 ooooooooooooooooo
+ 55 ooooooooooooooooo
+ 56 ooooooooooooooooo
+ 57 ooooooooooooooooo
+ 58 ooooooooooooooooo
+ 59 ooooooooooooooooo
+ 60 ooooooooooooooooo
+ 61 ooooooooooooooooo
+ 62 ooooooooooooooooo
+ 63 ooooooooooooooooo
+ 64 ooooooooooooooooo
+ 65 ooooooooooooooooo
+ 66 ooooooooooooooooo
+ 67 ooooooooooooooooo
+ 68 ooooooooooooooooo
+ 69 ooooooooooooooooo
+ 70 ooooooooooooooooo
+ 71 ooooooooooooooooo
+ 72 ooooooooooooooooo
+ 73 ooooooooooooooooo
+ 74 ooooooooooooooooo
+ 75 ooooooooooooooooo
+ 76 ooooooooooooooooo
+ 77 ooooooooooooooooo
+ 78 ooooooooooooooooo
+ 79 ooooooooooooooooo
+ 80 ooooooooooooooooo
+ 81 ooooooooooooooooo
+ 82 ooooooooooooooooo
+ 83 ooooooooooooooooo
+ 84 ooooooooooooooooo
+ 85 ooooooooooooooooo
+ 86 ooooooooooooooooo
+ 87 ooooooooooooooooo
+ 88 ooooooooooooooooo
+ 89 ooooooooooooooooo
+ 90 ooooooooooooooooo
+ 91 ooooooooooooooooo
+ 92 ooooooooooooooooo
+ 93 ooooooooooooooooo
+ 94 ooooooooooooooooo
+ 95 ooooooooooooooooo
+ 96 ooooooooooooooooo
+ 97 ooooooooooooooooo
+ 98 ooooooooooooooooo
+ 99 ooooooooooooooooo
+100 ooooooooooooooooo
+101 ooooooooooooooooo
+102 ooooooooooooooooo
+103 ooooooooooooooooo
+104 ooooooooooooooooo
+    ***************
+[ 1783 = 104 * _17_ + 15 ]
+
+  1 oooooooooooooooooo
+  2 oooooooooooooooooo
+  3 oooooooooooooooooo
+  4 oooooooooooooooooo
+  5 oooooooooooooooooo
+  6 oooooooooooooooooo
+  7 oooooooooooooooooo
+  8 oooooooooooooooooo
+  9 oooooooooooooooooo
+ 10 oooooooooooooooooo
+ 11 oooooooooooooooooo
+ 12 oooooooooooooooooo
+ 13 oooooooooooooooooo
+ 14 oooooooooooooooooo
+ 15 oooooooooooooooooo
+ 16 oooooooooooooooooo
+ 17 oooooooooooooooooo
+ 18 oooooooooooooooooo
+ 19 oooooooooooooooooo
+ 20 oooooooooooooooooo
+ 21 oooooooooooooooooo
+ 22 oooooooooooooooooo
+ 23 oooooooooooooooooo
+ 24 oooooooooooooooooo
+ 25 oooooooooooooooooo
+ 26 oooooooooooooooooo
+ 27 oooooooooooooooooo
+ 28 oooooooooooooooooo
+ 29 oooooooooooooooooo
+ 30 oooooooooooooooooo
+ 31 oooooooooooooooooo
+ 32 oooooooooooooooooo
+ 33 oooooooooooooooooo
+ 34 oooooooooooooooooo
+ 35 oooooooooooooooooo
+ 36 oooooooooooooooooo
+ 37 oooooooooooooooooo
+ 38 oooooooooooooooooo
+ 39 oooooooooooooooooo
+ 40 oooooooooooooooooo
+ 41 oooooooooooooooooo
+ 42 oooooooooooooooooo
+ 43 oooooooooooooooooo
+ 44 oooooooooooooooooo
+ 45 oooooooooooooooooo
+ 46 oooooooooooooooooo
+ 47 oooooooooooooooooo
+ 48 oooooooooooooooooo
+ 49 oooooooooooooooooo
+ 50 oooooooooooooooooo
+ 51 oooooooooooooooooo
+ 52 oooooooooooooooooo
+ 53 oooooooooooooooooo
+ 54 oooooooooooooooooo
+ 55 oooooooooooooooooo
+ 56 oooooooooooooooooo
+ 57 oooooooooooooooooo
+ 58 oooooooooooooooooo
+ 59 oooooooooooooooooo
+ 60 oooooooooooooooooo
+ 61 oooooooooooooooooo
+ 62 oooooooooooooooooo
+ 63 oooooooooooooooooo
+ 64 oooooooooooooooooo
+ 65 oooooooooooooooooo
+ 66 oooooooooooooooooo
+ 67 oooooooooooooooooo
+ 68 oooooooooooooooooo
+ 69 oooooooooooooooooo
+ 70 oooooooooooooooooo
+ 71 oooooooooooooooooo
+ 72 oooooooooooooooooo
+ 73 oooooooooooooooooo
+ 74 oooooooooooooooooo
+ 75 oooooooooooooooooo
+ 76 oooooooooooooooooo
+ 77 oooooooooooooooooo
+ 78 oooooooooooooooooo
+ 79 oooooooooooooooooo
+ 80 oooooooooooooooooo
+ 81 oooooooooooooooooo
+ 82 oooooooooooooooooo
+ 83 oooooooooooooooooo
+ 84 oooooooooooooooooo
+ 85 oooooooooooooooooo
+ 86 oooooooooooooooooo
+ 87 oooooooooooooooooo
+ 88 oooooooooooooooooo
+ 89 oooooooooooooooooo
+ 90 oooooooooooooooooo
+ 91 oooooooooooooooooo
+ 92 oooooooooooooooooo
+ 93 oooooooooooooooooo
+ 94 oooooooooooooooooo
+ 95 oooooooooooooooooo
+ 96 oooooooooooooooooo
+ 97 oooooooooooooooooo
+ 98 oooooooooooooooooo
+ 99 oooooooooooooooooo
+    *
+[ 1783 = 99 * _18_ + 1 ]
+
+  1 ooooooooooooooooooo
+  2 ooooooooooooooooooo
+  3 ooooooooooooooooooo
+  4 ooooooooooooooooooo
+  5 ooooooooooooooooooo
+  6 ooooooooooooooooooo
+  7 ooooooooooooooooooo
+  8 ooooooooooooooooooo
+  9 ooooooooooooooooooo
+ 10 ooooooooooooooooooo
+ 11 ooooooooooooooooooo
+ 12 ooooooooooooooooooo
+ 13 ooooooooooooooooooo
+ 14 ooooooooooooooooooo
+ 15 ooooooooooooooooooo
+ 16 ooooooooooooooooooo
+ 17 ooooooooooooooooooo
+ 18 ooooooooooooooooooo
+ 19 ooooooooooooooooooo
+ 20 ooooooooooooooooooo
+ 21 ooooooooooooooooooo
+ 22 ooooooooooooooooooo
+ 23 ooooooooooooooooooo
+ 24 ooooooooooooooooooo
+ 25 ooooooooooooooooooo
+ 26 ooooooooooooooooooo
+ 27 ooooooooooooooooooo
+ 28 ooooooooooooooooooo
+ 29 ooooooooooooooooooo
+ 30 ooooooooooooooooooo
+ 31 ooooooooooooooooooo
+ 32 ooooooooooooooooooo
+ 33 ooooooooooooooooooo
+ 34 ooooooooooooooooooo
+ 35 ooooooooooooooooooo
+ 36 ooooooooooooooooooo
+ 37 ooooooooooooooooooo
+ 38 ooooooooooooooooooo
+ 39 ooooooooooooooooooo
+ 40 ooooooooooooooooooo
+ 41 ooooooooooooooooooo
+ 42 ooooooooooooooooooo
+ 43 ooooooooooooooooooo
+ 44 ooooooooooooooooooo
+ 45 ooooooooooooooooooo
+ 46 ooooooooooooooooooo
+ 47 ooooooooooooooooooo
+ 48 ooooooooooooooooooo
+ 49 ooooooooooooooooooo
+ 50 ooooooooooooooooooo
+ 51 ooooooooooooooooooo
+ 52 ooooooooooooooooooo
+ 53 ooooooooooooooooooo
+ 54 ooooooooooooooooooo
+ 55 ooooooooooooooooooo
+ 56 ooooooooooooooooooo
+ 57 ooooooooooooooooooo
+ 58 ooooooooooooooooooo
+ 59 ooooooooooooooooooo
+ 60 ooooooooooooooooooo
+ 61 ooooooooooooooooooo
+ 62 ooooooooooooooooooo
+ 63 ooooooooooooooooooo
+ 64 ooooooooooooooooooo
+ 65 ooooooooooooooooooo
+ 66 ooooooooooooooooooo
+ 67 ooooooooooooooooooo
+ 68 ooooooooooooooooooo
+ 69 ooooooooooooooooooo
+ 70 ooooooooooooooooooo
+ 71 ooooooooooooooooooo
+ 72 ooooooooooooooooooo
+ 73 ooooooooooooooooooo
+ 74 ooooooooooooooooooo
+ 75 ooooooooooooooooooo
+ 76 ooooooooooooooooooo
+ 77 ooooooooooooooooooo
+ 78 ooooooooooooooooooo
+ 79 ooooooooooooooooooo
+ 80 ooooooooooooooooooo
+ 81 ooooooooooooooooooo
+ 82 ooooooooooooooooooo
+ 83 ooooooooooooooooooo
+ 84 ooooooooooooooooooo
+ 85 ooooooooooooooooooo
+ 86 ooooooooooooooooooo
+ 87 ooooooooooooooooooo
+ 88 ooooooooooooooooooo
+ 89 ooooooooooooooooooo
+ 90 ooooooooooooooooooo
+ 91 ooooooooooooooooooo
+ 92 ooooooooooooooooooo
+ 93 ooooooooooooooooooo
+    ****************
+[ 1783 = 93 * _19_ + 16 ]
+
+  1 oooooooooooooooooooo
+  2 oooooooooooooooooooo
+  3 oooooooooooooooooooo
+  4 oooooooooooooooooooo
+  5 oooooooooooooooooooo
+  6 oooooooooooooooooooo
+  7 oooooooooooooooooooo
+  8 oooooooooooooooooooo
+  9 oooooooooooooooooooo
+ 10 oooooooooooooooooooo
+ 11 oooooooooooooooooooo
+ 12 oooooooooooooooooooo
+ 13 oooooooooooooooooooo
+ 14 oooooooooooooooooooo
+ 15 oooooooooooooooooooo
+ 16 oooooooooooooooooooo
+ 17 oooooooooooooooooooo
+ 18 oooooooooooooooooooo
+ 19 oooooooooooooooooooo
+ 20 oooooooooooooooooooo
+ 21 oooooooooooooooooooo
+ 22 oooooooooooooooooooo
+ 23 oooooooooooooooooooo
+ 24 oooooooooooooooooooo
+ 25 oooooooooooooooooooo
+ 26 oooooooooooooooooooo
+ 27 oooooooooooooooooooo
+ 28 oooooooooooooooooooo
+ 29 oooooooooooooooooooo
+ 30 oooooooooooooooooooo
+ 31 oooooooooooooooooooo
+ 32 oooooooooooooooooooo
+ 33 oooooooooooooooooooo
+ 34 oooooooooooooooooooo
+ 35 oooooooooooooooooooo
+ 36 oooooooooooooooooooo
+ 37 oooooooooooooooooooo
+ 38 oooooooooooooooooooo
+ 39 oooooooooooooooooooo
+ 40 oooooooooooooooooooo
+ 41 oooooooooooooooooooo
+ 42 oooooooooooooooooooo
+ 43 oooooooooooooooooooo
+ 44 oooooooooooooooooooo
+ 45 oooooooooooooooooooo
+ 46 oooooooooooooooooooo
+ 47 oooooooooooooooooooo
+ 48 oooooooooooooooooooo
+ 49 oooooooooooooooooooo
+ 50 oooooooooooooooooooo
+ 51 oooooooooooooooooooo
+ 52 oooooooooooooooooooo
+ 53 oooooooooooooooooooo
+ 54 oooooooooooooooooooo
+ 55 oooooooooooooooooooo
+ 56 oooooooooooooooooooo
+ 57 oooooooooooooooooooo
+ 58 oooooooooooooooooooo
+ 59 oooooooooooooooooooo
+ 60 oooooooooooooooooooo
+ 61 oooooooooooooooooooo
+ 62 oooooooooooooooooooo
+ 63 oooooooooooooooooooo
+ 64 oooooooooooooooooooo
+ 65 oooooooooooooooooooo
+ 66 oooooooooooooooooooo
+ 67 oooooooooooooooooooo
+ 68 oooooooooooooooooooo
+ 69 oooooooooooooooooooo
+ 70 oooooooooooooooooooo
+ 71 oooooooooooooooooooo
+ 72 oooooooooooooooooooo
+ 73 oooooooooooooooooooo
+ 74 oooooooooooooooooooo
+ 75 oooooooooooooooooooo
+ 76 oooooooooooooooooooo
+ 77 oooooooooooooooooooo
+ 78 oooooooooooooooooooo
+ 79 oooooooooooooooooooo
+ 80 oooooooooooooooooooo
+ 81 oooooooooooooooooooo
+ 82 oooooooooooooooooooo
+ 83 oooooooooooooooooooo
+ 84 oooooooooooooooooooo
+ 85 oooooooooooooooooooo
+ 86 oooooooooooooooooooo
+ 87 oooooooooooooooooooo
+ 88 oooooooooooooooooooo
+ 89 oooooooooooooooooooo
+    ***
+[ 1783 = 89 * _20_ + 3 ]
+
+  1 ooooooooooooooooooooo
+  2 ooooooooooooooooooooo
+  3 ooooooooooooooooooooo
+  4 ooooooooooooooooooooo
+  5 ooooooooooooooooooooo
+  6 ooooooooooooooooooooo
+  7 ooooooooooooooooooooo
+  8 ooooooooooooooooooooo
+  9 ooooooooooooooooooooo
+ 10 ooooooooooooooooooooo
+ 11 ooooooooooooooooooooo
+ 12 ooooooooooooooooooooo
+ 13 ooooooooooooooooooooo
+ 14 ooooooooooooooooooooo
+ 15 ooooooooooooooooooooo
+ 16 ooooooooooooooooooooo
+ 17 ooooooooooooooooooooo
+ 18 ooooooooooooooooooooo
+ 19 ooooooooooooooooooooo
+ 20 ooooooooooooooooooooo
+ 21 ooooooooooooooooooooo
+ 22 ooooooooooooooooooooo
+ 23 ooooooooooooooooooooo
+ 24 ooooooooooooooooooooo
+ 25 ooooooooooooooooooooo
+ 26 ooooooooooooooooooooo
+ 27 ooooooooooooooooooooo
+ 28 ooooooooooooooooooooo
+ 29 ooooooooooooooooooooo
+ 30 ooooooooooooooooooooo
+ 31 ooooooooooooooooooooo
+ 32 ooooooooooooooooooooo
+ 33 ooooooooooooooooooooo
+ 34 ooooooooooooooooooooo
+ 35 ooooooooooooooooooooo
+ 36 ooooooooooooooooooooo
+ 37 ooooooooooooooooooooo
+ 38 ooooooooooooooooooooo
+ 39 ooooooooooooooooooooo
+ 40 ooooooooooooooooooooo
+ 41 ooooooooooooooooooooo
+ 42 ooooooooooooooooooooo
+ 43 ooooooooooooooooooooo
+ 44 ooooooooooooooooooooo
+ 45 ooooooooooooooooooooo
+ 46 ooooooooooooooooooooo
+ 47 ooooooooooooooooooooo
+ 48 ooooooooooooooooooooo
+ 49 ooooooooooooooooooooo
+ 50 ooooooooooooooooooooo
+ 51 ooooooooooooooooooooo
+ 52 ooooooooooooooooooooo
+ 53 ooooooooooooooooooooo
+ 54 ooooooooooooooooooooo
+ 55 ooooooooooooooooooooo
+ 56 ooooooooooooooooooooo
+ 57 ooooooooooooooooooooo
+ 58 ooooooooooooooooooooo
+ 59 ooooooooooooooooooooo
+ 60 ooooooooooooooooooooo
+ 61 ooooooooooooooooooooo
+ 62 ooooooooooooooooooooo
+ 63 ooooooooooooooooooooo
+ 64 ooooooooooooooooooooo
+ 65 ooooooooooooooooooooo
+ 66 ooooooooooooooooooooo
+ 67 ooooooooooooooooooooo
+ 68 ooooooooooooooooooooo
+ 69 ooooooooooooooooooooo
+ 70 ooooooooooooooooooooo
+ 71 ooooooooooooooooooooo
+ 72 ooooooooooooooooooooo
+ 73 ooooooooooooooooooooo
+ 74 ooooooooooooooooooooo
+ 75 ooooooooooooooooooooo
+ 76 ooooooooooooooooooooo
+ 77 ooooooooooooooooooooo
+ 78 ooooooooooooooooooooo
+ 79 ooooooooooooooooooooo
+ 80 ooooooooooooooooooooo
+ 81 ooooooooooooooooooooo
+ 82 ooooooooooooooooooooo
+ 83 ooooooooooooooooooooo
+ 84 ooooooooooooooooooooo
+    *******************
+[ 1783 = 84 * _21_ + 19 ]
+
+  1 oooooooooooooooooooooo
+  2 oooooooooooooooooooooo
+  3 oooooooooooooooooooooo
+  4 oooooooooooooooooooooo
+  5 oooooooooooooooooooooo
+  6 oooooooooooooooooooooo
+  7 oooooooooooooooooooooo
+  8 oooooooooooooooooooooo
+  9 oooooooooooooooooooooo
+ 10 oooooooooooooooooooooo
+ 11 oooooooooooooooooooooo
+ 12 oooooooooooooooooooooo
+ 13 oooooooooooooooooooooo
+ 14 oooooooooooooooooooooo
+ 15 oooooooooooooooooooooo
+ 16 oooooooooooooooooooooo
+ 17 oooooooooooooooooooooo
+ 18 oooooooooooooooooooooo
+ 19 oooooooooooooooooooooo
+ 20 oooooooooooooooooooooo
+ 21 oooooooooooooooooooooo
+ 22 oooooooooooooooooooooo
+ 23 oooooooooooooooooooooo
+ 24 oooooooooooooooooooooo
+ 25 oooooooooooooooooooooo
+ 26 oooooooooooooooooooooo
+ 27 oooooooooooooooooooooo
+ 28 oooooooooooooooooooooo
+ 29 oooooooooooooooooooooo
+ 30 oooooooooooooooooooooo
+ 31 oooooooooooooooooooooo
+ 32 oooooooooooooooooooooo
+ 33 oooooooooooooooooooooo
+ 34 oooooooooooooooooooooo
+ 35 oooooooooooooooooooooo
+ 36 oooooooooooooooooooooo
+ 37 oooooooooooooooooooooo
+ 38 oooooooooooooooooooooo
+ 39 oooooooooooooooooooooo
+ 40 oooooooooooooooooooooo
+ 41 oooooooooooooooooooooo
+ 42 oooooooooooooooooooooo
+ 43 oooooooooooooooooooooo
+ 44 oooooooooooooooooooooo
+ 45 oooooooooooooooooooooo
+ 46 oooooooooooooooooooooo
+ 47 oooooooooooooooooooooo
+ 48 oooooooooooooooooooooo
+ 49 oooooooooooooooooooooo
+ 50 oooooooooooooooooooooo
+ 51 oooooooooooooooooooooo
+ 52 oooooooooooooooooooooo
+ 53 oooooooooooooooooooooo
+ 54 oooooooooooooooooooooo
+ 55 oooooooooooooooooooooo
+ 56 oooooooooooooooooooooo
+ 57 oooooooooooooooooooooo
+ 58 oooooooooooooooooooooo
+ 59 oooooooooooooooooooooo
+ 60 oooooooooooooooooooooo
+ 61 oooooooooooooooooooooo
+ 62 oooooooooooooooooooooo
+ 63 oooooooooooooooooooooo
+ 64 oooooooooooooooooooooo
+ 65 oooooooooooooooooooooo
+ 66 oooooooooooooooooooooo
+ 67 oooooooooooooooooooooo
+ 68 oooooooooooooooooooooo
+ 69 oooooooooooooooooooooo
+ 70 oooooooooooooooooooooo
+ 71 oooooooooooooooooooooo
+ 72 oooooooooooooooooooooo
+ 73 oooooooooooooooooooooo
+ 74 oooooooooooooooooooooo
+ 75 oooooooooooooooooooooo
+ 76 oooooooooooooooooooooo
+ 77 oooooooooooooooooooooo
+ 78 oooooooooooooooooooooo
+ 79 oooooooooooooooooooooo
+ 80 oooooooooooooooooooooo
+ 81 oooooooooooooooooooooo
+    *
+[ 1783 = 81 * _22_ + 1 ]
+
+  1 ooooooooooooooooooooooo
+  2 ooooooooooooooooooooooo
+  3 ooooooooooooooooooooooo
+  4 ooooooooooooooooooooooo
+  5 ooooooooooooooooooooooo
+  6 ooooooooooooooooooooooo
+  7 ooooooooooooooooooooooo
+  8 ooooooooooooooooooooooo
+  9 ooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooo
+ 44 ooooooooooooooooooooooo
+ 45 ooooooooooooooooooooooo
+ 46 ooooooooooooooooooooooo
+ 47 ooooooooooooooooooooooo
+ 48 ooooooooooooooooooooooo
+ 49 ooooooooooooooooooooooo
+ 50 ooooooooooooooooooooooo
+ 51 ooooooooooooooooooooooo
+ 52 ooooooooooooooooooooooo
+ 53 ooooooooooooooooooooooo
+ 54 ooooooooooooooooooooooo
+ 55 ooooooooooooooooooooooo
+ 56 ooooooooooooooooooooooo
+ 57 ooooooooooooooooooooooo
+ 58 ooooooooooooooooooooooo
+ 59 ooooooooooooooooooooooo
+ 60 ooooooooooooooooooooooo
+ 61 ooooooooooooooooooooooo
+ 62 ooooooooooooooooooooooo
+ 63 ooooooooooooooooooooooo
+ 64 ooooooooooooooooooooooo
+ 65 ooooooooooooooooooooooo
+ 66 ooooooooooooooooooooooo
+ 67 ooooooooooooooooooooooo
+ 68 ooooooooooooooooooooooo
+ 69 ooooooooooooooooooooooo
+ 70 ooooooooooooooooooooooo
+ 71 ooooooooooooooooooooooo
+ 72 ooooooooooooooooooooooo
+ 73 ooooooooooooooooooooooo
+ 74 ooooooooooooooooooooooo
+ 75 ooooooooooooooooooooooo
+ 76 ooooooooooooooooooooooo
+ 77 ooooooooooooooooooooooo
+    ************
+[ 1783 = 77 * _23_ + 12 ]
+
+  1 oooooooooooooooooooooooo
+  2 oooooooooooooooooooooooo
+  3 oooooooooooooooooooooooo
+  4 oooooooooooooooooooooooo
+  5 oooooooooooooooooooooooo
+  6 oooooooooooooooooooooooo
+  7 oooooooooooooooooooooooo
+  8 oooooooooooooooooooooooo
+  9 oooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooo
+ 43 oooooooooooooooooooooooo
+ 44 oooooooooooooooooooooooo
+ 45 oooooooooooooooooooooooo
+ 46 oooooooooooooooooooooooo
+ 47 oooooooooooooooooooooooo
+ 48 oooooooooooooooooooooooo
+ 49 oooooooooooooooooooooooo
+ 50 oooooooooooooooooooooooo
+ 51 oooooooooooooooooooooooo
+ 52 oooooooooooooooooooooooo
+ 53 oooooooooooooooooooooooo
+ 54 oooooooooooooooooooooooo
+ 55 oooooooooooooooooooooooo
+ 56 oooooooooooooooooooooooo
+ 57 oooooooooooooooooooooooo
+ 58 oooooooooooooooooooooooo
+ 59 oooooooooooooooooooooooo
+ 60 oooooooooooooooooooooooo
+ 61 oooooooooooooooooooooooo
+ 62 oooooooooooooooooooooooo
+ 63 oooooooooooooooooooooooo
+ 64 oooooooooooooooooooooooo
+ 65 oooooooooooooooooooooooo
+ 66 oooooooooooooooooooooooo
+ 67 oooooooooooooooooooooooo
+ 68 oooooooooooooooooooooooo
+ 69 oooooooooooooooooooooooo
+ 70 oooooooooooooooooooooooo
+ 71 oooooooooooooooooooooooo
+ 72 oooooooooooooooooooooooo
+ 73 oooooooooooooooooooooooo
+ 74 oooooooooooooooooooooooo
+    *******
+[ 1783 = 74 * _24_ + 7 ]
+
+  1 ooooooooooooooooooooooooo
+  2 ooooooooooooooooooooooooo
+  3 ooooooooooooooooooooooooo
+  4 ooooooooooooooooooooooooo
+  5 ooooooooooooooooooooooooo
+  6 ooooooooooooooooooooooooo
+  7 ooooooooooooooooooooooooo
+  8 ooooooooooooooooooooooooo
+  9 ooooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooooo
+ 44 ooooooooooooooooooooooooo
+ 45 ooooooooooooooooooooooooo
+ 46 ooooooooooooooooooooooooo
+ 47 ooooooooooooooooooooooooo
+ 48 ooooooooooooooooooooooooo
+ 49 ooooooooooooooooooooooooo
+ 50 ooooooooooooooooooooooooo
+ 51 ooooooooooooooooooooooooo
+ 52 ooooooooooooooooooooooooo
+ 53 ooooooooooooooooooooooooo
+ 54 ooooooooooooooooooooooooo
+ 55 ooooooooooooooooooooooooo
+ 56 ooooooooooooooooooooooooo
+ 57 ooooooooooooooooooooooooo
+ 58 ooooooooooooooooooooooooo
+ 59 ooooooooooooooooooooooooo
+ 60 ooooooooooooooooooooooooo
+ 61 ooooooooooooooooooooooooo
+ 62 ooooooooooooooooooooooooo
+ 63 ooooooooooooooooooooooooo
+ 64 ooooooooooooooooooooooooo
+ 65 ooooooooooooooooooooooooo
+ 66 ooooooooooooooooooooooooo
+ 67 ooooooooooooooooooooooooo
+ 68 ooooooooooooooooooooooooo
+ 69 ooooooooooooooooooooooooo
+ 70 ooooooooooooooooooooooooo
+ 71 ooooooooooooooooooooooooo
+    ********
+[ 1783 = 71 * _25_ + 8 ]
+
+  1 oooooooooooooooooooooooooo
+  2 oooooooooooooooooooooooooo
+  3 oooooooooooooooooooooooooo
+  4 oooooooooooooooooooooooooo
+  5 oooooooooooooooooooooooooo
+  6 oooooooooooooooooooooooooo
+  7 oooooooooooooooooooooooooo
+  8 oooooooooooooooooooooooooo
+  9 oooooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooooo
+ 43 oooooooooooooooooooooooooo
+ 44 oooooooooooooooooooooooooo
+ 45 oooooooooooooooooooooooooo
+ 46 oooooooooooooooooooooooooo
+ 47 oooooooooooooooooooooooooo
+ 48 oooooooooooooooooooooooooo
+ 49 oooooooooooooooooooooooooo
+ 50 oooooooooooooooooooooooooo
+ 51 oooooooooooooooooooooooooo
+ 52 oooooooooooooooooooooooooo
+ 53 oooooooooooooooooooooooooo
+ 54 oooooooooooooooooooooooooo
+ 55 oooooooooooooooooooooooooo
+ 56 oooooooooooooooooooooooooo
+ 57 oooooooooooooooooooooooooo
+ 58 oooooooooooooooooooooooooo
+ 59 oooooooooooooooooooooooooo
+ 60 oooooooooooooooooooooooooo
+ 61 oooooooooooooooooooooooooo
+ 62 oooooooooooooooooooooooooo
+ 63 oooooooooooooooooooooooooo
+ 64 oooooooooooooooooooooooooo
+ 65 oooooooooooooooooooooooooo
+ 66 oooooooooooooooooooooooooo
+ 67 oooooooooooooooooooooooooo
+ 68 oooooooooooooooooooooooooo
+    ***************
+[ 1783 = 68 * _26_ + 15 ]
+
+  1 ooooooooooooooooooooooooooo
+  2 ooooooooooooooooooooooooooo
+  3 ooooooooooooooooooooooooooo
+  4 ooooooooooooooooooooooooooo
+  5 ooooooooooooooooooooooooooo
+  6 ooooooooooooooooooooooooooo
+  7 ooooooooooooooooooooooooooo
+  8 ooooooooooooooooooooooooooo
+  9 ooooooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooooooo
+ 44 ooooooooooooooooooooooooooo
+ 45 ooooooooooooooooooooooooooo
+ 46 ooooooooooooooooooooooooooo
+ 47 ooooooooooooooooooooooooooo
+ 48 ooooooooooooooooooooooooooo
+ 49 ooooooooooooooooooooooooooo
+ 50 ooooooooooooooooooooooooooo
+ 51 ooooooooooooooooooooooooooo
+ 52 ooooooooooooooooooooooooooo
+ 53 ooooooooooooooooooooooooooo
+ 54 ooooooooooooooooooooooooooo
+ 55 ooooooooooooooooooooooooooo
+ 56 ooooooooooooooooooooooooooo
+ 57 ooooooooooooooooooooooooooo
+ 58 ooooooooooooooooooooooooooo
+ 59 ooooooooooooooooooooooooooo
+ 60 ooooooooooooooooooooooooooo
+ 61 ooooooooooooooooooooooooooo
+ 62 ooooooooooooooooooooooooooo
+ 63 ooooooooooooooooooooooooooo
+ 64 ooooooooooooooooooooooooooo
+ 65 ooooooooooooooooooooooooooo
+ 66 ooooooooooooooooooooooooooo
+    *
+[ 1783 = 66 * _27_ + 1 ]
+
+  1 oooooooooooooooooooooooooooo
+  2 oooooooooooooooooooooooooooo
+  3 oooooooooooooooooooooooooooo
+  4 oooooooooooooooooooooooooooo
+  5 oooooooooooooooooooooooooooo
+  6 oooooooooooooooooooooooooooo
+  7 oooooooooooooooooooooooooooo
+  8 oooooooooooooooooooooooooooo
+  9 oooooooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooooooo
+ 43 oooooooooooooooooooooooooooo
+ 44 oooooooooooooooooooooooooooo
+ 45 oooooooooooooooooooooooooooo
+ 46 oooooooooooooooooooooooooooo
+ 47 oooooooooooooooooooooooooooo
+ 48 oooooooooooooooooooooooooooo
+ 49 oooooooooooooooooooooooooooo
+ 50 oooooooooooooooooooooooooooo
+ 51 oooooooooooooooooooooooooooo
+ 52 oooooooooooooooooooooooooooo
+ 53 oooooooooooooooooooooooooooo
+ 54 oooooooooooooooooooooooooooo
+ 55 oooooooooooooooooooooooooooo
+ 56 oooooooooooooooooooooooooooo
+ 57 oooooooooooooooooooooooooooo
+ 58 oooooooooooooooooooooooooooo
+ 59 oooooooooooooooooooooooooooo
+ 60 oooooooooooooooooooooooooooo
+ 61 oooooooooooooooooooooooooooo
+ 62 oooooooooooooooooooooooooooo
+ 63 oooooooooooooooooooooooooooo
+    *******************
+[ 1783 = 63 * _28_ + 19 ]
+
+  1 ooooooooooooooooooooooooooooo
+  2 ooooooooooooooooooooooooooooo
+  3 ooooooooooooooooooooooooooooo
+  4 ooooooooooooooooooooooooooooo
+  5 ooooooooooooooooooooooooooooo
+  6 ooooooooooooooooooooooooooooo
+  7 ooooooooooooooooooooooooooooo
+  8 ooooooooooooooooooooooooooooo
+  9 ooooooooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooooooooo
+ 44 ooooooooooooooooooooooooooooo
+ 45 ooooooooooooooooooooooooooooo
+ 46 ooooooooooooooooooooooooooooo
+ 47 ooooooooooooooooooooooooooooo
+ 48 ooooooooooooooooooooooooooooo
+ 49 ooooooooooooooooooooooooooooo
+ 50 ooooooooooooooooooooooooooooo
+ 51 ooooooooooooooooooooooooooooo
+ 52 ooooooooooooooooooooooooooooo
+ 53 ooooooooooooooooooooooooooooo
+ 54 ooooooooooooooooooooooooooooo
+ 55 ooooooooooooooooooooooooooooo
+ 56 ooooooooooooooooooooooooooooo
+ 57 ooooooooooooooooooooooooooooo
+ 58 ooooooooooooooooooooooooooooo
+ 59 ooooooooooooooooooooooooooooo
+ 60 ooooooooooooooooooooooooooooo
+ 61 ooooooooooooooooooooooooooooo
+    **************
+[ 1783 = 61 * _29_ + 14 ]
+
+  1 oooooooooooooooooooooooooooooo
+  2 oooooooooooooooooooooooooooooo
+  3 oooooooooooooooooooooooooooooo
+  4 oooooooooooooooooooooooooooooo
+  5 oooooooooooooooooooooooooooooo
+  6 oooooooooooooooooooooooooooooo
+  7 oooooooooooooooooooooooooooooo
+  8 oooooooooooooooooooooooooooooo
+  9 oooooooooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooooooooo
+ 43 oooooooooooooooooooooooooooooo
+ 44 oooooooooooooooooooooooooooooo
+ 45 oooooooooooooooooooooooooooooo
+ 46 oooooooooooooooooooooooooooooo
+ 47 oooooooooooooooooooooooooooooo
+ 48 oooooooooooooooooooooooooooooo
+ 49 oooooooooooooooooooooooooooooo
+ 50 oooooooooooooooooooooooooooooo
+ 51 oooooooooooooooooooooooooooooo
+ 52 oooooooooooooooooooooooooooooo
+ 53 oooooooooooooooooooooooooooooo
+ 54 oooooooooooooooooooooooooooooo
+ 55 oooooooooooooooooooooooooooooo
+ 56 oooooooooooooooooooooooooooooo
+ 57 oooooooooooooooooooooooooooooo
+ 58 oooooooooooooooooooooooooooooo
+ 59 oooooooooooooooooooooooooooooo
+    *************
+[ 1783 = 59 * _30_ + 13 ]
+
+  1 ooooooooooooooooooooooooooooooo
+  2 ooooooooooooooooooooooooooooooo
+  3 ooooooooooooooooooooooooooooooo
+  4 ooooooooooooooooooooooooooooooo
+  5 ooooooooooooooooooooooooooooooo
+  6 ooooooooooooooooooooooooooooooo
+  7 ooooooooooooooooooooooooooooooo
+  8 ooooooooooooooooooooooooooooooo
+  9 ooooooooooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooooooooooo
+ 44 ooooooooooooooooooooooooooooooo
+ 45 ooooooooooooooooooooooooooooooo
+ 46 ooooooooooooooooooooooooooooooo
+ 47 ooooooooooooooooooooooooooooooo
+ 48 ooooooooooooooooooooooooooooooo
+ 49 ooooooooooooooooooooooooooooooo
+ 50 ooooooooooooooooooooooooooooooo
+ 51 ooooooooooooooooooooooooooooooo
+ 52 ooooooooooooooooooooooooooooooo
+ 53 ooooooooooooooooooooooooooooooo
+ 54 ooooooooooooooooooooooooooooooo
+ 55 ooooooooooooooooooooooooooooooo
+ 56 ooooooooooooooooooooooooooooooo
+ 57 ooooooooooooooooooooooooooooooo
+    ****************
+[ 1783 = 57 * _31_ + 16 ]
+
+  1 oooooooooooooooooooooooooooooooo
+  2 oooooooooooooooooooooooooooooooo
+  3 oooooooooooooooooooooooooooooooo
+  4 oooooooooooooooooooooooooooooooo
+  5 oooooooooooooooooooooooooooooooo
+  6 oooooooooooooooooooooooooooooooo
+  7 oooooooooooooooooooooooooooooooo
+  8 oooooooooooooooooooooooooooooooo
+  9 oooooooooooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooooooooooo
+ 43 oooooooooooooooooooooooooooooooo
+ 44 oooooooooooooooooooooooooooooooo
+ 45 oooooooooooooooooooooooooooooooo
+ 46 oooooooooooooooooooooooooooooooo
+ 47 oooooooooooooooooooooooooooooooo
+ 48 oooooooooooooooooooooooooooooooo
+ 49 oooooooooooooooooooooooooooooooo
+ 50 oooooooooooooooooooooooooooooooo
+ 51 oooooooooooooooooooooooooooooooo
+ 52 oooooooooooooooooooooooooooooooo
+ 53 oooooooooooooooooooooooooooooooo
+ 54 oooooooooooooooooooooooooooooooo
+ 55 oooooooooooooooooooooooooooooooo
+    ***********************
+[ 1783 = 55 * _32_ + 23 ]
+
+  1 ooooooooooooooooooooooooooooooooo
+  2 ooooooooooooooooooooooooooooooooo
+  3 ooooooooooooooooooooooooooooooooo
+  4 ooooooooooooooooooooooooooooooooo
+  5 ooooooooooooooooooooooooooooooooo
+  6 ooooooooooooooooooooooooooooooooo
+  7 ooooooooooooooooooooooooooooooooo
+  8 ooooooooooooooooooooooooooooooooo
+  9 ooooooooooooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooooooooooooo
+ 44 ooooooooooooooooooooooooooooooooo
+ 45 ooooooooooooooooooooooooooooooooo
+ 46 ooooooooooooooooooooooooooooooooo
+ 47 ooooooooooooooooooooooooooooooooo
+ 48 ooooooooooooooooooooooooooooooooo
+ 49 ooooooooooooooooooooooooooooooooo
+ 50 ooooooooooooooooooooooooooooooooo
+ 51 ooooooooooooooooooooooooooooooooo
+ 52 ooooooooooooooooooooooooooooooooo
+ 53 ooooooooooooooooooooooooooooooooo
+ 54 ooooooooooooooooooooooooooooooooo
+    *
+[ 1783 = 54 * _33_ + 1 ]
+
+  1 oooooooooooooooooooooooooooooooooo
+  2 oooooooooooooooooooooooooooooooooo
+  3 oooooooooooooooooooooooooooooooooo
+  4 oooooooooooooooooooooooooooooooooo
+  5 oooooooooooooooooooooooooooooooooo
+  6 oooooooooooooooooooooooooooooooooo
+  7 oooooooooooooooooooooooooooooooooo
+  8 oooooooooooooooooooooooooooooooooo
+  9 oooooooooooooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooooooooooooo
+ 43 oooooooooooooooooooooooooooooooooo
+ 44 oooooooooooooooooooooooooooooooooo
+ 45 oooooooooooooooooooooooooooooooooo
+ 46 oooooooooooooooooooooooooooooooooo
+ 47 oooooooooooooooooooooooooooooooooo
+ 48 oooooooooooooooooooooooooooooooooo
+ 49 oooooooooooooooooooooooooooooooooo
+ 50 oooooooooooooooooooooooooooooooooo
+ 51 oooooooooooooooooooooooooooooooooo
+ 52 oooooooooooooooooooooooooooooooooo
+    ***************
+[ 1783 = 52 * _34_ + 15 ]
+
+  1 ooooooooooooooooooooooooooooooooooo
+  2 ooooooooooooooooooooooooooooooooooo
+  3 ooooooooooooooooooooooooooooooooooo
+  4 ooooooooooooooooooooooooooooooooooo
+  5 ooooooooooooooooooooooooooooooooooo
+  6 ooooooooooooooooooooooooooooooooooo
+  7 ooooooooooooooooooooooooooooooooooo
+  8 ooooooooooooooooooooooooooooooooooo
+  9 ooooooooooooooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooooooooooooooo
+ 44 ooooooooooooooooooooooooooooooooooo
+ 45 ooooooooooooooooooooooooooooooooooo
+ 46 ooooooooooooooooooooooooooooooooooo
+ 47 ooooooooooooooooooooooooooooooooooo
+ 48 ooooooooooooooooooooooooooooooooooo
+ 49 ooooooooooooooooooooooooooooooooooo
+ 50 ooooooooooooooooooooooooooooooooooo
+    *********************************
+[ 1783 = 50 * _35_ + 33 ]
+
+  1 oooooooooooooooooooooooooooooooooooo
+  2 oooooooooooooooooooooooooooooooooooo
+  3 oooooooooooooooooooooooooooooooooooo
+  4 oooooooooooooooooooooooooooooooooooo
+  5 oooooooooooooooooooooooooooooooooooo
+  6 oooooooooooooooooooooooooooooooooooo
+  7 oooooooooooooooooooooooooooooooooooo
+  8 oooooooooooooooooooooooooooooooooooo
+  9 oooooooooooooooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooooooooooooooo
+ 43 oooooooooooooooooooooooooooooooooooo
+ 44 oooooooooooooooooooooooooooooooooooo
+ 45 oooooooooooooooooooooooooooooooooooo
+ 46 oooooooooooooooooooooooooooooooooooo
+ 47 oooooooooooooooooooooooooooooooooooo
+ 48 oooooooooooooooooooooooooooooooooooo
+ 49 oooooooooooooooooooooooooooooooooooo
+    *******************
+[ 1783 = 49 * _36_ + 19 ]
+
+  1 ooooooooooooooooooooooooooooooooooooo
+  2 ooooooooooooooooooooooooooooooooooooo
+  3 ooooooooooooooooooooooooooooooooooooo
+  4 ooooooooooooooooooooooooooooooooooooo
+  5 ooooooooooooooooooooooooooooooooooooo
+  6 ooooooooooooooooooooooooooooooooooooo
+  7 ooooooooooooooooooooooooooooooooooooo
+  8 ooooooooooooooooooooooooooooooooooooo
+  9 ooooooooooooooooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooooooooooooooooo
+ 44 ooooooooooooooooooooooooooooooooooooo
+ 45 ooooooooooooooooooooooooooooooooooooo
+ 46 ooooooooooooooooooooooooooooooooooooo
+ 47 ooooooooooooooooooooooooooooooooooooo
+ 48 ooooooooooooooooooooooooooooooooooooo
+    *******
+[ 1783 = 48 * _37_ + 7 ]
+
+  1 oooooooooooooooooooooooooooooooooooooo
+  2 oooooooooooooooooooooooooooooooooooooo
+  3 oooooooooooooooooooooooooooooooooooooo
+  4 oooooooooooooooooooooooooooooooooooooo
+  5 oooooooooooooooooooooooooooooooooooooo
+  6 oooooooooooooooooooooooooooooooooooooo
+  7 oooooooooooooooooooooooooooooooooooooo
+  8 oooooooooooooooooooooooooooooooooooooo
+  9 oooooooooooooooooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooooooooooooooooo
+ 43 oooooooooooooooooooooooooooooooooooooo
+ 44 oooooooooooooooooooooooooooooooooooooo
+ 45 oooooooooooooooooooooooooooooooooooooo
+ 46 oooooooooooooooooooooooooooooooooooooo
+    ***********************************
+[ 1783 = 46 * _38_ + 35 ]
+
+  1 ooooooooooooooooooooooooooooooooooooooo
+  2 ooooooooooooooooooooooooooooooooooooooo
+  3 ooooooooooooooooooooooooooooooooooooooo
+  4 ooooooooooooooooooooooooooooooooooooooo
+  5 ooooooooooooooooooooooooooooooooooooooo
+  6 ooooooooooooooooooooooooooooooooooooooo
+  7 ooooooooooooooooooooooooooooooooooooooo
+  8 ooooooooooooooooooooooooooooooooooooooo
+  9 ooooooooooooooooooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooooooooooooooooooo
+ 44 ooooooooooooooooooooooooooooooooooooooo
+ 45 ooooooooooooooooooooooooooooooooooooooo
+    ****************************
+[ 1783 = 45 * _39_ + 28 ]
+
+  1 oooooooooooooooooooooooooooooooooooooooo
+  2 oooooooooooooooooooooooooooooooooooooooo
+  3 oooooooooooooooooooooooooooooooooooooooo
+  4 oooooooooooooooooooooooooooooooooooooooo
+  5 oooooooooooooooooooooooooooooooooooooooo
+  6 oooooooooooooooooooooooooooooooooooooooo
+  7 oooooooooooooooooooooooooooooooooooooooo
+  8 oooooooooooooooooooooooooooooooooooooooo
+  9 oooooooooooooooooooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooooooooooooooooooo
+ 43 oooooooooooooooooooooooooooooooooooooooo
+ 44 oooooooooooooooooooooooooooooooooooooooo
+    ***********************
+[ 1783 = 44 * _40_ + 23 ]
+
+  1 ooooooooooooooooooooooooooooooooooooooooo
+  2 ooooooooooooooooooooooooooooooooooooooooo
+  3 ooooooooooooooooooooooooooooooooooooooooo
+  4 ooooooooooooooooooooooooooooooooooooooooo
+  5 ooooooooooooooooooooooooooooooooooooooooo
+  6 ooooooooooooooooooooooooooooooooooooooooo
+  7 ooooooooooooooooooooooooooooooooooooooooo
+  8 ooooooooooooooooooooooooooooooooooooooooo
+  9 ooooooooooooooooooooooooooooooooooooooooo
+ 10 ooooooooooooooooooooooooooooooooooooooooo
+ 11 ooooooooooooooooooooooooooooooooooooooooo
+ 12 ooooooooooooooooooooooooooooooooooooooooo
+ 13 ooooooooooooooooooooooooooooooooooooooooo
+ 14 ooooooooooooooooooooooooooooooooooooooooo
+ 15 ooooooooooooooooooooooooooooooooooooooooo
+ 16 ooooooooooooooooooooooooooooooooooooooooo
+ 17 ooooooooooooooooooooooooooooooooooooooooo
+ 18 ooooooooooooooooooooooooooooooooooooooooo
+ 19 ooooooooooooooooooooooooooooooooooooooooo
+ 20 ooooooooooooooooooooooooooooooooooooooooo
+ 21 ooooooooooooooooooooooooooooooooooooooooo
+ 22 ooooooooooooooooooooooooooooooooooooooooo
+ 23 ooooooooooooooooooooooooooooooooooooooooo
+ 24 ooooooooooooooooooooooooooooooooooooooooo
+ 25 ooooooooooooooooooooooooooooooooooooooooo
+ 26 ooooooooooooooooooooooooooooooooooooooooo
+ 27 ooooooooooooooooooooooooooooooooooooooooo
+ 28 ooooooooooooooooooooooooooooooooooooooooo
+ 29 ooooooooooooooooooooooooooooooooooooooooo
+ 30 ooooooooooooooooooooooooooooooooooooooooo
+ 31 ooooooooooooooooooooooooooooooooooooooooo
+ 32 ooooooooooooooooooooooooooooooooooooooooo
+ 33 ooooooooooooooooooooooooooooooooooooooooo
+ 34 ooooooooooooooooooooooooooooooooooooooooo
+ 35 ooooooooooooooooooooooooooooooooooooooooo
+ 36 ooooooooooooooooooooooooooooooooooooooooo
+ 37 ooooooooooooooooooooooooooooooooooooooooo
+ 38 ooooooooooooooooooooooooooooooooooooooooo
+ 39 ooooooooooooooooooooooooooooooooooooooooo
+ 40 ooooooooooooooooooooooooooooooooooooooooo
+ 41 ooooooooooooooooooooooooooooooooooooooooo
+ 42 ooooooooooooooooooooooooooooooooooooooooo
+ 43 ooooooooooooooooooooooooooooooooooooooooo
+    ********************
+[ 1783 = 43 * _41_ + 20 ]
+
+  1 oooooooooooooooooooooooooooooooooooooooooo
+  2 oooooooooooooooooooooooooooooooooooooooooo
+  3 oooooooooooooooooooooooooooooooooooooooooo
+  4 oooooooooooooooooooooooooooooooooooooooooo
+  5 oooooooooooooooooooooooooooooooooooooooooo
+  6 oooooooooooooooooooooooooooooooooooooooooo
+  7 oooooooooooooooooooooooooooooooooooooooooo
+  8 oooooooooooooooooooooooooooooooooooooooooo
+  9 oooooooooooooooooooooooooooooooooooooooooo
+ 10 oooooooooooooooooooooooooooooooooooooooooo
+ 11 oooooooooooooooooooooooooooooooooooooooooo
+ 12 oooooooooooooooooooooooooooooooooooooooooo
+ 13 oooooooooooooooooooooooooooooooooooooooooo
+ 14 oooooooooooooooooooooooooooooooooooooooooo
+ 15 oooooooooooooooooooooooooooooooooooooooooo
+ 16 oooooooooooooooooooooooooooooooooooooooooo
+ 17 oooooooooooooooooooooooooooooooooooooooooo
+ 18 oooooooooooooooooooooooooooooooooooooooooo
+ 19 oooooooooooooooooooooooooooooooooooooooooo
+ 20 oooooooooooooooooooooooooooooooooooooooooo
+ 21 oooooooooooooooooooooooooooooooooooooooooo
+ 22 oooooooooooooooooooooooooooooooooooooooooo
+ 23 oooooooooooooooooooooooooooooooooooooooooo
+ 24 oooooooooooooooooooooooooooooooooooooooooo
+ 25 oooooooooooooooooooooooooooooooooooooooooo
+ 26 oooooooooooooooooooooooooooooooooooooooooo
+ 27 oooooooooooooooooooooooooooooooooooooooooo
+ 28 oooooooooooooooooooooooooooooooooooooooooo
+ 29 oooooooooooooooooooooooooooooooooooooooooo
+ 30 oooooooooooooooooooooooooooooooooooooooooo
+ 31 oooooooooooooooooooooooooooooooooooooooooo
+ 32 oooooooooooooooooooooooooooooooooooooooooo
+ 33 oooooooooooooooooooooooooooooooooooooooooo
+ 34 oooooooooooooooooooooooooooooooooooooooooo
+ 35 oooooooooooooooooooooooooooooooooooooooooo
+ 36 oooooooooooooooooooooooooooooooooooooooooo
+ 37 oooooooooooooooooooooooooooooooooooooooooo
+ 38 oooooooooooooooooooooooooooooooooooooooooo
+ 39 oooooooooooooooooooooooooooooooooooooooooo
+ 40 oooooooooooooooooooooooooooooooooooooooooo
+ 41 oooooooooooooooooooooooooooooooooooooooooo
+ 42 oooooooooooooooooooooooooooooooooooooooooo
+    *******************
+[ 1783 = 42 * _42_ + 19 ]
+
+PROVED 1783 is PRIME using 41 trial divisons
