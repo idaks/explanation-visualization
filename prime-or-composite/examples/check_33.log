@@ -1,29 +1,56 @@
 ### Running ./prime-or-composite.py 33 ###
 
 [ 33 = 2 * 16 + 1 ]
-  1 oooooooooooooooo
-  2 oooooooooooooooo
+  1 oo
+  2 oo
+  3 oo
+  4 oo
+  5 oo
+  6 oo
+  7 oo
+  8 oo
+  9 oo
+ 10 oo
+ 11 oo
+ 12 oo
+ 13 oo
+ 14 oo
+ 15 oo
+ 16 oo
     *
 
 [ 33 = 3 * 11 + 0 ]
-  1 ooooooooooo
-  2 ooooooooooo
-  3 ooooooooooo
+  1 ooo
+  2 ooo
+  3 ooo
+  4 ooo
+  5 ooo
+  6 ooo
+  7 ooo
+  8 ooo
+  9 ooo
+ 10 ooo
+ 11 ooo
 PROVED composite: 33 = 3 * 11
 
 [ 33 = 4 * 8 + 1 ]
-  1 oooooooo
-  2 oooooooo
-  3 oooooooo
-  4 oooooooo
+  1 oooo
+  2 oooo
+  3 oooo
+  4 oooo
+  5 oooo
+  6 oooo
+  7 oooo
+  8 oooo
     *
 
 [ 33 = 5 * 6 + 3 ]
-  1 oooooo
-  2 oooooo
-  3 oooooo
-  4 oooooo
-  5 oooooo
+  1 ooooo
+  2 ooooo
+  3 ooooo
+  4 ooooo
+  5 ooooo
+  6 ooooo
     ***
 
 Sorry 33 is composite ..

@@ -1,8 +1,10 @@
 ### Running ./prime-or-composite.py 9 ###
 
 [ 9 = 2 * 4 + 1 ]
-  1 oooo
-  2 oooo
+  1 oo
+  2 oo
+  3 oo
+  4 oo
     *
 
 [ 9 = 3 * 3 + 0 ]

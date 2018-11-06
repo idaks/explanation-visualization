@@ -1,29 +1,61 @@
 ### Running ./prime-or-composite.py 36 ###
 
 [ 36 = 2 * 18 + 0 ]
-  1 oooooooooooooooooo
-  2 oooooooooooooooooo
+  1 oo
+  2 oo
+  3 oo
+  4 oo
+  5 oo
+  6 oo
+  7 oo
+  8 oo
+  9 oo
+ 10 oo
+ 11 oo
+ 12 oo
+ 13 oo
+ 14 oo
+ 15 oo
+ 16 oo
+ 17 oo
+ 18 oo
 PROVED composite: 36 = 2 * 18
 
 [ 36 = 3 * 12 + 0 ]
-  1 oooooooooooo
-  2 oooooooooooo
-  3 oooooooooooo
+  1 ooo
+  2 ooo
+  3 ooo
+  4 ooo
+  5 ooo
+  6 ooo
+  7 ooo
+  8 ooo
+  9 ooo
+ 10 ooo
+ 11 ooo
+ 12 ooo
 PROVED composite: 36 = 3 * 12
 
 [ 36 = 4 * 9 + 0 ]
-  1 ooooooooo
-  2 ooooooooo
-  3 ooooooooo
-  4 ooooooooo
+  1 oooo
+  2 oooo
+  3 oooo
+  4 oooo
+  5 oooo
+  6 oooo
+  7 oooo
+  8 oooo
+  9 oooo
 PROVED composite: 36 = 4 * 9
 
 [ 36 = 5 * 7 + 1 ]
-  1 ooooooo
-  2 ooooooo
-  3 ooooooo
-  4 ooooooo
-  5 ooooooo
+  1 ooooo
+  2 ooooo
+  3 ooooo
+  4 ooooo
+  5 ooooo
+  6 ooooo
+  7 ooooo
     *
 
 [ 36 = 6 * 6 + 0 ]
