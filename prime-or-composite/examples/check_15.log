@@ -1,0 +1,14 @@
+### Running ./prime-or-composite.py 15 ###
+
+[ 15 = 2 * 7 + 1 ]
+  1 ooooooo
+  2 ooooooo
+    *
+
+[ 15 = 3 * 5 + 0 ]
+  1 ooooo
+  2 ooooo
+  3 ooooo
+PROVED composite: 15 = 3 * 5
+
+Sorry 15 is composite ..

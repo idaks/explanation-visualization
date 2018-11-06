@@ -1,0 +1,14 @@
+### Running ./prime-or-composite.py 14 ###
+
+[ 14 = 2 * 7 + 0 ]
+  1 ooooooo
+  2 ooooooo
+PROVED composite: 14 = 2 * 7
+
+[ 14 = 3 * 4 + 2 ]
+  1 oooo
+  2 oooo
+  3 oooo
+    **
+
+Sorry 14 is composite ..

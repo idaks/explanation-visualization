@@ -1,0 +1,21 @@
+### Running ./prime-or-composite.py 16 ###
+
+[ 16 = 2 * 8 + 0 ]
+  1 oooooooo
+  2 oooooooo
+PROVED composite: 16 = 2 * 8
+
+[ 16 = 3 * 5 + 1 ]
+  1 ooooo
+  2 ooooo
+  3 ooooo
+    *
+
+[ 16 = 4 * 4 + 0 ]
+  1 oooo
+  2 oooo
+  3 oooo
+  4 oooo
+PROVED composite: 16 = 4 * 4
+
+Sorry 16 is composite ..

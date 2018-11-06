@@ -1,0 +1,14 @@
+### Running ./prime-or-composite.py 11 ###
+
+[ 11 = 2 * 5 + 1 ]
+  1 ooooo
+  2 ooooo
+    *
+
+[ 11 = 3 * 3 + 2 ]
+  1 ooo
+  2 ooo
+  3 ooo
+    **
+
+PROVED 11 is PRIME!

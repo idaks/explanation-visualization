@@ -1,0 +1,21 @@
+### Running ./prime-or-composite.py 20 ###
+
+[ 20 = 2 * 10 + 0 ]
+  1 oooooooooo
+  2 oooooooooo
+PROVED composite: 20 = 2 * 10
+
+[ 20 = 3 * 6 + 2 ]
+  1 oooooo
+  2 oooooo
+  3 oooooo
+    **
+
+[ 20 = 4 * 5 + 0 ]
+  1 ooooo
+  2 ooooo
+  3 ooooo
+  4 ooooo
+PROVED composite: 20 = 4 * 5
+
+Sorry 20 is composite ..

@@ -1,0 +1,29 @@
+### Running ./prime-or-composite.py 32 ###
+
+[ 32 = 2 * 16 + 0 ]
+  1 oooooooooooooooo
+  2 oooooooooooooooo
+PROVED composite: 32 = 2 * 16
+
+[ 32 = 3 * 10 + 2 ]
+  1 oooooooooo
+  2 oooooooooo
+  3 oooooooooo
+    **
+
+[ 32 = 4 * 8 + 0 ]
+  1 oooooooo
+  2 oooooooo
+  3 oooooooo
+  4 oooooooo
+PROVED composite: 32 = 4 * 8
+
+[ 32 = 5 * 6 + 2 ]
+  1 oooooo
+  2 oooooo
+  3 oooooo
+  4 oooooo
+  5 oooooo
+    **
+
+Sorry 32 is composite ..

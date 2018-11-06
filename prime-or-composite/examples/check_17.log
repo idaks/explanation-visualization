@@ -1,0 +1,21 @@
+### Running ./prime-or-composite.py 17 ###
+
+[ 17 = 2 * 8 + 1 ]
+  1 oooooooo
+  2 oooooooo
+    *
+
+[ 17 = 3 * 5 + 2 ]
+  1 ooooo
+  2 ooooo
+  3 ooooo
+    **
+
+[ 17 = 4 * 4 + 1 ]
+  1 oooo
+  2 oooo
+  3 oooo
+  4 oooo
+    *
+
+PROVED 17 is PRIME!

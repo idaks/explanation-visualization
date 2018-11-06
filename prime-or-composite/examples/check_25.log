@@ -1,0 +1,29 @@
+### Running ./prime-or-composite.py 25 ###
+
+[ 25 = 2 * 12 + 1 ]
+  1 oooooooooooo
+  2 oooooooooooo
+    *
+
+[ 25 = 3 * 8 + 1 ]
+  1 oooooooo
+  2 oooooooo
+  3 oooooooo
+    *
+
+[ 25 = 4 * 6 + 1 ]
+  1 oooooo
+  2 oooooo
+  3 oooooo
+  4 oooooo
+    *
+
+[ 25 = 5 * 5 + 0 ]
+  1 ooooo
+  2 ooooo
+  3 ooooo
+  4 ooooo
+  5 ooooo
+PROVED composite: 25 = 5 * 5
+
+Sorry 25 is composite ..

@@ -1,0 +1,21 @@
+### Running ./prime-or-composite.py 18 ###
+
+[ 18 = 2 * 9 + 0 ]
+  1 ooooooooo
+  2 ooooooooo
+PROVED composite: 18 = 2 * 9
+
+[ 18 = 3 * 6 + 0 ]
+  1 oooooo
+  2 oooooo
+  3 oooooo
+PROVED composite: 18 = 3 * 6
+
+[ 18 = 4 * 4 + 2 ]
+  1 oooo
+  2 oooo
+  3 oooo
+  4 oooo
+    **
+
+Sorry 18 is composite ..

@@ -1,0 +1,21 @@
+### Running ./prime-or-composite.py 21 ###
+
+[ 21 = 2 * 10 + 1 ]
+  1 oooooooooo
+  2 oooooooooo
+    *
+
+[ 21 = 3 * 7 + 0 ]
+  1 ooooooo
+  2 ooooooo
+  3 ooooooo
+PROVED composite: 21 = 3 * 7
+
+[ 21 = 4 * 5 + 1 ]
+  1 ooooo
+  2 ooooo
+  3 ooooo
+  4 ooooo
+    *
+
+Sorry 21 is composite ..

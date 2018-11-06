@@ -1,0 +1,14 @@
+### Running ./prime-or-composite.py 9 ###
+
+[ 9 = 2 * 4 + 1 ]
+  1 oooo
+  2 oooo
+    *
+
+[ 9 = 3 * 3 + 0 ]
+  1 ooo
+  2 ooo
+  3 ooo
+PROVED composite: 9 = 3 * 3
+
+Sorry 9 is composite ..

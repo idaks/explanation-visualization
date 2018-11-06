@@ -1,0 +1,38 @@
+### Running ./prime-or-composite.py 36 ###
+
+[ 36 = 2 * 18 + 0 ]
+  1 oooooooooooooooooo
+  2 oooooooooooooooooo
+PROVED composite: 36 = 2 * 18
+
+[ 36 = 3 * 12 + 0 ]
+  1 oooooooooooo
+  2 oooooooooooo
+  3 oooooooooooo
+PROVED composite: 36 = 3 * 12
+
+[ 36 = 4 * 9 + 0 ]
+  1 ooooooooo
+  2 ooooooooo
+  3 ooooooooo
+  4 ooooooooo
+PROVED composite: 36 = 4 * 9
+
+[ 36 = 5 * 7 + 1 ]
+  1 ooooooo
+  2 ooooooo
+  3 ooooooo
+  4 ooooooo
+  5 ooooooo
+    *
+
+[ 36 = 6 * 6 + 0 ]
+  1 oooooo
+  2 oooooo
+  3 oooooo
+  4 oooooo
+  5 oooooo
+  6 oooooo
+PROVED composite: 36 = 6 * 6
+
+Sorry 36 is composite ..

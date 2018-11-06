@@ -1,0 +1,38 @@
+### Running ./prime-or-composite.py 37 ###
+
+[ 37 = 2 * 18 + 1 ]
+  1 oooooooooooooooooo
+  2 oooooooooooooooooo
+    *
+
+[ 37 = 3 * 12 + 1 ]
+  1 oooooooooooo
+  2 oooooooooooo
+  3 oooooooooooo
+    *
+
+[ 37 = 4 * 9 + 1 ]
+  1 ooooooooo
+  2 ooooooooo
+  3 ooooooooo
+  4 ooooooooo
+    *
+
+[ 37 = 5 * 7 + 2 ]
+  1 ooooooo
+  2 ooooooo
+  3 ooooooo
+  4 ooooooo
+  5 ooooooo
+    **
+
+[ 37 = 6 * 6 + 1 ]
+  1 oooooo
+  2 oooooo
+  3 oooooo
+  4 oooooo
+  5 oooooo
+  6 oooooo
+    *
+
+PROVED 37 is PRIME!

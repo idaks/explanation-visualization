@@ -1,0 +1,21 @@
+### Running ./prime-or-composite.py 19 ###
+
+[ 19 = 2 * 9 + 1 ]
+  1 ooooooooo
+  2 ooooooooo
+    *
+
+[ 19 = 3 * 6 + 1 ]
+  1 oooooo
+  2 oooooo
+  3 oooooo
+    *
+
+[ 19 = 4 * 4 + 3 ]
+  1 oooo
+  2 oooo
+  3 oooo
+  4 oooo
+    ***
+
+PROVED 19 is PRIME!

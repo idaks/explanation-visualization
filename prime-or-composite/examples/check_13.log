@@ -1,0 +1,14 @@
+### Running ./prime-or-composite.py 13 ###
+
+[ 13 = 2 * 6 + 1 ]
+  1 oooooo
+  2 oooooo
+    *
+
+[ 13 = 3 * 4 + 1 ]
+  1 oooo
+  2 oooo
+  3 oooo
+    *
+
+PROVED 13 is PRIME!

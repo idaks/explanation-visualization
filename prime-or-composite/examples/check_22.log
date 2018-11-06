@@ -1,0 +1,21 @@
+### Running ./prime-or-composite.py 22 ###
+
+[ 22 = 2 * 11 + 0 ]
+  1 ooooooooooo
+  2 ooooooooooo
+PROVED composite: 22 = 2 * 11
+
+[ 22 = 3 * 7 + 1 ]
+  1 ooooooo
+  2 ooooooo
+  3 ooooooo
+    *
+
+[ 22 = 4 * 5 + 2 ]
+  1 ooooo
+  2 ooooo
+  3 ooooo
+  4 ooooo
+    **
+
+Sorry 22 is composite ..

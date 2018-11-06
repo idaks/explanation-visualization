@@ -1,0 +1,29 @@
+### Running ./prime-or-composite.py 29 ###
+
+[ 29 = 2 * 14 + 1 ]
+  1 oooooooooooooo
+  2 oooooooooooooo
+    *
+
+[ 29 = 3 * 9 + 2 ]
+  1 ooooooooo
+  2 ooooooooo
+  3 ooooooooo
+    **
+
+[ 29 = 4 * 7 + 1 ]
+  1 ooooooo
+  2 ooooooo
+  3 ooooooo
+  4 ooooooo
+    *
+
+[ 29 = 5 * 5 + 4 ]
+  1 ooooo
+  2 ooooo
+  3 ooooo
+  4 ooooo
+  5 ooooo
+    ****
+
+PROVED 29 is PRIME!

@@ -1,0 +1,21 @@
+### Running ./prime-or-composite.py 24 ###
+
+[ 24 = 2 * 12 + 0 ]
+  1 oooooooooooo
+  2 oooooooooooo
+PROVED composite: 24 = 2 * 12
+
+[ 24 = 3 * 8 + 0 ]
+  1 oooooooo
+  2 oooooooo
+  3 oooooooo
+PROVED composite: 24 = 3 * 8
+
+[ 24 = 4 * 6 + 0 ]
+  1 oooooo
+  2 oooooo
+  3 oooooo
+  4 oooooo
+PROVED composite: 24 = 4 * 6
+
+Sorry 24 is composite ..

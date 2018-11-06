@@ -1,0 +1,8 @@
+### Running ./prime-or-composite.py 8 ###
+
+[ 8 = 2 * 4 + 0 ]
+  1 oooo
+  2 oooo
+PROVED composite: 8 = 2 * 4
+
+Sorry 8 is composite ..

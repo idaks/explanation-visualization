@@ -1,0 +1,14 @@
+### Running ./prime-or-composite.py 10 ###
+
+[ 10 = 2 * 5 + 0 ]
+  1 ooooo
+  2 ooooo
+PROVED composite: 10 = 2 * 5
+
+[ 10 = 3 * 3 + 1 ]
+  1 ooo
+  2 ooo
+  3 ooo
+    *
+
+Sorry 10 is composite ..

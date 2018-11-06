@@ -1,0 +1,29 @@
+### Running ./prime-or-composite.py 31 ###
+
+[ 31 = 2 * 15 + 1 ]
+  1 ooooooooooooooo
+  2 ooooooooooooooo
+    *
+
+[ 31 = 3 * 10 + 1 ]
+  1 oooooooooo
+  2 oooooooooo
+  3 oooooooooo
+    *
+
+[ 31 = 4 * 7 + 3 ]
+  1 ooooooo
+  2 ooooooo
+  3 ooooooo
+  4 ooooooo
+    ***
+
+[ 31 = 5 * 6 + 1 ]
+  1 oooooo
+  2 oooooo
+  3 oooooo
+  4 oooooo
+  5 oooooo
+    *
+
+PROVED 31 is PRIME!

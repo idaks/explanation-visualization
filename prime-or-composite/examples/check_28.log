@@ -1,0 +1,29 @@
+### Running ./prime-or-composite.py 28 ###
+
+[ 28 = 2 * 14 + 0 ]
+  1 oooooooooooooo
+  2 oooooooooooooo
+PROVED composite: 28 = 2 * 14
+
+[ 28 = 3 * 9 + 1 ]
+  1 ooooooooo
+  2 ooooooooo
+  3 ooooooooo
+    *
+
+[ 28 = 4 * 7 + 0 ]
+  1 ooooooo
+  2 ooooooo
+  3 ooooooo
+  4 ooooooo
+PROVED composite: 28 = 4 * 7
+
+[ 28 = 5 * 5 + 3 ]
+  1 ooooo
+  2 ooooo
+  3 ooooo
+  4 ooooo
+  5 ooooo
+    ***
+
+Sorry 28 is composite ..
