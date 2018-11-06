@@ -1,45 +1,45 @@
 ### Running ./prime-or-composite.py 25 ###
 
-  1 oo
-  2 oo
-  3 oo
-  4 oo
-  5 oo
-  6 oo
-  7 oo
-  8 oo
-  9 oo
- 10 oo
- 11 oo
- 12 oo
+  1 ..
+  2 ..
+  3 ..
+  4 ..
+  5 ..
+  6 ..
+  7 ..
+  8 ..
+  9 ..
+ 10 ..
+ 11 ..
+ 12 ..
     *
 [ 25 = 12 * _2_ + 1 ]
 
-  1 ooo
-  2 ooo
-  3 ooo
-  4 ooo
-  5 ooo
-  6 ooo
-  7 ooo
-  8 ooo
+  1 ...
+  2 ...
+  3 ...
+  4 ...
+  5 ...
+  6 ...
+  7 ...
+  8 ...
     *
 [ 25 = 8 * _3_ + 1 ]
 
-  1 oooo
-  2 oooo
-  3 oooo
-  4 oooo
-  5 oooo
-  6 oooo
+  1 ....
+  2 ....
+  3 ....
+  4 ....
+  5 ....
+  6 ....
     *
 [ 25 = 6 * _4_ + 1 ]
 
-  1 ooooo
-  2 ooooo
-  3 ooooo
-  4 ooooo
-  5 ooooo
+  1 .....
+  2 .....
+  3 .....
+  4 .....
+  5 .....
 [ 25 = 5 * _5_ ] PROVED COMPOSITE
 
-PROVED 25 is COMPOSITE 1 times!
+Using 4 trial divisons, PROVED that 25 is COMPOSITE, 1 times over.

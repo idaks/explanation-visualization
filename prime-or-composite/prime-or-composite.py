@@ -12,7 +12,7 @@ is_prime = True
 while d*d <= N:                              # enough to test only d <= sqrt(N)
     q, r = divmod(N,d)                       # Number = Quotient * Divisor + Remainder
     for i in range(q):                       # q is the number of rows to create
-        print("{0:3}".format(i+1), d * "o")  # .. each being d elements (columns) wide
+        print("{0:3}".format(i+1), d * ".")  # .. each being d elements (columns) wide
     if r == 0:                               # No remainder?
         is_prime = False                     # .. we got a composite for sure!
         c = c + 1
@@ -23,7 +23,8 @@ while d*d <= N:                              # enough to test only d <= sqrt(N)
     print()
     d = d + 1
 
+print("Using",d-2,"trial divisons, PROVED that", N, end=" ")
 if is_prime:
-    print("PROVED",N,"is PRIME using",d-2,"trial divisons") # .. only now can we be sure!
+    print("is PRIME!") # .. only now can we be sure!
 else:
-    print("PROVED",N,"is COMPOSITE",c,"times!")    # .. ok, we knew this already (redundant)
+    print("is COMPOSITE,", c, "times over.") # .. ok, we knew this already (redundant)

@@ -1,19 +1,19 @@
 ### Running ./prime-or-composite.py 14 ###
 
-  1 oo
-  2 oo
-  3 oo
-  4 oo
-  5 oo
-  6 oo
-  7 oo
+  1 ..
+  2 ..
+  3 ..
+  4 ..
+  5 ..
+  6 ..
+  7 ..
 [ 14 = 7 * _2_ ] PROVED COMPOSITE
 
-  1 ooo
-  2 ooo
-  3 ooo
-  4 ooo
+  1 ...
+  2 ...
+  3 ...
+  4 ...
     **
 [ 14 = 4 * _3_ + 2 ]
 
-PROVED 14 is COMPOSITE 1 times!
+Using 2 trial divisons, PROVED that 14 is COMPOSITE, 1 times over.

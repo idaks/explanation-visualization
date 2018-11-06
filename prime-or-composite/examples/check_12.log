@@ -1,17 +1,17 @@
 ### Running ./prime-or-composite.py 12 ###
 
-  1 oo
-  2 oo
-  3 oo
-  4 oo
-  5 oo
-  6 oo
+  1 ..
+  2 ..
+  3 ..
+  4 ..
+  5 ..
+  6 ..
 [ 12 = 6 * _2_ ] PROVED COMPOSITE
 
-  1 ooo
-  2 ooo
-  3 ooo
-  4 ooo
+  1 ...
+  2 ...
+  3 ...
+  4 ...
 [ 12 = 4 * _3_ ] PROVED COMPOSITE
 
-PROVED 12 is COMPOSITE 2 times!
+Using 2 trial divisons, PROVED that 12 is COMPOSITE, 2 times over.

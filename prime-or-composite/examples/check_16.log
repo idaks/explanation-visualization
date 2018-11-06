@@ -1,27 +1,27 @@
 ### Running ./prime-or-composite.py 16 ###
 
-  1 oo
-  2 oo
-  3 oo
-  4 oo
-  5 oo
-  6 oo
-  7 oo
-  8 oo
+  1 ..
+  2 ..
+  3 ..
+  4 ..
+  5 ..
+  6 ..
+  7 ..
+  8 ..
 [ 16 = 8 * _2_ ] PROVED COMPOSITE
 
-  1 ooo
-  2 ooo
-  3 ooo
-  4 ooo
-  5 ooo
+  1 ...
+  2 ...
+  3 ...
+  4 ...
+  5 ...
     *
 [ 16 = 5 * _3_ + 1 ]
 
-  1 oooo
-  2 oooo
-  3 oooo
-  4 oooo
+  1 ....
+  2 ....
+  3 ....
+  4 ....
 [ 16 = 4 * _4_ ] PROVED COMPOSITE
 
-PROVED 16 is COMPOSITE 2 times!
+Using 3 trial divisons, PROVED that 16 is COMPOSITE, 2 times over.

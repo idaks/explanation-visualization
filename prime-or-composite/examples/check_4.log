@@ -1,7 +1,7 @@
 ### Running ./prime-or-composite.py 4 ###
 
-  1 oo
-  2 oo
+  1 ..
+  2 ..
 [ 4 = 2 * _2_ ] PROVED COMPOSITE
 
-PROVED 4 is COMPOSITE 1 times!
+Using 1 trial divisons, PROVED that 4 is COMPOSITE, 1 times over.
