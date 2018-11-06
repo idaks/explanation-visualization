@@ -1,6 +1,5 @@
 ### Running ./prime-or-composite.py 23 ###
 
-[ 23 = 2 * 11 + 1 ]
   1 oo
   2 oo
   3 oo
@@ -13,8 +12,8 @@
  10 oo
  11 oo
     *
+[ 23 = 11 * _2_ + 1 ]
 
-[ 23 = 3 * 7 + 2 ]
   1 ooo
   2 ooo
   3 ooo
@@ -23,13 +22,14 @@
   6 ooo
   7 ooo
     **
+[ 23 = 7 * _3_ + 2 ]
 
-[ 23 = 4 * 5 + 3 ]
   1 oooo
   2 oooo
   3 oooo
   4 oooo
   5 oooo
     ***
+[ 23 = 5 * _4_ + 3 ]
 
-PROVED 23 is PRIME!
+PROVED 23 is PRIME using 3 trial divisons

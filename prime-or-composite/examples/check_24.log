@@ -1,6 +1,5 @@
 ### Running ./prime-or-composite.py 24 ###
 
-[ 24 = 2 * 12 + 0 ]
   1 oo
   2 oo
   3 oo
@@ -13,9 +12,8 @@
  10 oo
  11 oo
  12 oo
-PROVED composite: 24 = 2 * 12
+[ 24 = 2 * _12_ ] PROVED COMPOSITE
 
-[ 24 = 3 * 8 + 0 ]
   1 ooo
   2 ooo
   3 ooo
@@ -24,15 +22,14 @@ PROVED composite: 24 = 2 * 12
   6 ooo
   7 ooo
   8 ooo
-PROVED composite: 24 = 3 * 8
+[ 24 = 3 * _8_ ] PROVED COMPOSITE
 
-[ 24 = 4 * 6 + 0 ]
   1 oooo
   2 oooo
   3 oooo
   4 oooo
   5 oooo
   6 oooo
-PROVED composite: 24 = 4 * 6
+[ 24 = 4 * _6_ ] PROVED COMPOSITE
 
-Sorry 24 is composite ..
+PROVED 24 is COMPOSITE 3 times!

@@ -1,6 +1,5 @@
 ### Running ./prime-or-composite.py 31 ###
 
-[ 31 = 2 * 15 + 1 ]
   1 oo
   2 oo
   3 oo
@@ -17,8 +16,8 @@
  14 oo
  15 oo
     *
+[ 31 = 15 * _2_ + 1 ]
 
-[ 31 = 3 * 10 + 1 ]
   1 ooo
   2 ooo
   3 ooo
@@ -30,8 +29,8 @@
   9 ooo
  10 ooo
     *
+[ 31 = 10 * _3_ + 1 ]
 
-[ 31 = 4 * 7 + 3 ]
   1 oooo
   2 oooo
   3 oooo
@@ -40,8 +39,8 @@
   6 oooo
   7 oooo
     ***
+[ 31 = 7 * _4_ + 3 ]
 
-[ 31 = 5 * 6 + 1 ]
   1 ooooo
   2 ooooo
   3 ooooo
@@ -49,5 +48,6 @@
   5 ooooo
   6 ooooo
     *
+[ 31 = 6 * _5_ + 1 ]
 
-PROVED 31 is PRIME!
+PROVED 31 is PRIME using 4 trial divisons

@@ -1,6 +1,5 @@
 ### Running ./prime-or-composite.py 37 ###
 
-[ 37 = 2 * 18 + 1 ]
   1 oo
   2 oo
   3 oo
@@ -20,8 +19,8 @@
  17 oo
  18 oo
     *
+[ 37 = 18 * _2_ + 1 ]
 
-[ 37 = 3 * 12 + 1 ]
   1 ooo
   2 ooo
   3 ooo
@@ -35,8 +34,8 @@
  11 ooo
  12 ooo
     *
+[ 37 = 12 * _3_ + 1 ]
 
-[ 37 = 4 * 9 + 1 ]
   1 oooo
   2 oooo
   3 oooo
@@ -47,8 +46,8 @@
   8 oooo
   9 oooo
     *
+[ 37 = 9 * _4_ + 1 ]
 
-[ 37 = 5 * 7 + 2 ]
   1 ooooo
   2 ooooo
   3 ooooo
@@ -57,8 +56,8 @@
   6 ooooo
   7 ooooo
     **
+[ 37 = 7 * _5_ + 2 ]
 
-[ 37 = 6 * 6 + 1 ]
   1 oooooo
   2 oooooo
   3 oooooo
@@ -66,5 +65,6 @@
   5 oooooo
   6 oooooo
     *
+[ 37 = 6 * _6_ + 1 ]
 
-PROVED 37 is PRIME!
+PROVED 37 is PRIME using 5 trial divisons

@@ -1,6 +1,5 @@
 ### Running ./prime-or-composite.py 30 ###
 
-[ 30 = 2 * 15 + 0 ]
   1 oo
   2 oo
   3 oo
@@ -16,9 +15,8 @@
  13 oo
  14 oo
  15 oo
-PROVED composite: 30 = 2 * 15
+[ 30 = 2 * _15_ ] PROVED COMPOSITE
 
-[ 30 = 3 * 10 + 0 ]
   1 ooo
   2 ooo
   3 ooo
@@ -29,9 +27,8 @@ PROVED composite: 30 = 2 * 15
   8 ooo
   9 ooo
  10 ooo
-PROVED composite: 30 = 3 * 10
+[ 30 = 3 * _10_ ] PROVED COMPOSITE
 
-[ 30 = 4 * 7 + 2 ]
   1 oooo
   2 oooo
   3 oooo
@@ -40,14 +37,14 @@ PROVED composite: 30 = 3 * 10
   6 oooo
   7 oooo
     **
+[ 30 = 7 * _4_ + 2 ]
 
-[ 30 = 5 * 6 + 0 ]
   1 ooooo
   2 ooooo
   3 ooooo
   4 ooooo
   5 ooooo
   6 ooooo
-PROVED composite: 30 = 5 * 6
+[ 30 = 5 * _6_ ] PROVED COMPOSITE
 
-Sorry 30 is composite ..
+PROVED 30 is COMPOSITE 3 times!

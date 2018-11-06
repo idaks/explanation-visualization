@@ -1,6 +1,5 @@
 ### Running ./prime-or-composite.py 21 ###
 
-[ 21 = 2 * 10 + 1 ]
   1 oo
   2 oo
   3 oo
@@ -12,8 +11,8 @@
   9 oo
  10 oo
     *
+[ 21 = 10 * _2_ + 1 ]
 
-[ 21 = 3 * 7 + 0 ]
   1 ooo
   2 ooo
   3 ooo
@@ -21,14 +20,14 @@
   5 ooo
   6 ooo
   7 ooo
-PROVED composite: 21 = 3 * 7
+[ 21 = 3 * _7_ ] PROVED COMPOSITE
 
-[ 21 = 4 * 5 + 1 ]
   1 oooo
   2 oooo
   3 oooo
   4 oooo
   5 oooo
     *
+[ 21 = 5 * _4_ + 1 ]
 
-Sorry 21 is composite ..
+PROVED 21 is COMPOSITE 1 times!

@@ -1,9 +1,9 @@
 ### Running ./prime-or-composite.py 7 ###
 
-[ 7 = 2 * 3 + 1 ]
   1 oo
   2 oo
   3 oo
     *
+[ 7 = 3 * _2_ + 1 ]
 
-PROVED 7 is PRIME!
+PROVED 7 is PRIME using 1 trial divisons

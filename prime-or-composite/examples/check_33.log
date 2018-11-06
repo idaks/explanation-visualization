@@ -1,6 +1,5 @@
 ### Running ./prime-or-composite.py 33 ###
 
-[ 33 = 2 * 16 + 1 ]
   1 oo
   2 oo
   3 oo
@@ -18,8 +17,8 @@
  15 oo
  16 oo
     *
+[ 33 = 16 * _2_ + 1 ]
 
-[ 33 = 3 * 11 + 0 ]
   1 ooo
   2 ooo
   3 ooo
@@ -31,9 +30,8 @@
   9 ooo
  10 ooo
  11 ooo
-PROVED composite: 33 = 3 * 11
+[ 33 = 3 * _11_ ] PROVED COMPOSITE
 
-[ 33 = 4 * 8 + 1 ]
   1 oooo
   2 oooo
   3 oooo
@@ -43,8 +41,8 @@ PROVED composite: 33 = 3 * 11
   7 oooo
   8 oooo
     *
+[ 33 = 8 * _4_ + 1 ]
 
-[ 33 = 5 * 6 + 3 ]
   1 ooooo
   2 ooooo
   3 ooooo
@@ -52,5 +50,6 @@ PROVED composite: 33 = 3 * 11
   5 ooooo
   6 ooooo
     ***
+[ 33 = 6 * _5_ + 3 ]
 
-Sorry 33 is composite ..
+PROVED 33 is COMPOSITE 1 times!

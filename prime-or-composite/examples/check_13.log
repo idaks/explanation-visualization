@@ -1,6 +1,5 @@
 ### Running ./prime-or-composite.py 13 ###
 
-[ 13 = 2 * 6 + 1 ]
   1 oo
   2 oo
   3 oo
@@ -8,12 +7,13 @@
   5 oo
   6 oo
     *
+[ 13 = 6 * _2_ + 1 ]
 
-[ 13 = 3 * 4 + 1 ]
   1 ooo
   2 ooo
   3 ooo
   4 ooo
     *
+[ 13 = 4 * _3_ + 1 ]
 
-PROVED 13 is PRIME!
+PROVED 13 is PRIME using 2 trial divisons

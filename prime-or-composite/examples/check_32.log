@@ -1,6 +1,5 @@
 ### Running ./prime-or-composite.py 32 ###
 
-[ 32 = 2 * 16 + 0 ]
   1 oo
   2 oo
   3 oo
@@ -17,9 +16,8 @@
  14 oo
  15 oo
  16 oo
-PROVED composite: 32 = 2 * 16
+[ 32 = 2 * _16_ ] PROVED COMPOSITE
 
-[ 32 = 3 * 10 + 2 ]
   1 ooo
   2 ooo
   3 ooo
@@ -31,8 +29,8 @@ PROVED composite: 32 = 2 * 16
   9 ooo
  10 ooo
     **
+[ 32 = 10 * _3_ + 2 ]
 
-[ 32 = 4 * 8 + 0 ]
   1 oooo
   2 oooo
   3 oooo
@@ -41,9 +39,8 @@ PROVED composite: 32 = 2 * 16
   6 oooo
   7 oooo
   8 oooo
-PROVED composite: 32 = 4 * 8
+[ 32 = 4 * _8_ ] PROVED COMPOSITE
 
-[ 32 = 5 * 6 + 2 ]
   1 ooooo
   2 ooooo
   3 ooooo
@@ -51,5 +48,6 @@ PROVED composite: 32 = 4 * 8
   5 ooooo
   6 ooooo
     **
+[ 32 = 6 * _5_ + 2 ]
 
-Sorry 32 is composite ..
+PROVED 32 is COMPOSITE 2 times!
