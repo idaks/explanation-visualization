@@ -1,3 +1,5 @@
 ### Running ./prime-or-composite.py 2 ###
-
-Using 0 trial divisons, PROVED that 2 is PRIME!
+Traceback (most recent call last):
+  File "./prime-or-composite.py", line 8, in <module>
+    assert N > 2
+AssertionError

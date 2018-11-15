@@ -1,16 +1,28 @@
 ### Running ./prime-or-composite.py 10 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-  5 ..
-[ 10 = 5 * _2_ ] PROVED COMPOSITE
+.. arranging 10 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+  5 o o 
+==> 10 = 2 cols * 5 rows; PROVED 10 is COMPOSITE -----------------------------
 
-  1 ...
-  2 ...
-  3 ...
-    *
-[ 10 = 3 * _3_ + 1 ]
+.. arranging 10 in 3 columns:
+  1 o o o 
+  2 o o o 
+  3 o o o 
+    * 
+==> 10 = 3 cols x 3 rows + 1 remaining
 
-Using 2 trial divisons, PROVED that 10 is COMPOSITE, 1 times over.
+## We are DONE! ##########################################################
+   ... since 4 * 4 > 10
+   ... and we have a WIDE rectangle with 4 cols > 2 rows:
+  1 o o o o 
+  2 o o o o 
+    * * 
+  [ 10 = 4 cols x 2 rows + 2 remaining ]
+
+##########################################################################
+Using 2 trial divisors, proved 1 times over that 10 is COMPOSITE!
+Q.E.D.

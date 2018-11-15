@@ -1,3 +1,12 @@
 ### Running ./prime-or-composite.py 3 ###
 
-Using 0 trial divisons, PROVED that 3 is PRIME!
+## We are DONE! ##########################################################
+   ... since 2 * 2 > 3
+   ... and we have a WIDE rectangle with 2 cols > 1 rows:
+  1 o o 
+    * 
+  [ 3 = 2 cols x 1 rows + 1 remaining ]
+
+##########################################################################
+Using 0 trial divisors, PROVED ONCE ==> 3 is PRIME!
+Q.E.D.

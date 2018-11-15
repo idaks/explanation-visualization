@@ -1,17 +1,30 @@
 ### Running ./prime-or-composite.py 12 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-  5 ..
-  6 ..
-[ 12 = 6 * _2_ ] PROVED COMPOSITE
+.. arranging 12 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+  5 o o 
+  6 o o 
+==> 12 = 2 cols * 6 rows; PROVED 12 is COMPOSITE -----------------------------
 
-  1 ...
-  2 ...
-  3 ...
-  4 ...
-[ 12 = 4 * _3_ ] PROVED COMPOSITE
+.. arranging 12 in 3 columns:
+  1 o o o 
+  2 o o o 
+  3 o o o 
+  4 o o o 
+==> 12 = 3 cols * 4 rows; PROVED 12 is COMPOSITE -----------------------------
 
-Using 2 trial divisons, PROVED that 12 is COMPOSITE, 2 times over.
+## We are DONE! ##########################################################
+   ... since 4 * 4 > 12
+   ... and we have a WIDE rectangle with 4 cols > 3 rows:
+  1 o o o o 
+  2 o o o o 
+  3 o o o o 
+    
+  [ 12 = 4 cols x 3 rows + 0 remaining ]
+
+##########################################################################
+Using 2 trial divisors, proved 2 times over that 12 is COMPOSITE!
+Q.E.D.

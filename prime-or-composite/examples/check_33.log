@@ -1,55 +1,72 @@
 ### Running ./prime-or-composite.py 33 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-  5 ..
-  6 ..
-  7 ..
-  8 ..
-  9 ..
- 10 ..
- 11 ..
- 12 ..
- 13 ..
- 14 ..
- 15 ..
- 16 ..
-    *
-[ 33 = 16 * _2_ + 1 ]
+.. arranging 33 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+  5 o o 
+  6 o o 
+  7 o o 
+  8 o o 
+  9 o o 
+ 10 o o 
+ 11 o o 
+ 12 o o 
+ 13 o o 
+ 14 o o 
+ 15 o o 
+ 16 o o 
+    * 
+==> 33 = 2 cols x 16 rows + 1 remaining
 
-  1 ...
-  2 ...
-  3 ...
-  4 ...
-  5 ...
-  6 ...
-  7 ...
-  8 ...
-  9 ...
- 10 ...
- 11 ...
-[ 33 = 11 * _3_ ] PROVED COMPOSITE
+.. arranging 33 in 3 columns:
+  1 o o o 
+  2 o o o 
+  3 o o o 
+  4 o o o 
+  5 o o o 
+  6 o o o 
+  7 o o o 
+  8 o o o 
+  9 o o o 
+ 10 o o o 
+ 11 o o o 
+==> 33 = 3 cols * 11 rows; PROVED 33 is COMPOSITE -----------------------------
 
-  1 ....
-  2 ....
-  3 ....
-  4 ....
-  5 ....
-  6 ....
-  7 ....
-  8 ....
-    *
-[ 33 = 8 * _4_ + 1 ]
+.. arranging 33 in 4 columns:
+  1 o o o o 
+  2 o o o o 
+  3 o o o o 
+  4 o o o o 
+  5 o o o o 
+  6 o o o o 
+  7 o o o o 
+  8 o o o o 
+    * 
+==> 33 = 4 cols x 8 rows + 1 remaining
 
-  1 .....
-  2 .....
-  3 .....
-  4 .....
-  5 .....
-  6 .....
-    ***
-[ 33 = 6 * _5_ + 3 ]
+.. arranging 33 in 5 columns:
+  1 o o o o o 
+  2 o o o o o 
+  3 o o o o o 
+  4 o o o o o 
+  5 o o o o o 
+  6 o o o o o 
+    * * * 
+==> 33 = 5 cols x 6 rows + 3 remaining
 
-Using 4 trial divisons, PROVED that 33 is COMPOSITE, 1 times over.
+## We are DONE! ##########################################################
+   ... since 6 * 6 > 33
+   ... and we have a WIDE rectangle with 6 cols > 5 rows:
+  1 o o o o o o 
+  2 o o o o o o 
+  3 o o o o o o 
+  4 o o o o o o 
+  5 o o o o o o 
+    * * * 
+  [ 33 = 6 cols x 5 rows + 3 remaining ]
+
+##########################################################################
+Using 4 trial divisors, proved 1 times over that 33 is COMPOSITE!
+Q.E.D.

@@ -1,29 +1,43 @@
 ### Running ./prime-or-composite.py 18 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-  5 ..
-  6 ..
-  7 ..
-  8 ..
-  9 ..
-[ 18 = 9 * _2_ ] PROVED COMPOSITE
+.. arranging 18 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+  5 o o 
+  6 o o 
+  7 o o 
+  8 o o 
+  9 o o 
+==> 18 = 2 cols * 9 rows; PROVED 18 is COMPOSITE -----------------------------
 
-  1 ...
-  2 ...
-  3 ...
-  4 ...
-  5 ...
-  6 ...
-[ 18 = 6 * _3_ ] PROVED COMPOSITE
+.. arranging 18 in 3 columns:
+  1 o o o 
+  2 o o o 
+  3 o o o 
+  4 o o o 
+  5 o o o 
+  6 o o o 
+==> 18 = 3 cols * 6 rows; PROVED 18 is COMPOSITE -----------------------------
 
-  1 ....
-  2 ....
-  3 ....
-  4 ....
-    **
-[ 18 = 4 * _4_ + 2 ]
+.. arranging 18 in 4 columns:
+  1 o o o o 
+  2 o o o o 
+  3 o o o o 
+  4 o o o o 
+    * * 
+==> 18 = 4 cols x 4 rows + 2 remaining
 
-Using 3 trial divisons, PROVED that 18 is COMPOSITE, 2 times over.
+## We are DONE! ##########################################################
+   ... since 5 * 5 > 18
+   ... and we have a WIDE rectangle with 5 cols > 3 rows:
+  1 o o o o o 
+  2 o o o o o 
+  3 o o o o o 
+    * * * 
+  [ 18 = 5 cols x 3 rows + 3 remaining ]
+
+##########################################################################
+Using 3 trial divisors, proved 2 times over that 18 is COMPOSITE!
+Q.E.D.

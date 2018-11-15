@@ -1,35 +1,50 @@
 ### Running ./prime-or-composite.py 24 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-  5 ..
-  6 ..
-  7 ..
-  8 ..
-  9 ..
- 10 ..
- 11 ..
- 12 ..
-[ 24 = 12 * _2_ ] PROVED COMPOSITE
+.. arranging 24 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+  5 o o 
+  6 o o 
+  7 o o 
+  8 o o 
+  9 o o 
+ 10 o o 
+ 11 o o 
+ 12 o o 
+==> 24 = 2 cols * 12 rows; PROVED 24 is COMPOSITE -----------------------------
 
-  1 ...
-  2 ...
-  3 ...
-  4 ...
-  5 ...
-  6 ...
-  7 ...
-  8 ...
-[ 24 = 8 * _3_ ] PROVED COMPOSITE
+.. arranging 24 in 3 columns:
+  1 o o o 
+  2 o o o 
+  3 o o o 
+  4 o o o 
+  5 o o o 
+  6 o o o 
+  7 o o o 
+  8 o o o 
+==> 24 = 3 cols * 8 rows; PROVED 24 is COMPOSITE -----------------------------
 
-  1 ....
-  2 ....
-  3 ....
-  4 ....
-  5 ....
-  6 ....
-[ 24 = 6 * _4_ ] PROVED COMPOSITE
+.. arranging 24 in 4 columns:
+  1 o o o o 
+  2 o o o o 
+  3 o o o o 
+  4 o o o o 
+  5 o o o o 
+  6 o o o o 
+==> 24 = 4 cols * 6 rows; PROVED 24 is COMPOSITE -----------------------------
 
-Using 3 trial divisons, PROVED that 24 is COMPOSITE, 3 times over.
+## We are DONE! ##########################################################
+   ... since 5 * 5 > 24
+   ... and we have a WIDE rectangle with 5 cols > 4 rows:
+  1 o o o o o 
+  2 o o o o o 
+  3 o o o o o 
+  4 o o o o o 
+    * * * * 
+  [ 24 = 5 cols x 4 rows + 4 remaining ]
+
+##########################################################################
+Using 3 trial divisors, proved 3 times over that 24 is COMPOSITE!
+Q.E.D.

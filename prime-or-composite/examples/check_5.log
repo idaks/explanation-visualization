@@ -1,8 +1,18 @@
 ### Running ./prime-or-composite.py 5 ###
 
-  1 ..
-  2 ..
-    *
-[ 5 = 2 * _2_ + 1 ]
+.. arranging 5 in 2 columns:
+  1 o o 
+  2 o o 
+    * 
+==> 5 = 2 cols x 2 rows + 1 remaining
 
-Using 1 trial divisons, PROVED that 5 is PRIME!
+## We are DONE! ##########################################################
+   ... since 3 * 3 > 5
+   ... and we have a WIDE rectangle with 3 cols > 1 rows:
+  1 o o o 
+    * * 
+  [ 5 = 3 cols x 1 rows + 2 remaining ]
+
+##########################################################################
+Using 1 trial divisors, PROVED ONCE ==> 5 is PRIME!
+Q.E.D.

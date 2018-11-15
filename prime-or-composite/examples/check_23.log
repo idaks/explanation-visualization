@@ -1,35 +1,50 @@
 ### Running ./prime-or-composite.py 23 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-  5 ..
-  6 ..
-  7 ..
-  8 ..
-  9 ..
- 10 ..
- 11 ..
-    *
-[ 23 = 11 * _2_ + 1 ]
+.. arranging 23 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+  5 o o 
+  6 o o 
+  7 o o 
+  8 o o 
+  9 o o 
+ 10 o o 
+ 11 o o 
+    * 
+==> 23 = 2 cols x 11 rows + 1 remaining
 
-  1 ...
-  2 ...
-  3 ...
-  4 ...
-  5 ...
-  6 ...
-  7 ...
-    **
-[ 23 = 7 * _3_ + 2 ]
+.. arranging 23 in 3 columns:
+  1 o o o 
+  2 o o o 
+  3 o o o 
+  4 o o o 
+  5 o o o 
+  6 o o o 
+  7 o o o 
+    * * 
+==> 23 = 3 cols x 7 rows + 2 remaining
 
-  1 ....
-  2 ....
-  3 ....
-  4 ....
-  5 ....
-    ***
-[ 23 = 5 * _4_ + 3 ]
+.. arranging 23 in 4 columns:
+  1 o o o o 
+  2 o o o o 
+  3 o o o o 
+  4 o o o o 
+  5 o o o o 
+    * * * 
+==> 23 = 4 cols x 5 rows + 3 remaining
 
-Using 3 trial divisons, PROVED that 23 is PRIME!
+## We are DONE! ##########################################################
+   ... since 5 * 5 > 23
+   ... and we have a WIDE rectangle with 5 cols > 4 rows:
+  1 o o o o o 
+  2 o o o o o 
+  3 o o o o o 
+  4 o o o o o 
+    * * * 
+  [ 23 = 5 cols x 4 rows + 3 remaining ]
+
+##########################################################################
+Using 3 trial divisors, PROVED ONCE ==> 23 is PRIME!
+Q.E.D.

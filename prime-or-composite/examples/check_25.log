@@ -1,45 +1,61 @@
 ### Running ./prime-or-composite.py 25 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-  5 ..
-  6 ..
-  7 ..
-  8 ..
-  9 ..
- 10 ..
- 11 ..
- 12 ..
-    *
-[ 25 = 12 * _2_ + 1 ]
+.. arranging 25 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+  5 o o 
+  6 o o 
+  7 o o 
+  8 o o 
+  9 o o 
+ 10 o o 
+ 11 o o 
+ 12 o o 
+    * 
+==> 25 = 2 cols x 12 rows + 1 remaining
 
-  1 ...
-  2 ...
-  3 ...
-  4 ...
-  5 ...
-  6 ...
-  7 ...
-  8 ...
-    *
-[ 25 = 8 * _3_ + 1 ]
+.. arranging 25 in 3 columns:
+  1 o o o 
+  2 o o o 
+  3 o o o 
+  4 o o o 
+  5 o o o 
+  6 o o o 
+  7 o o o 
+  8 o o o 
+    * 
+==> 25 = 3 cols x 8 rows + 1 remaining
 
-  1 ....
-  2 ....
-  3 ....
-  4 ....
-  5 ....
-  6 ....
-    *
-[ 25 = 6 * _4_ + 1 ]
+.. arranging 25 in 4 columns:
+  1 o o o o 
+  2 o o o o 
+  3 o o o o 
+  4 o o o o 
+  5 o o o o 
+  6 o o o o 
+    * 
+==> 25 = 4 cols x 6 rows + 1 remaining
 
-  1 .....
-  2 .....
-  3 .....
-  4 .....
-  5 .....
-[ 25 = 5 * _5_ ] PROVED COMPOSITE
+.. arranging 25 in 5 columns:
+  1 o o o o o 
+  2 o o o o o 
+  3 o o o o o 
+  4 o o o o o 
+  5 o o o o o 
+==> 25 = 5 cols * 5 rows; PROVED 25 is COMPOSITE -----------------------------
 
-Using 4 trial divisons, PROVED that 25 is COMPOSITE, 1 times over.
+## We are DONE! ##########################################################
+   ... since 6 * 6 > 25
+   ... and we have a WIDE rectangle with 6 cols > 4 rows:
+  1 o o o o o o 
+  2 o o o o o o 
+  3 o o o o o o 
+  4 o o o o o o 
+    * 
+  [ 25 = 6 cols x 4 rows + 1 remaining ]
+
+##########################################################################
+Using 4 trial divisors, proved 1 times over that 25 is COMPOSITE!
+Q.E.D.

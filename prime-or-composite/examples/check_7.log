@@ -1,9 +1,20 @@
 ### Running ./prime-or-composite.py 7 ###
 
-  1 ..
-  2 ..
-  3 ..
-    *
-[ 7 = 3 * _2_ + 1 ]
+.. arranging 7 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+    * 
+==> 7 = 2 cols x 3 rows + 1 remaining
 
-Using 1 trial divisons, PROVED that 7 is PRIME!
+## We are DONE! ##########################################################
+   ... since 3 * 3 > 7
+   ... and we have a WIDE rectangle with 3 cols > 2 rows:
+  1 o o o 
+  2 o o o 
+    * 
+  [ 7 = 3 cols x 2 rows + 1 remaining ]
+
+##########################################################################
+Using 1 trial divisors, PROVED ONCE ==> 7 is PRIME!
+Q.E.D.

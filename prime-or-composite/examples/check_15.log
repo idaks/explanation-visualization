@@ -1,20 +1,33 @@
 ### Running ./prime-or-composite.py 15 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-  5 ..
-  6 ..
-  7 ..
-    *
-[ 15 = 7 * _2_ + 1 ]
+.. arranging 15 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+  5 o o 
+  6 o o 
+  7 o o 
+    * 
+==> 15 = 2 cols x 7 rows + 1 remaining
 
-  1 ...
-  2 ...
-  3 ...
-  4 ...
-  5 ...
-[ 15 = 5 * _3_ ] PROVED COMPOSITE
+.. arranging 15 in 3 columns:
+  1 o o o 
+  2 o o o 
+  3 o o o 
+  4 o o o 
+  5 o o o 
+==> 15 = 3 cols * 5 rows; PROVED 15 is COMPOSITE -----------------------------
 
-Using 2 trial divisons, PROVED that 15 is COMPOSITE, 1 times over.
+## We are DONE! ##########################################################
+   ... since 4 * 4 > 15
+   ... and we have a WIDE rectangle with 4 cols > 3 rows:
+  1 o o o o 
+  2 o o o o 
+  3 o o o o 
+    * * * 
+  [ 15 = 4 cols x 3 rows + 3 remaining ]
+
+##########################################################################
+Using 2 trial divisors, proved 1 times over that 15 is COMPOSITE!
+Q.E.D.

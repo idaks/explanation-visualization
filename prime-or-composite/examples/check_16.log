@@ -1,27 +1,41 @@
 ### Running ./prime-or-composite.py 16 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-  5 ..
-  6 ..
-  7 ..
-  8 ..
-[ 16 = 8 * _2_ ] PROVED COMPOSITE
+.. arranging 16 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+  5 o o 
+  6 o o 
+  7 o o 
+  8 o o 
+==> 16 = 2 cols * 8 rows; PROVED 16 is COMPOSITE -----------------------------
 
-  1 ...
-  2 ...
-  3 ...
-  4 ...
-  5 ...
-    *
-[ 16 = 5 * _3_ + 1 ]
+.. arranging 16 in 3 columns:
+  1 o o o 
+  2 o o o 
+  3 o o o 
+  4 o o o 
+  5 o o o 
+    * 
+==> 16 = 3 cols x 5 rows + 1 remaining
 
-  1 ....
-  2 ....
-  3 ....
-  4 ....
-[ 16 = 4 * _4_ ] PROVED COMPOSITE
+.. arranging 16 in 4 columns:
+  1 o o o o 
+  2 o o o o 
+  3 o o o o 
+  4 o o o o 
+==> 16 = 4 cols * 4 rows; PROVED 16 is COMPOSITE -----------------------------
 
-Using 3 trial divisons, PROVED that 16 is COMPOSITE, 2 times over.
+## We are DONE! ##########################################################
+   ... since 5 * 5 > 16
+   ... and we have a WIDE rectangle with 5 cols > 3 rows:
+  1 o o o o o 
+  2 o o o o o 
+  3 o o o o o 
+    * 
+  [ 16 = 5 cols x 3 rows + 1 remaining ]
+
+##########################################################################
+Using 3 trial divisors, proved 2 times over that 16 is COMPOSITE!
+Q.E.D.

@@ -1,9 +1,20 @@
 ### Running ./prime-or-composite.py 8 ###
 
-  1 ..
-  2 ..
-  3 ..
-  4 ..
-[ 8 = 4 * _2_ ] PROVED COMPOSITE
+.. arranging 8 in 2 columns:
+  1 o o 
+  2 o o 
+  3 o o 
+  4 o o 
+==> 8 = 2 cols * 4 rows; PROVED 8 is COMPOSITE -----------------------------
 
-Using 1 trial divisons, PROVED that 8 is COMPOSITE, 1 times over.
+## We are DONE! ##########################################################
+   ... since 3 * 3 > 8
+   ... and we have a WIDE rectangle with 3 cols > 2 rows:
+  1 o o o 
+  2 o o o 
+    * * 
+  [ 8 = 3 cols x 2 rows + 2 remaining ]
+
+##########################################################################
+Using 1 trial divisors, proved 1 times over that 8 is COMPOSITE!
+Q.E.D.
