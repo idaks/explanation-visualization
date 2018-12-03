@@ -1,4 +1,4 @@
-digraph Workflow {
+digraph pratt_certificate {
 rankdir=TB
 
 node[shape=box style=rounded fontname=Helvetica]
