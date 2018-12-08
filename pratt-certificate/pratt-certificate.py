@@ -32,7 +32,7 @@ def lucas(n):
     if n == 2:
         print("\nLEAF (PRIME : WITNESS) = (2:1)")
         return 
-    print("\nTESTING {0}..".format(n))
+    print("\n--- TESTING {0} ".format(n) + 70*"-")
     for a in range(2,n):
         if pow(a, n-1, n) != 1:
             print("{0} is COMPOSITE because {1}^{2} != 1 (mod {0})".format(n,a,n-1))
@@ -58,10 +58,11 @@ def lucas(n):
     return
 
 if __name__ == '__main__':
+
     for n in range(2, 100+1): lucas(n)
     
-    # lucas(7919)
-    # lucas(229)
+    #lucas(7919)
+    #lucas(229)
     lucas(474397531)
     lucas(251)
     lucas(5)
